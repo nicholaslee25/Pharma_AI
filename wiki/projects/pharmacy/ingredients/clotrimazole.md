@@ -1,60 +1,66 @@
-# Clotrimazole (also covering Miconazole)
+# Clotrimazole
 
 **Type:** Active Ingredient
 **Drug Class:** Topical/vaginal azole antifungal
-**Evidence Grade:** Strong — effective for tinea pedis and uncomplicated vulvovaginal candidiasis
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** High for tinea infections (athlete's foot, jock itch, ringworm) and uncomplicated vulvovaginal candidiasis at labeled doses/durations — but explicitly NOT effective for onychomycosis (nail fungal infection) or scalp infections, a real and important limitation
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/clotrimazole/statpearls-clotrimazole.md, raw/primary-sources/clotrimazole/dailymed-lotrimin.md
 
 ---
 
 ## Indication
-Tinea pedis/corporis/cruris (athlete's foot/ringworm/jock itch), superficial candidiasis, and vulvovaginal yeast infection.
+OTC (1% cream): athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis) — "cures most" cases per the label, plus symptomatic relief (itching, burning, cracking, scaling). Broader FDA-approved uses across the clotrimazole molecule generally: oral candidiasis (thrush), vulvovaginal candidiasis, tinea versicolor, intertrigo, erythrasma, and (combined with betamethasone) inflammatory tinea. **Explicitly NOT effective for onychomycosis (nail fungus) or scalp infections** — the OTC label states this plainly, an important limit on consumer expectations.
 
 ## Mechanism
-Inhibits fungal ergosterol synthesis.
+Imidazole antifungal — inhibits ergosterol biosynthesis (blocking 14-alpha-lanosterol demethylation) in a concentration-dependent manner, disrupting fungal cell membrane integrity and inhibiting growth. Also has some unrelated effects on calcium/potassium channel signaling. Limited activity against gram-positive bacteria and Trichomonas at very high concentrations.
 
-## Evidence Summary
-Strong randomized evidence for superficial dermatophyte infections (dossier). The continuation source confirms topical antifungals are effective for tinea pedis, though terbinafine tends to have a particularly strong evidence base by comparison (see terbinafine.md) — a direct comparative trial found terbinafine 1 week ~83% effective vs. clotrimazole 4 weeks ~82% (study-defined outcome), meaning terbinafine's main practical advantage is often shorter treatment duration rather than higher cure rate. For vaginal use: clotrimazole and miconazole treat vulvovaginal candidiasis and are effective in uncomplicated yeast infection. Recurrent or atypical symptoms need diagnosis, since bacterial vaginosis, trichomoniasis, dermatitis, and other conditions can mimic candidiasis.
+## Dosing (per Lotrimin FDA OTC label and StatPearls)
 
-### Studies
+| Indication | Regimen | Duration |
+|---|---|---|
+| Athlete's foot (OTC) | Apply thin layer twice daily, attention to toe spaces | 4 weeks |
+| Ringworm (OTC) | Apply thin layer twice daily | 4 weeks |
+| Jock itch (OTC) | Apply thin layer twice daily | 2 weeks |
+| Tinea versicolor (StatPearls) | 1% cream/solution twice daily | 2 weeks |
+| Cutaneous candidiasis (StatPearls) | Cream/solution or ointment twice daily | 2 weeks |
+| Vulvovaginal candidiasis, adult (StatPearls) | 1% cream (50mg) daily, or 2% cream (100mg) daily | 7 days (1%) or 3 days (2%); complicated infection 7–14 days |
+| Oropharyngeal candidiasis (StatPearls) | 10mg troche dissolved in mouth 5x/day | 7–14 days |
 
-**Terbinafine vs. clotrimazole comparative trial**
-- Design: Comparative trial (tinea pedis)
-- Result: Terbinafine 1 week ~83% effective vs. clotrimazole 4 weeks ~82% effective (study-defined outcome)
-- Interpretation: Similar efficacy; terbinafine's main practical advantage is the shorter treatment course, not superior cure rate.
-- Note: No PMID/DOI given in source material for this specific trial.
+**Seek medical care if no improvement:** within 2 weeks (jock itch) or 4 weeks (athlete's foot/ringworm) — matching the label's own directed treatment durations, i.e., "if it's not working by the time the course should be finishing, see a doctor" rather than continuing indefinitely.
 
-## Pros
-- Strong randomized evidence for superficial dermatophyte infections (tinea)
-- Effective in uncomplicated vulvovaginal candidiasis (vaginal formulation)
-- Similar cure rate to terbinafine for tinea pedis, just over a longer (4-week) course
+## Pharmacokinetics
+Topical application has negligible systemic absorption through intact skin. Oral troches produce minimal systemic bioavailability, with inhibitory saliva levels persisting ~3h after dissolving. Intravaginal use: ~3–10% of dose absorbed, with fungicidal vaginal concentrations persisting up to 3 days post-application.
 
-## Cons / Safety Limitations
-- Local irritation/contact dermatitis
-- Treatment success depends on adequate duration and correct diagnosis
-- Recurrent or atypical vaginal symptoms need diagnosis — bacterial vaginosis, trichomoniasis, and dermatitis can mimic candidiasis and would not respond to an antifungal
+## Contraindications
+**Topical clotrimazole is not effective for onychomycosis** (functionally a contraindication for that specific use, even though not a safety contraindication). Azole hypersensitivity. Ocular use contraindicated — requires immediate flushing if accidental contact occurs. Not suitable for treating systemic fungal infections.
 
-## Contraindications / Interactions
-- Not reported in source material
+## Key Safety Data
+- **Oral formulation:** itching, nausea, vomiting; **>10% of patients receiving oral clotrimazole may show abnormal liver function tests** — a genuinely notable incidence, relevant to the oral troche form specifically, not the topical OTC cream
+- **Vaginal formulation:** <10% experience vulvar/vaginal burning; also rash, hives, blisters, irritation
+- **Topical formulation:** local irritation, rash, hives, burning, itching, peeling, redness, swelling — generally mild given minimal systemic absorption
+
+## Drug Interactions
+**Tacrolimus:** clotrimazole may significantly raise tacrolimus levels — caution required (most relevant to oral/systemic exposure, though topical absorption is minimal). **Progesterone:** vaginal antifungals may reduce progesterone effectiveness — concurrent use not recommended.
 
 ## Special Population Flags
-- Not reported in source material
+- **Pregnancy:** only topical formulations recommended (not oral); not known to cross the placenta; former FDA Class C; considered safe in 2nd/3rd trimester, use only if indicated in 1st trimester; CDC recommends 7 days of topical azole therapy for pregnant women with vulvovaginal candidiasis specifically
+- **Breastfeeding:** topical use poses minimal risk given poor absorption; do not apply topically to the breasts; oral troches only when needed
+- **Pediatric:** OTC label restricts unsupervised use to ≥2 years; StatPearls gives specific oropharyngeal dosing for ages 3–17
+- **Hepatic impairment:** no specific dose adjustment given, but periodic LFT monitoring recommended (relevant to oral use)
 
-## Formulation Caveat
-Treatment success depends on adequate duration and diagnosis (dossier). Vaginal clotrimazole/miconazole formulations are a distinct use case from topical skin (tinea) formulations — both are covered on this page since the continuation source discusses them together, but the specific product/dose/duration differs by indication.
+## Overdose / Toxicity
+Not addressed with a dedicated overdose section in the sources reviewed — topical use carries minimal systemic absorption and correspondingly low overdose risk; OTC label directs contacting Poison Control if swallowed as a standard precaution.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for Jock Itch/Antifungal Products or Yeast Infection Prevention and Relief is given in either source document — this section is intentionally omitted rather than inventing one.
+Lotrimin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Jock Itch Antifungal Products 49%, Toe/Foot Antifungal Products 39%. These are pharmacist recommendation shares, not response/cure rates. Note the Lotrimin brand also markets terbinafine-based products under the same brand name in the real-world market (e.g., "Lotrimin Ultra") — not all Lotrimin products are clotrimazole specifically; see [[terbinafine]] for that separate active ingredient.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Lotrimin (clotrimazole, per real-world market identity) is filed under Toe/Foot Antifungal Products / Jock Itch/Antifungal Products in this database. Monistat, Monistat Complete Care, Vagistat (miconazole/tioconazole-type vaginal antifungals, per real-world market identity) are filed under Yeast Infection Prevention and Relief. None of these specific brand-to-molecule pairings is individually confirmed in the two source documents beyond the general clotrimazole/miconazole class discussion above — formulation not verified against label.
+Lotrimin — confirmed clotrimazole 1% per the specific DailyMed label pulled above (the base "Lotrimin" product line), though the broader Lotrimin brand family includes other active ingredients (e.g., terbinafine in "Lotrimin Ultra") not covered by this specific label — formulation not verified per SKU beyond the one label pulled.
 
 ## Related
 - [[pharmacy overview]]
 - [[terbinafine]]
 - [[boric-acid]]
-- [[source — otc guide master dossier volume 2]]
-- [[source — otc evidence corpus chatgpt continuation]]
