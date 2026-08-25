@@ -1,49 +1,70 @@
 # Bisacodyl
 
 **Type:** Active Ingredient
-**Drug Class:** Stimulant laxative
-**Evidence Grade:** Moderate — controlled evidence supports short-term bowel-movement induction
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Stimulant laxative (diphenylmethane derivative)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate-to-high — FDA-approved first-line agent for occasional constipation and endorsed by 2023 ACG/AGA guidelines for chronic idiopathic constipation short-term management, though not recommended beyond 4 weeks of use
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/bisacodyl/statpearls-bisacodyl.md, raw/primary-sources/bisacodyl/dailymed-dulcolax.md
 
 ---
 
 ## Indication
-Short-term constipation / bowel evacuation.
+FDA-approved: first-line for transient/occasional constipation; short-term chronic idiopathic constipation management (2023 ACG/AGA guideline-endorsed); bowel preparation before colonoscopy/sigmoidoscopy/surgery. Off-label: opioid-induced constipation, post-operative Hirschsprung disease, constipation in neuropathy patients.
 
 ## Mechanism
-Stimulates intestinal motility/secretion.
+Enteric-coated to survive the stomach/small intestine intact; colonic bacterial enzymes convert it to the active metabolite BHPM, which stimulates parasympathetic nerve endings in the colonic mucosa and reduces water absorption while enhancing secretion. Also impairs fluid absorption by activating adenylate cyclase in small intestinal enterocytes, raising cyclic AMP and promoting chloride/bicarbonate secretion while inhibiting sodium/chloride reabsorption.
 
-## Evidence Summary
-Controlled evidence supports short-term bowel-movement induction (dossier). The continuation source adds: RCTs show increased bowel movements/improved constipation vs. placebo. Adverse effects include cramping, diarrhea, and urgency. Importantly, the source states the popular claim that "stimulant laxatives cause lazy bowel with routine use" isn't well supported by the evidence — the bigger real concern is inappropriate chronic self-treatment masking an undiagnosed cause of persistent constipation, not a "lazy bowel" mechanism per se.
+## Dosing
 
-## Pros
-- Controlled RCT evidence for increased bowel movements/improved constipation vs. placebo
+| Route/population | Dose | Onset |
+|---|---|---|
+| Oral, adults (standard) | 5–10mg at bedtime | 6–12h |
+| Oral, complete bowel evacuation regimen | 10–20mg, then 10mg suppository next morning | — |
+| Rectal, adults | 10mg enema/suppository in the morning | 15–60min |
+| Pediatric 3–10y | 5mg orally or rectally, single nightly dose | — |
+| Pediatric ≥10y | Up to 10mg daily, single nightly dose | — |
 
-## Cons / Safety Limitations
-- Cramping, diarrhea, urgency
-- Inappropriate chronic self-treatment can mask an underlying disease causing the constipation
+Dulcolax FDA OTC label: adults/children ≥12y, 1–3 tablets (5–15mg) daily; children 6–11y, 1 tablet daily. **Critical administration note: do not chew/crush tablets** (destroys the enteric coating meant to delay release until the colon) and **avoid taking within 1 hour of antacids or milk** (can dissolve the coating prematurely, causing stomach/duodenal irritation instead of the intended colon-only action).
 
-## Contraindications / Interactions
-- Not reported in source material
+## Pharmacokinetics
+Minimal GI absorption — local colonic action is the primary mechanism, not systemic exposure. Vd 181L (single dose) to 289L (steady state). Deacetylation in the colon produces the active metabolite, followed by glucuronidation. Predominantly fecal elimination; 13–17% excreted renally as glucuronide metabolite.
+
+## Contraindications
+Acute GI diseases (appendicitis, diarrhea); ileus or suspected bowel obstruction; bowel perforation, colitis, toxic megacolon; severe dehydration; electrolyte imbalances (hypokalemia, hyponatremia, metabolic alkalosis/acidosis); hypersensitivity to bisacodyl. Rectal use specifically: distal colon inflammation/ulcers, anal fissures.
+
+## Key Safety Data
+- **Most common (>5%):** diarrhea, abdominal pain (primarily upper abdomen), headache
+- Other: abdominal cramping/discomfort, muscle weakness, nausea, vomiting, anorexia, rectal irritation (suppository), hypokalemia/electrolyte imbalances, colonic structural changes with chronic use
+- **Notable finding:** 45% of patients using bisacodyl or other laxatives more than 3x weekly for ≥1 year had subsequent radiographic changes of colonic redundancy and dilation
+- Long-term use may cause colonic ischemia (mechanism unclear)
+- StatPearls itself frames the drug as carrying a "potential carcinogenic risk" concern with long-term use beyond 4 weeks — presented here as the source's own stated concern, not an independently established human-carcinogen finding, and consistent with the similar in-vitro-only neoplastic signal noted for senna
+
+## Drug Interactions
+- **Digoxin:** bisacodyl interferes with absorption, reducing serum digoxin concentration
+- **Antacids/H2RAs:** can cause premature enteric-coating dissolution if taken within 1 hour — risks gastric/duodenal irritation and undermines the colon-targeted mechanism
+- **Sodium sulfate:** concurrent use increases ischemic colitis risk
 
 ## Special Population Flags
-- Not reported in source material
+- **Hepatic impairment:** no dose adjustment needed; not associated with liver injury
+- **Renal impairment:** may help reduce elevated potassium in advanced CKD, but requires careful electrolyte monitoring
+- **Pregnancy:** minimal systemic absorption supports general safety; prolonged use raises theoretical electrolyte-imbalance concerns; dietary modification/fiber first-line
+- **Breastfeeding:** safe without special precautions — active metabolite undetectable in breast milk
+- **Elderly:** should only be used after attempted fiber and osmotic laxative use, given long-term adverse-effect potential
 
-## Formulation Caveat
-Use product-specific dosing and duration (dossier's explicit caveat).
+## Overdose / Toxicity
+Excessive diarrhea leading to electrolyte disturbances (hypokalemia, hypocalcemia, metabolic acidosis/alkalosis), vomiting, muscle weakness. Short-term use (3 days) at recommended doses does NOT affect electrolytes. Management: supportive care, hydration, electrolyte correction. **Not recommended beyond 4 weeks** given long-term colonic effects.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for the Laxatives, Stimulant category is given in either source document — this section is intentionally omitted rather than inventing one.
+Dulcolax recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Stimulant Laxatives category 42%, Non-Fiber Laxatives category 27%, Stool Softeners category 17% (likely reflecting a combination-formulation Dulcolax SKU, since bisacodyl itself is a stimulant, not a stool softener — not independently verified per SKU here). These are pharmacist recommendation shares, not response/cure rates.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific bisacodyl brand or percentage is given in either source document. This database's drugs/ folder contains a bisacodyl-plausible brand (Dulcolax, per real-world market identity) filed under Laxatives, Stimulant, but since it is not individually discussed with source data, no ingredient-evidence link is asserted for it on this page.
+Dulcolax — confirmed bisacodyl 5mg per its own DailyMed label pulled above. Dulcolax's appearance in the Stool Softeners Pharmacy Times category likely reflects a separate combination-line SKU (Dulcolax also markets docusate-based stool softener products under the same brand family) rather than plain bisacodyl acting as a stool softener — not independently confirmed against a specific label in this pass.
 
 ## Related
 - [[pharmacy overview]]
 - [[senna]]
+- [[docusate]]
 - [[peg-3350]]
-- [[source — otc guide master dossier volume 2]]
-- [[source — otc evidence corpus chatgpt continuation]]
