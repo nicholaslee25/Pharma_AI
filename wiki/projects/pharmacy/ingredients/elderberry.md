@@ -1,86 +1,73 @@
 # Elderberry (Sambucus nigra / Sambucol)
 
 **Type:** Active Ingredient
-**Drug Class:** Botanical extract (pharmacologically active herbal extract — explicitly NOT the same evidence category as homeopathic dilutions)
-**Evidence Grade:** Moderate/mixed — real human RCT evidence exists, but results conflict; a single success percentage is not defensible
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Botanical extract, pharmacologically active (dietary supplement — NOT FDA-approved as a drug, and explicitly NOT a homeopathic dilution despite appearing in this database's "Homeopathic ___ Products" categories)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Low-to-moderate and genuinely uncertain — a small (180-participant) 2019 meta-analysis found a large effect, but the more rigorous, GRADE-assessed 2021 systematic review found the evidence for cold/flu benefit uncertain
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/elderberry/nccih-elderberry.md, raw/primary-sources/elderberry/pubmed-hawkins-2019-meta-analysis.md, raw/primary-sources/elderberry/pubmed-wieland-2021-systematic-review.md
 
 ---
 
 ## Indication
-Common cold and influenza symptom relief/duration reduction.
+Dietary supplement (not an FDA-approved drug) marketed/traditionally used for cold, flu, and upper respiratory infection symptom relief.
 
 ## Mechanism
-Not elaborated pharmacologically in source material beyond identifying it as a botanical extract with variable composition (Sambucus nigra preparations).
+Not established with product-specific pharmacology in the sources reviewed. Contains flavonoids/anthocyanins with proposed antiviral and immunomodulatory activity (general botanical-chemistry knowledge, not independently sourced to a mechanism-focused primary source in this pass — no StatPearls entry exists for elderberry).
 
-## Evidence Summary
-The clinical literature primarily studies Sambucus nigra preparations rather than every current Sambucol formulation. Results across trials conflict substantially: an early (1995) influenza-B study reported a very large effect that should not be treated as a universal modern "90% cure rate"; a 2004 trial found faster symptom relief; a 2016 traveler's-cold trial found no prevention effect but shorter illness once a cold occurred; a 2019 meta-analysis found a large effect but from only 180 total participants; and — most importantly — a 2020 RCT specifically in influenza patients found no significant difference from placebo. A 2021 systematic review concluded elderberry "may" reduce cold/flu duration or severity but with low/uncertain certainty.
+## Dosing
+No specific dosing guidance is given by NCCIH, and no FDA label exists for this supplement category. Individual commercial products (e.g. Sambucol) set their own label directions, which were not independently pulled/verified in this pass.
 
-### Studies
+## Efficacy Evidence
 
-**Zakay-Rones et al., 1995 — randomized influenza-B study**
-- PMID: 9395631
-- Result: Reported symptom improvement in 93.3% of the elderberry group within 2 days versus 91.7% of controls within 6 days, and approximately 90% complete cure within 2–3 days in the treated group.
-- Interpretation: An unusually strong early result from a small study — should not be treated as a universal modern "90% cure rate."
+**Hawkins et al. 2019 meta-analysis (PMID 30670267)** — 180 total participants across included RCTs:
+- Elderberry substantially reduced upper respiratory symptoms; large mean pooled effect size
+- Authors explicitly note this was the first meta-analysis in the space, addressing a previously small/fragmented evidence base
 
-**Zakay-Rones et al., 2004 — randomized influenza A/B study**
-- PMID: 15080016
-- Design: Randomized, double-blind trial, N=60 adults
-- Result: Symptoms relieved approximately 4 days earlier in the elderberry group, with lower rescue-medication use.
+**Wieland et al. 2021 systematic review (PMID 33827515)** — more methodologically rigorous, GRADE-assessed, 5 RCTs (screened 1187 records):
+- Common cold **prevention**: elderberry may **not** reduce risk of developing a cold
+- Common cold **treatment**: may reduce duration/severity, but evidence **uncertain**
+- Influenza **treatment**: may reduce duration, but evidence **uncertain**
+- Vs. oseltamivir (Tamiflu): one elderberry product may have lower risk of flu complications/adverse events than oseltamivir
+- Specifically investigated (and did not find evidence for) the COVID-era concern that elderberry could overstimulate the immune system / cause "cytokine storm" — no studies linked it to clinical inflammatory outcomes, though some evidence shows an effect on inflammatory markers that may decline with ongoing use
+- **Conclusion:** elderberry may be a safe option for viral respiratory illness with no cytokine-storm evidence, but both benefit and harm evidence remain uncertain — more research needed
 
-**Tiralongo E, et al., 2016 — randomized traveler/common-cold study**
-- PMID: 27023596
-- Design: Randomized trial among 312 air travelers
-- Result: Did not establish prevention of catching a cold; among cold episodes that did occur, reported fewer total cold-episode days and lower symptom scores with elderberry.
+**Synthesis for this page:** the 2021 review is the more current and more rigorously uncertainty-adjusted synthesis of a similar (overlapping) trial base, and its more cautious "uncertain evidence" framing should be weighted over the 2019 meta-analysis's "large effect size" framing, which came from a smaller, less GRADE-adjusted analysis of only 180 participants.
 
-**Hawkins J, et al., 2019 — meta-analysis**
-- PMID: 30670267
-- Result: Reported a large overall effect on upper-respiratory symptoms, but the total evidence base was only 180 participants.
+## Pharmacokinetics
+Not located — no FDA label or StatPearls entry exists for this botanical.
 
-**Macknin M, et al., 2020 — randomized influenza trial**
-- PMID: 32929634
-- Design: Randomized trial, N=87 patients with influenza
-- Result: Time to all symptoms being none/mild — 4.9 days placebo vs. 5.3 days elderberry (P=0.57). Complete symptom resolution — 8.7 vs. 8.6 days (P=0.87).
-- Interpretation: The most important negative trial against simple claims that elderberry reliably shortens influenza.
+## Contraindications
+Not established with product-specific data in the sources reviewed. NCCIH does not list explicit contraindications beyond the raw-berry toxicity concern below.
 
-**2021 systematic review**
-- PMID: 33827515
-- Design: Systematic review of 5 randomized trials
-- Conclusion: Elderberry may reduce cold/influenza duration or severity, but certainty was low/uncertain.
+## Key Safety Data
+- **Raw/unripe berry toxicity:** raw or unripe elderberries, leaves, and stems contain cyanogenic (cyanide-releasing) compounds that can cause nausea, vomiting, and severe diarrhea. **Cooking eliminates this toxin.** This is a distinct concern from processed commercial extract products (e.g. Sambucol), which use cooked/processed extract rather than raw plant material — worth stating explicitly so the two risks aren't conflated
+- Wieland 2021: no evidence of elderberry causing clinically significant inflammatory/cytokine-storm harm
+- No serious adverse event signal identified in either source reviewed
 
-**Overall (per source):** Real human RCT evidence exists, but results conflict. A single success percentage is not defensible.
-
-## Pros
-- Multiple human RCTs exist (unlike purely homeopathic products), including some showing meaningfully faster symptom resolution
-- Meta-analytic signal for reduced upper-respiratory symptoms
-
-## Cons / Safety Limitations
-- The most rigorous recent RCT specifically in influenza (Macknin 2020, N=87) found no significant difference from placebo on either primary time-to-resolution endpoint
-- Evidence base for the positive meta-analysis was small (180 participants total)
-- Results conflict substantially across trials — cannot be reduced to one defensible response rate
-
-## Contraindications / Interactions
-- Not reported in source material
+## Drug Interactions
+NCCIH advises anyone taking medication to consult a healthcare provider before using elderberry, noting that "some herbs and medicines interact in harmful ways" — but no specific interacting drug list was given on the NCCIH page reviewed, and none was located elsewhere in this pass. Flagged as a gap rather than filled with a fabricated list.
 
 ## Special Population Flags
-- Not reported in source material
+- **Pregnancy/breastfeeding:** NCCIH states little is known about safety for these populations
+- **COVID-19:** NCCIH explicitly states there is no good evidence supporting elderberry for COVID-19, and regulatory agencies have acted against companies making unsubstantiated COVID-19 claims about elderberry products
 
-## Formulation Caveat
-The clinical literature primarily studies Sambucus nigra preparations rather than every current Sambucol formulation — a study of one preparation does not automatically validate every commercial Sambucol SKU. Per the dossier's "Correction 4," elderberry (botanical extract with variable composition) should be evidence-graded separately from truly homeopathic products like Oscillococcinum, even though both appear in "Homeopathic ___ Products" Pharmacy Times categories.
+## Overdose / Toxicity
+See raw/unripe berry cyanogenic toxicity above. No overdose data located for standardized commercial extract products specifically.
+
+## Regulatory/Categorization Note
+Sambucol is a pharmacologically active herbal extract, not a homeopathic dilution — yet it appears in this database's "Homeopathic Cold/Cough/Flu Products" Pharmacy Times categories (see below), the same categorization quirk already flagged on the [[pelargonium]] page for Umcka. This is a database/source-categorization artifact, not a claim that Sambucol is actually homeopathic.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Homeopathic Cold Products: Sambucol — 17% (Pharmacy Times 2026 OTC Guide, survey of ~1,700 pharmacists).
-Homeopathic Cough Products: Sambucol — 41%.
-Homeopathic Flu Products: Sambucol Black Elderberry Cold & Flu Relief — 40%.
-Cough/Cold/Flu Combinations, Daytime: Sambucol Cold & Flu Relief — 1%.
-These are pharmacist recommendation shares within each category, not response/cure rates — a 40% recommendation share for Sambucol does not mean 40% of influenza patients recover because of it (this is the source's own explicit example of the distinction).
+Sambucol recommendation shares across this database's categories (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Homeopathic Cough Products 41%, Homeopathic Flu Products (Sambucol Black Elderberry Cold & Flu Relief) 40%, Homeopathic Cold Products 17%, Immune Support 4%. These are pharmacist recommendation shares, not response/cure rates, and — per the Regulatory Note above — Sambucol's placement in "homeopathic" categories does not mean it is actually a homeopathic dilution product.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Sambucol, Sambucol Black Elderberry Cold & Flu Relief, Sambucol Cold & Flu Relief, Sambucol Homeopathic Cold & Flu, Sambucus Organic Zinc Lozenges (this last one combines elderberry with zinc per its name — see also zinc.md — exact formulation not verified against label).
+Sambucol — named directly in this database's Pharmacy Times category tables (including a specific "Sambucol Black Elderberry Cold & Flu Relief" SKU); the exact elderberry extract concentration/standardization was not independently pulled from a product label in this pass.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc guide master dossier volume 2]]
+- [[pelargonium]]
+- [[oscillococcinum]]
+- [[zinc]]
