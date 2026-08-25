@@ -4,7 +4,7 @@
 **Drug Class:** Homeopathic preparation (highly diluted — explicitly a different evidence category from pharmacologically active herbal extracts like elderberry or Pelargonium)
 **Evidence Grade:** Low/uncertain — weak/uncertain evidence; no defensible overall cure percentage
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

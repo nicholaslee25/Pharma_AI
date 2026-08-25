@@ -4,7 +4,7 @@
 **Drug Class:** Expectorant
 **Evidence Grade:** Moderate — human RCT evidence for pharmacologic effects on cough/respiratory symptoms, but effects on sputum volume/properties are inconsistent and benefits are generally modest
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

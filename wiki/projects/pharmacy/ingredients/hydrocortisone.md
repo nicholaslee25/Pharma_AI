@@ -4,7 +4,7 @@
 **Drug Class:** Topical corticosteroid (low-potency, 1% OTC strength)
 **Evidence Grade:** High — among the best-established inflammatory-dermatosis treatments
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

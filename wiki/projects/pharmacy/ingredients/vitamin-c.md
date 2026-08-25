@@ -4,7 +4,7 @@
 **Drug Class:** Vitamin/antioxidant supplement
 **Evidence Grade:** Low for general prevention; possible modest benefit for cold duration/severity in specific circumstances (regular supplementation, extreme physical/cold stress) — not for after-onset use
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

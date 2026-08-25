@@ -16,9 +16,10 @@ End goal: train a local AI on this data so family can ask it things like pros/co
 ## Phases
 
 1. **Organize** — done. Mirrors the OTC Guide's category structure, one file per subcategory with ranked brands + % pharmacist recommendation. One page per unique drug, stubbed for research.
-2. **Research** (current) — has begun via a new ingredients/ layer: 77 active-ingredient evidence pages under `projects/pharmacy/ingredients/`, transcribed from two ChatGPT-compiled evidence dossiers (see [[pharmacy overview]] → "The ingredients/ Research Layer"), each with real clinical evidence (study design, PMID/DOI, effect sizes, evidence grade) rather than just a recommendation percentage. Drug pages under `drugs/` are being cross-referenced to point at the relevant ingredient page(s) — this fills in the "pros, cons, use cases, allergies, symptoms, interactions" fields at the ingredient-class level; brand-page-specific fields (Pros/Cons/Use Cases/etc.) remain individually TBD beyond the Overview pointer.
-3. **Train** — build/fine-tune a local model on the completed database.
-4. **Deploy** — make it queryable at home for family.
+2. **Research** (current) — an `ingredients/` layer under `projects/pharmacy/ingredients/` (77 pages) carries real clinical evidence (study design, PMID/DOI, effect sizes, evidence grade) rather than just a recommendation percentage. Started from two ChatGPT-compiled evidence dossiers; those have since been deleted (redundant once real sourcing began — see [[source — chatgpt dossier citation index]]) and each page is now being rebuilt directly from primary sources (StatPearls, FDA labels, Cochrane, PubMed) with a **Verification Status** field, pending real pharmacist/physician review. [[ibuprofen]] is the completed pilot; 76 to go. **Goal state: zero AI-compiled content survives, only real cited papers, verified against practitioners.**
+3. **RAG deployment** — once the corpus is real-sourced and verified, wire it to a small local model (3B–8B open-weight) via retrieval, not fine-tuning first. This is deliberate: RAG lets you cite sources, fix errors without retraining, and is auditable — much safer for a health-info tool than baking facts into weights before they're confirmed correct.
+4. **Fine-tune** — once the RAG-verified corpus is solid, it becomes the fine-tuning dataset (reshaped into instruction/Q&A pairs). Only training on data that's already been checked against real practitioners, not before.
+5. **Deploy** — serve it, first for family, eventually as a shared server for others.
 
 ## Original Open Questions (from "Pharmacy for Noobs")
 

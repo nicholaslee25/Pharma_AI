@@ -4,7 +4,7 @@
 **Drug Class:** Antidiarrheal/antacid (also has antimicrobial activity)
 **Evidence Grade:** Moderate — clinical trials support symptomatic treatment of acute diarrhea and dyspepsia
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

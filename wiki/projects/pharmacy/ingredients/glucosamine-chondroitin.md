@@ -4,7 +4,7 @@
 **Drug Class:** Joint-health dietary supplement
 **Evidence Grade:** Symptom improvement (if any) does not equal structural disease modification
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

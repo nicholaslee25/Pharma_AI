@@ -4,7 +4,7 @@
 **Drug Class:** Stool softener (surfactant laxative)
 **Evidence Grade:** Low — widely used, but clinical evidence for meaningful benefit is weak
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

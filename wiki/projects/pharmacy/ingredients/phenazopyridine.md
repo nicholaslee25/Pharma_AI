@@ -4,7 +4,7 @@
 **Drug Class:** Urinary analgesic
 **Evidence Grade:** Effective for symptom relief only — the flagship "does not treat the underlying disease" example in this database
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

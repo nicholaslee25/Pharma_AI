@@ -4,7 +4,7 @@
 **Drug Class:** Vaginal antimicrobial (non-azole)
 **Evidence Grade:** Potential benefit for a specific subpopulation (recurrent/non-albicans Candida) — with meaningful safety caveats that must accompany any use claim
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

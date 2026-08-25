@@ -4,7 +4,7 @@
 **Drug Class:** Topical alpha-adrenergic decongestant (nasal spray)
 **Evidence Grade:** Moderate-to-high for short-term relief; the major limitation is rebound congestion with prolonged use, not lack of initial efficacy
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

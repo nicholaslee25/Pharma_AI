@@ -4,7 +4,7 @@
 **Drug Class:** Multi-nutrient supplement for pregnancy
 **Evidence Grade:** Not one generic supplement — evidence strength varies substantially by specific nutrient/outcome
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

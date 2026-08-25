@@ -4,7 +4,7 @@
 **Drug Class:** Local anesthetic
 **Evidence Grade:** Established for temporary local analgesia; benzocaine carries a specific, important safety flag (methemoglobinemia)
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

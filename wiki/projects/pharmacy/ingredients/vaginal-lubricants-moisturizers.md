@@ -4,7 +4,7 @@
 **Drug Class:** Lubricant (water-based, silicone-based, oil-based) / vaginal moisturizer
 **Evidence Grade:** Established for symptomatic comfort — not a disease-treatment category; the lubricant/moisturizer distinction is the key organizing fact
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

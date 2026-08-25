@@ -4,7 +4,7 @@
 **Drug Class:** Local antiseptic/analgesic throat lozenge (e.g., Strepsils-type formulation)
 **Evidence Grade:** Moderate — consistent effect across RCTs, but major limitation is that all included trials were manufacturer-sponsored
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

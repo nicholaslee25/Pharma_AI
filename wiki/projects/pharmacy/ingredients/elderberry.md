@@ -4,7 +4,7 @@
 **Drug Class:** Botanical extract (pharmacologically active herbal extract — explicitly NOT the same evidence category as homeopathic dilutions)
 **Evidence Grade:** Moderate/mixed — real human RCT evidence exists, but results conflict; a single success percentage is not defensible
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

@@ -1,9 +1,9 @@
 # Pharmacy Database — Overview
 
 **Type:** Project Hub
-**Status:** Complete — 14 of 14 categories built; ingredients/ research layer built (77 pages) and cross-referenced into drugs/
+**Status:** Complete — 14 of 14 categories built; ingredients/ research layer built (77 pages) and cross-referenced into drugs/. Now transitioning from AI-compiled dossier content to real primary-source rebuilds (1 of 77 done).
 **Source:** https://www.pharmacytimes.com/otcguide (Pharmacy Times OTC Guide, 2026-27 edition, ~145 product categories)
-**Last updated:** 2026-08-23
+**Last updated:** 2026-08-24
 
 ---
 
@@ -13,7 +13,9 @@ End goal: train a local AI on this data so family can query it at home. See [[ph
 
 ## The ingredients/ Research Layer
 
-`projects/pharmacy/ingredients/` holds 77 active-ingredient evidence pages — organized by ingredient (guaifenesin, ibuprofen, calcium, proton-pump-inhibitors, etc.), not by brand. They were transcribed from two ChatGPT-compiled evidence dossiers ([[source — otc guide master dossier volume 2]] and [[source — otc evidence corpus chatgpt continuation]]) rather than from the Pharmacy Times category pages, and each one carries actual clinical evidence: study design, N, PMID/DOI, effect sizes, and an evidence grade (High/Moderate/Low/Very Low/No product-specific evidence), plus Pros, Cons/Safety Limitations, Contraindications, and Special Population Flags where the source discusses them.
+`projects/pharmacy/ingredients/` holds 77 active-ingredient evidence pages — organized by ingredient (guaifenesin, ibuprofen, calcium, proton-pump-inhibitors, etc.), not by brand. Each carries actual clinical evidence: study design, N, PMID/DOI, effect sizes, and an evidence grade (High/Moderate/Low/Very Low/No product-specific evidence), plus Pros, Cons/Safety Limitations, Contraindications, and Special Population Flags where the source discusses them.
+
+**Sourcing is being upgraded page by page.** The project originally transcribed all 77 pages from two ChatGPT-compiled evidence dossiers. Those dossiers have since been deleted — their AI-written prose was redundant once real primary sourcing began — and only their citation trail survives, in [[source — chatgpt dossier citation index]]. Going forward, each ingredient page gets rebuilt directly from real primary sources (StatPearls, actual FDA drug labels via DailyMed, Cochrane reviews, PubMed abstracts) rather than an AI's secondhand account of them. [[ibuprofen]] is the completed pilot for this pattern — it carries a **Verification Status** field (AI-compiled from primary sources, unverified → to be flipped once a pharmacist/physician actually checks it) that every rebuilt page now includes. The other 76 pages still contain the original dossier-derived content until rebuilt the same way. **End state for this project: zero AI-compiled content, only real cited papers, condensed to the max and verified against real practitioners.**
 
 **Two-layer rule (never merge these):**
 - **`drugs/*.md` "Appears In" data** = a pharmacist-recommendation percentage from the Pharmacy Times survey (e.g. "Imodium — 81%"). This is a preference/market-share statistic — it says nothing about whether the drug works.

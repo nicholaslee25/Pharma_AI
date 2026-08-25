@@ -4,7 +4,7 @@
 **Drug Class:** NSAID throat lozenge (not just a demulcent)
 **Evidence Grade:** Moderate-to-high — two positive RCTs with consistent, statistically significant results
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

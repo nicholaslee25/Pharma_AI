@@ -4,7 +4,7 @@
 **Drug Class:** Cerumenolytics (examples: carbamide peroxide, hydrogen peroxide, mineral oil, saline, glycerol, sodium bicarbonate, paradichlorobenzene, chlorobutanol, docusate sodium, proprietary combinations)
 **Evidence Grade:** Low/mixed — no universally superior formulation established; effects vary considerably by agent and protocol
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

@@ -4,7 +4,7 @@
 **Drug Class:** Sympathomimetic (oral) decongestant
 **Evidence Grade:** No product-specific evidence supporting effectiveness — FDA concluded available data do NOT support oral phenylephrine as effective at recommended OTC doses. This is the flagship negative-evidence example in the source material.
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

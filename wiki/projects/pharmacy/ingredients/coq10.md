@@ -4,7 +4,7 @@
 **Drug Class:** Antioxidant/mitochondrial cofactor supplement
 **Evidence Grade:** Antioxidant activity is mechanistic, not a demonstrated patient benefit — strongest open research questions remain unresolved in source material
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

@@ -4,7 +4,7 @@
 **Drug Class:** Live-microorganism dietary supplement
 **Evidence Grade:** Cannot be treated as one intervention — evidence for one strain does not transfer to another strain of the same genus
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

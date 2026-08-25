@@ -4,7 +4,7 @@
 **Drug Class:** Antihistamine with anticholinergic properties
 **Evidence Grade:** Moderate — can reduce motion-sickness nausea/vomiting; dose must be age-specific
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

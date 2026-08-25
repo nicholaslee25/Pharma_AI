@@ -4,7 +4,7 @@
 **Drug Class:** Antiflatulent (anti-gas)
 **Evidence Grade:** Low — plausible mechanism, but clinical evidence for major symptomatic benefit is less impressive than consumer familiarity suggests; RCT evidence in infants specifically fails to show meaningful benefit
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

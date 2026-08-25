@@ -4,7 +4,7 @@
 **Drug Class:** Pharmacologically active herbal extract (explicitly NOT a homeopathic dilution — distinct evidence category from Oscillococcinum)
 **Evidence Grade:** Moderate-to-high — the strongest and largest clinical evidence base among the four homeopathic-flu-category products in the source, but the newest pragmatic trial shows the benefit is not universal
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

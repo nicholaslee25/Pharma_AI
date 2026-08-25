@@ -4,7 +4,7 @@
 **Drug Class:** Vitamin/hormone-precursor supplement
 **Evidence Grade:** High for correcting deficiency; No product-specific evidence for disease-prevention benefit in already-replete people — this is a deliberately preserved negative-evidence framing
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

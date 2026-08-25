@@ -4,7 +4,7 @@
 **Drug Class:** H1-receptor antagonists (examples: cetirizine, levocetirizine, loratadine, desloratadine, fexofenadine)
 **Evidence Grade:** Strong for allergic rhinitis symptoms; between-drug differences are mostly small/clinically trivial per network meta-analysis
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

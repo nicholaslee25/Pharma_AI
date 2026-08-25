@@ -4,7 +4,7 @@
 **Drug Class:** Sympathomimetic (oral) decongestant
 **Evidence Grade:** Moderate-to-high for short-term nasal decongestion, depending on population and endpoint
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 

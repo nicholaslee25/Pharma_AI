@@ -4,7 +4,7 @@
 **Drug Class:** Antidiarrheal (peripheral opioid-receptor agonist)
 **Evidence Grade:** High for therapeutic-dose symptomatic relief of acute diarrhea
 **Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/otc-guide-master-dossier-volume-2.md, raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md
+**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
 
 ---
 
