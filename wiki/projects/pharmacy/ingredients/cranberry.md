@@ -1,49 +1,67 @@
 # Cranberry
 
 **Type:** Active Ingredient
-**Drug Class:** Botanical/dietary supplement
-**Evidence Grade:** Relevant only to prevention of recurrent UTI — not treatment of active infection
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Botanical/dietary supplement (proanthocyanidins, PACs)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate for UTI PREVENTION in specific susceptible populations (children, women with recurrent UTIs, those made susceptible by a medical intervention) per a large, current, much-improved-since-2012 Cochrane review — NOT effective in elderly institutionalized patients, pregnant women, or neuromuscular bladder dysfunction patients, and NOT a treatment for an active infection
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/cranberry/cochrane-williams-2023-uti-prevention.md
 
 ---
 
 ## Indication
-Prevention of recurrent urinary tract infection (UTI).
+Prevention of recurrent urinary tract infections (UTIs) in specific susceptible populations. **Not a treatment for an active UTI** — no RCT evidence exists for treating an established infection, only for preventing new ones.
 
 ## Mechanism
-Not elaborated in source material.
+Cranberries contain proanthocyanidins (PACs), which inhibit the adherence of p-fimbriated E. coli to urothelial cells lining the bladder — preventing bacterial attachment rather than killing bacteria directly (unlike an antibiotic).
 
-## Evidence Summary
-The main clinically meaningful question for cranberry is prevention of recurrent UTI — this is substantially different from claims that it "cleanses" the urinary tract, treats an active UTI, kills pathogens, or replaces antibiotics. Evidence is specifically about prevention of recurrence, not treatment of established infection.
+## Efficacy Evidence — Williams et al. 2023 Cochrane review (PMID 37947276, 5th update of a review dating to 1998)
+50 studies, 8,857 participants (26 new studies added in this update — a substantially larger and more current evidence base than prior versions):
 
-## Pros
-- Relevant evidence question (recurrence prevention) is at least well-defined and distinct from vaguer marketing claims
+**Overall:** cranberry products **reduced UTI risk** — RR **0.70** (95% CI 0.58–0.84, moderate-certainty evidence, 6,211 participants). This is a materially more positive result than the 2012 version of this same review, which found only a non-significant trend — the evidence base has genuinely strengthened with more/better trials.
 
-## Cons / Safety Limitations
-- Does not treat an active/established UTI
-- Does not "cleanse" the urinary tract or kill pathogens
-- Is not a substitute for antibiotics
-- No specific effect-size, RCT, or response-rate data is given in source material for cranberry's recurrence-prevention claim
+**By population — this is the single most important nuance:**
+- **Children:** RR **0.46** (95% CI 0.32–0.68) — the strongest effect, probable real benefit
+- **People susceptible due to a medical intervention** (e.g. catheterization): RR **0.47** (95% CI 0.37–0.61) — probable real benefit
+- **Women with recurrent UTIs:** RR 0.74 (95% CI 0.55–0.99) — probable benefit, more modest
+- **Elderly institutionalized men/women:** RR 0.93 (95% CI 0.67–1.30) — **little or no benefit**
+- **Pregnant women:** RR 1.06 (95% CI 0.75–1.50) — **little or no benefit**
+- **Neuromuscular bladder dysfunction/incomplete emptying:** RR 0.97 (95% CI 0.78–1.19) — **little or no benefit**
 
-## Contraindications / Interactions
-- Not reported in source material
+**Head-to-head:** vs. antibiotics, little or no difference in UTI risk (RR 1.03); vs. probiotics, cranberry may reduce risk MORE (RR 0.39, 95% CI 0.27–0.56). Juice-vs-tablet and PAC-dose comparisons remain unclear (very low certainty evidence).
+
+**Practical implication:** cranberry's real-world value depends heavily on WHO is taking it — genuinely useful evidence exists for children and intervention-susceptible patients specifically, more modest for women with recurrent UTIs, and essentially absent for three specific populations (elderly institutionalized, pregnant, neuromuscular bladder dysfunction) who are nonetheless commonly told to try it.
+
+## Pharmacokinetics
+Not detailed with specific PK data in the source reviewed — PACs act locally at the urothelial surface rather than through a systemic pharmacokinetic mechanism.
+
+## Contraindications
+Not itemized in the source reviewed.
+
+## Key Safety Data
+Not addressed with specific adverse-event data in the abstract reviewed — flagged as a gap rather than assumed benign without a source. Cranberry products are generally regarded as low-risk given their long history of dietary use, but this vault does not assert a specific safety profile without a direct source.
+
+## Drug Interactions
+Not addressed in the source reviewed in this pass. (Cranberry has historically been discussed as a potential warfarin interaction in other literature, but this was not independently confirmed via a primary source here and is therefore not asserted as established.)
 
 ## Special Population Flags
-- Not reported in source material
+- **Children:** strongest evidenced benefit (RR 0.46)
+- **Women with recurrent UTIs:** probable, more modest benefit (RR 0.74)
+- **Catheterized/intervention-susceptible patients:** strong evidenced benefit (RR 0.47)
+- **Elderly institutionalized patients, pregnant women, neuromuscular bladder dysfunction patients:** **no demonstrated benefit** in these three specific populations, despite cranberry often being recommended broadly for "UTI prevention" without this population-specific caveat
 
-## Formulation Caveat
-Per the supplement database rule established in this source, "cranberry juice ≠ standardized cranberry extract" — these should not be assumed to carry the same evidence.
+## Overdose / Toxicity
+Not addressed in the source reviewed.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for the Cranberry Supplements category is given in either source document — this section is intentionally omitted rather than inventing one.
+Cranberry Supplements (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed, 908,824 monthly recommendations): AZO Cranberry 61%, Nature Made 21%, Nature's Bounty 8%, CranRx 7%, Nature's Truth 4%. These are pharmacist recommendation shares, not response/cure rates — and per the population-specific evidence above, a given customer's likely benefit depends heavily on which population they fall into, information a simple recommendation share cannot capture.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific cranberry-supplement brand or percentage is given in either source document. This database's drugs/ folder contains cranberry-plausible brands (e.g., AZO Cranberry, CranRx, Sundown Cranbury Gummies) filed under the Cranberry Supplements / Urinary Health categories, but since none is individually discussed with source data, no ingredient-evidence link is asserted for any specific brand on this page. Phenazopyridine-based urinary products (also filed under AZO/Urinary Health in this database) are a different ingredient with a different mechanism — see phenazopyridine.md — and should not be conflated with cranberry just because they share brand-family names.
+AZO Cranberry, Nature Made, Nature's Bounty, CranRx, and Nature's Truth all appear in this database's Cranberry Supplements category; none of their specific PAC content/dose was independently pulled from a label in this pass — per the Cochrane review, PAC dose comparisons remain unclear/very-low-certainty even in the primary literature, so this is a genuine evidence gap industry-wide, not just a gap in this pass's research.
 
 ## Related
 - [[pharmacy overview]]
 - [[phenazopyridine]]
-- [[source — otc evidence corpus chatgpt continuation]]
+- [[probiotics]]
