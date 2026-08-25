@@ -1,63 +1,83 @@
-# Zinc (lozenges / cold remedies)
+# Zinc
 
 **Type:** Active Ingredient
-**Drug Class:** Mineral / lozenge
-**Evidence Grade:** Low for a possible reduction in cold duration; insufficient for prevention
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Essential trace mineral / dietary supplement (oral lozenge, tablet, syrup, or intranasal forms for cold indication)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Low-to-moderate — 2024 Cochrane review (34 RCTs, 8526 participants) found little/no cold-prevention benefit, and only low-certainty evidence of ~2.4-day reduction in cold duration when used as treatment, alongside a moderate-certainty increase in non-serious adverse events
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/zinc/statpearls-zinc.md, raw/primary-sources/zinc/dailymed-cold-eeze.md, raw/primary-sources/zinc/cochrane-nault-2024-common-cold.md
 
 ---
 
 ## Indication
-Common-cold duration/severity reduction (treatment) and, less convincingly, cold prevention.
+Essential nutrient (immune function, cell division, wound healing, sensory perception); WHO essential medicine for diarrhea treatment. OTC cold-remedy lozenges (e.g. Cold-Eeze, Zicam) marketed to reduce common-cold duration/severity.
 
 ## Mechanism
-Not elaborated pharmacologically in source material beyond general zinc-lozenge/formulation discussion.
+Cofactor for numerous enzyme systems and transcription factors; antioxidant via metallothioneins; inhibits 3 of 4 major intestinal ion-secretion pathways (cAMP, calcium, nitric oxide — relevant to its antidiarrheal use). For the common cold specifically, a competitive ICAM-1 inhibition mechanism has been proposed as the basis for symptom reduction (StatPearls), though the 2024 Cochrane review below shows the clinical effect this produces is modest and low-certainty.
 
-## Evidence Summary
-The 2024 Cochrane review (34 studies, 8,526 participants) found little or no demonstrated prevention effect, and only a low-certainty, modest reduction in treatment-phase cold duration, with substantial heterogeneity across studies. Results depend heavily on salt, dose, and formulation — the evidence does not establish that all zinc products are equivalent, and intranasal zinc is a distinct (and unsafe) category from oral lozenges.
+## Dosing (StatPearls RDA/AI, and product label)
 
-### Studies
+| Population | RDA/AI | Upper Limit (adults) |
+|---|---|---|
+| Infants 0–6mo | 2 mg/day (AI) | — |
+| Infants 7–12mo | 3 mg/day (AI) | — |
+| Children 1–3y | 3 mg/day | — |
+| Children 4–8y | 5 mg/day | — |
+| Children 9–13y | 8 mg/day | — |
+| Males ≥14y | 11 mg/day | 40 mg/day |
+| Females 14–18y | 9 mg/day | 40 mg/day |
+| Females ≥19y | 8 mg/day | 40 mg/day |
+| Pregnant ≥19y | 11 mg/day | 40 mg/day |
+| Lactating ≥19y | 12 mg/day | 40 mg/day |
 
-**Nault D, et al. — Cochrane review, 2024**
-- Citation: Zinc for prevention and treatment of the common cold. Cochrane Database Syst Rev. 2024;5:CD014914. DOI 10.1002/14651858.CD014914.pub2
-- Design: Systematic review/meta-analysis, 34 studies, 8,526 participants (15 prevention studies, 19 treatment studies; 22 adult studies, 12 pediatric studies; 13 countries; search current through May/June 2023)
-- Formulations: 17/34 studies used lozenges (acetate, gluconate, or orotate; gluconate most common), with zinc gluconate lozenge doses ranging 45–276 mg/day over 4.5–21 days. Other formulations: capsules, powders, tablets, syrups, intranasal preparations.
-- Prevention result: 9 studies, 1,449 participants. RR for developing a cold 0.93 (95% CI 0.85–1.01), I²=20%, low-certainty evidence. Interpretation: little or no demonstrated prevention effect. Duration if a cold occurred: 3 studies, 740 participants, MD −0.63 days (95% CI −1.29 to 0.04), I²=77%, moderate-certainty evidence.
-- Treatment result: 8 studies, 972 participants. Mean duration reduction −2.37 days (95% CI −4.21 to −0.53), I²=97%, low-certainty evidence. Risk of still having a cold at study end: 5 studies, 357 participants, RR 0.52 (95% CI 0.21–1.27), very-low-certainty evidence. Global symptom severity: 2 studies, 261 participants, SMD −0.03 (95% CI −0.56 to 0.50), very-low-certainty evidence.
-- Adverse events: 31 studies, 2,422 participants (non-serious). Treatment studies: 16 studies, 2,084 participants, RR 1.34 (95% CI 1.15–1.55), I²=44%, moderate-certainty evidence. Most common: unpleasant/abnormal taste, stomach upset.
-- Key formulation warning: the evidence does not establish that all zinc products are equivalent — dose, salt, elemental zinc amount, release characteristics, and route differ substantially.
-- Source: https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold
+General supplementation range cited: 5–20 mg/day. Cold-Eeze lozenges (representative product): 13.3 mg zinc per lozenge, dissolved (not chewed) every 2–4h starting within 24–48h of symptom onset; max 6/day adults, 4/day ages 12–17. Cochrane-reviewed cold trials used zinc gluconate lozenge doses of 45–276 mg/day for 4.5–21 days — notably, many trial doses substantially exceeded the 40mg/day adult upper limit, which is a real safety tension worth flagging rather than glossing over.
 
-## Pros
-- Some evidence (low-certainty) for reduced cold duration when treatment starts during illness with certain lozenge formulations
+## Efficacy Evidence — Cochrane, zinc for common cold prevention/treatment (Nault et al. 2024)
+34 RCTs, 8526 participants (22 adult, 12 pediatric studies):
+- **Prevention:** risk of developing a cold RR 0.93 (95% CI 0.85–1.01; low-certainty) — little/no reduction. Duration when colds occur: MD −0.63 days (95% CI −1.29 to 0.04; moderate-certainty) — little/no difference.
+- **Treatment:** mean cold duration reduced by **2.37 days** (95% CI −4.21 to −0.53; 8 studies, 972 participants; **low-certainty**)
+- **Adverse events (treatment):** non-serious AEs probably **increased**, RR 1.34 (95% CI 1.15–1.55; **moderate-certainty**, 2084 participants) — unpleasant taste, loss of smell, vomiting, stomach cramps, diarrhea
+- Authors' conclusion: little/no prevention benefit; possible but low-certainty treatment-duration benefit, traded against more non-serious adverse events
+- **Note:** a published commentary (Hemilä et al. 2024, PMID 39478818) disputes this review's methodology/conclusions — not independently evaluated here, but flagged so this isn't presented as uncontested
 
-## Cons / Safety Limitations
-- No demonstrated prevention benefit (low-certainty RR 0.93, CI crosses 1)
-- Nausea/bad taste; adverse-event RR 1.34 vs. placebo in treatment studies
-- Intranasal zinc products have been associated with loss of smell (anosmia) and are not equivalent to, or as safe as, oral lozenges — per the continuation source, intranasal zinc is "inappropriate for use"
-- High heterogeneity (I² up to 97%) across pooled treatment-duration results — the pooled effect size should not be read as a precise, reliable number
+## Pharmacokinetics
+Not detailed in the StatPearls entry reviewed (absorption rate, bioavailability, half-life, distribution not covered) — flagged as a gap rather than fabricated.
 
-## Contraindications / Interactions
-- Not reported in source material beyond the intranasal-zinc/anosmia warning above
+## Contraindications
+Doses above the 40mg/day adult tolerable upper intake level are contraindicated in well-nourished pregnant/lactating women (StatPearls).
+
+## Key Safety Data
+- GI: diarrhea, abdominal cramps, vomiting within 3–10 hours of excess intake
+- Chronic excess: copper deficiency, iron deficiency, anemia (zinc reduces copper bioavailability)
+- Intranasal zinc specifically: anosmia (loss of smell) — a distinct, formulation-specific risk not shared by lozenges/oral forms
+- No specific antidote for zinc toxicity; management is discontinuation
+- Cochrane treatment-trial AE signal: RR 1.34 for non-serious adverse events vs. placebo (see above)
+
+## Drug Interactions
+Per Cold-Eeze FDA label: zinc may inhibit absorption of **tetracyclines** (minocycline, doxycycline, tetracycline) and interact with **warfarin (Coumadin)** therapy — ask a doctor before use if taking any of these.
 
 ## Special Population Flags
-- 12 of the 34 Cochrane-reviewed studies were pediatric; the review did not separately report a pediatric-specific effect estimate in the extracted data here
+- **Pregnancy/lactation:** doses above 40mg/day contraindicated in well-nourished women (StatPearls); Cold-Eeze label separately says ask a health professional before use
+- **Pediatric:** Cold-Eeze label — children under 12 should consult a health professional before use
+- **Diabetic:** Cold-Eeze label warns sugar-replacement ingredients in the lozenge may affect blood glucose
+- **Global child health:** WHO-cited figures (StatPearls) attribute a meaningful share of pediatric malaria (10.4%), diarrhea (14.4%), and pneumonia (6.7%) deaths (ages 6mo–5y) partly to zinc deficiency — this is a deficiency-consequence statistic, not an OTC cold-lozenge efficacy statistic, and should not be conflated with the Cochrane cold findings above
 
-## Formulation Caveat
-Do not extrapolate from one zinc formulation to another. Zinc gluconate lozenge doses in the reviewed literature ranged from 45–276 mg/day, and acetate/orotate salts were also studied — dose, salt, and release characteristics differ substantially and evidence for one does not automatically transfer to another. Intranasal zinc must be treated as a completely separate (and specifically discouraged) product category from oral lozenges.
+## Overdose / Toxicity
+Symptoms: nausea, vomiting, epigastric pain, lethargy, fatigue. No specific antidote — supportive care and discontinuation of supplementation.
+
+## Regulatory Note — Homeopathic Labeling
+Cold-Eeze is labeled as a **homeopathic preparation per HPUS** ("Zincum Gluconicum 2X"), not a standard FDA OTC monograph drug — a real regulatory quirk worth flagging. Unlike ultra-high-dilution homeopathic products (e.g. Oscillococcinum), "2X" is only a 1:100 dilution, so the lozenge still delivers a pharmacologically real 13.3mg elemental zinc dose. Homeopathic products in general are marketed without FDA evaluation of safety/efficacy. This means Cold-Eeze sits in an unusual middle ground: real pharmacologically active dose, but regulated/labeled under the homeopathic framework rather than the standard OTC drug monograph.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Zinc Cold Remedies (Pharmacy Times 2026 OTC Guide, survey of ~1,700 pharmacists): Zicam — 60%, Cold-EEZE — 40%.
-Zinc Lozenges: Zicam — 41%, Cold-EEZE — 37%, Sambucus Organic Zinc Lozenges — 14%, Quantum TheraZinc — 8%.
-These are pharmacist recommendation shares within each category, not response/cure rates.
+Zinc-specific and zinc-containing brands across this database's categories (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Zinc Cold Remedies category — Zicam 60%, Cold-EEZE 40%. Zinc Lozenges category — Zicam 41%, Cold-EEZE 37%. Homeopathic Cold Products — Zicam 34%, Cold-EEZE 26%. Cold Remedies (general) — Zicam 12%, Cold-EEZE 9%. Decongestants, Nasal Spray — Zicam 3% (a separate, intranasal zinc product). Immune Support — Zicam 10%, Cold-EEZE Cold Remedy Plus Natural Immune Support + Energy 6%. These are pharmacist recommendation shares, not response/cure rates, and reflect several distinct product formulations under each brand umbrella (lozenge vs. nasal spray vs. immune-support combination) — not all individually verified per SKU here.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Zicam, Cold-EEZE, Sambucus Organic Zinc Lozenges, Quantum TheraZinc — named directly in the Pharmacy Times Zinc Cold Remedies / Zinc Lozenges category tables in the source. Zicam in particular markets multiple formulations across several categories (Cold Remedies, Decongestants Nasal Spray, Homeopathic Cold Products) in the source data — the exact active ingredient of any specific Zicam SKU is not verified here; only the zinc-lozenge-category entries are covered by this page.
+Cold-EEZE (zinc gluconate 13.3mg/lozenge, confirmed per its own DailyMed label pulled above, and specifically labeled as a homeopathic 2X preparation) and Zicam (widely known in the OTC market as a zinc-based cold-remedy line, appearing across six of this database's categories including a nasal-spray form) are the two brands named across this database's zinc-related Pharmacy Times categories. Zicam's specific formulation/label was not independently pulled in this pass — only Cold-Eeze's was.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc guide master dossier volume 2]]
-- [[source — otc evidence corpus chatgpt continuation]]
+- [[oscillococcinum]]
+- [[elderberry]]
+- [[vitamin-c]]
