@@ -1,89 +1,69 @@
-# Pelargonium (Pelargonium sidoides / EPs 7630 / Umcka)
+# Pelargonium (Pelargonium sidoides root extract / EPs 7630 / Umcka)
 
 **Type:** Active Ingredient
-**Drug Class:** Pharmacologically active herbal extract (explicitly NOT a homeopathic dilution — distinct evidence category from Oscillococcinum)
-**Evidence Grade:** Moderate-to-high — the strongest and largest clinical evidence base among the four homeopathic-flu-category products in the source, but the newest pragmatic trial shows the benefit is not universal
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Herbal/botanical extract, pharmacologically active (NOT a homeopathic dilution — distinct evidence category from Oscillococcinum)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate — consistent positive signal across older placebo-controlled RCTs and a 2022 meta-analysis (2195 participants), but the largest, most recent, most pragmatic trial (2026) found no significant benefit on its primary endpoint and a significant increase in mild adverse events
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/pelargonium/pubmed-kardos-2022-meta-analysis.md, raw/primary-sources/pelargonium/pubmed-matthys-2010-dose-finding.md, raw/primary-sources/pelargonium/pubmed-phytobronch-2026.md
 
 ---
 
 ## Indication
-Common cold and acute bronchitis symptom relief/duration reduction.
+Marketed OTC (dietary supplement/herbal product, not an FDA-approved drug) for symptom relief and reduced duration of the common cold and acute bronchitis.
 
 ## Mechanism
-Not elaborated pharmacologically in source material beyond identifying it as a pharmacologically active herbal extract (as opposed to a homeopathic dilution).
+Not a synthetic single-molecule drug — a standardized root extract (EPs 7630) with proposed antiviral, antibacterial-adjunct, and mucociliary/secretolytic activity based on in vitro and animal pharmacology; not independently verified against a mechanism-focused primary source in this pass (no StatPearls entry exists for this botanical).
 
-## Evidence Summary
-The research literature primarily concerns Pelargonium sidoides, especially the standardized extract EPs 7630. Across multiple RCTs and a large 2022 meta-analysis (2,195 participants), EPs 7630 consistently outperformed placebo for cold and acute-bronchitis symptom scores, cough remission, and clinical-cure rates. However, the newest and largest pragmatic trial (2026 PHYTOBRONCH, N=332) found no significant difference in time to 50% symptom reduction and, notably, more adverse events (all mild) in the EPs group than usual care — an important corrective against reading the earlier positive trials as guaranteeing benefit in every real-world setting.
+## Dosing (per RCT evidence, not an FDA label — no FDA-regulated dose exists)
+Matthys et al. 2010 dose-finding RCT (406 adults with acute bronchitis) tested 30/60/90 mg EPs 7630 per day (as 10/20/30 mg tablets TID) against placebo for 7 days. All three doses significantly beat placebo (p<0.0001 each); **60 mg/day (20 mg TID) was judged the optimal benefit-risk dose** — comparable efficacy to 90 mg/day with better tolerability. Adverse event frequency was dose-dependent.
 
-### Studies
+## Efficacy Evidence
 
-**2007 common-cold RCT**
-- PMID: 18005909
-- Population: N=103 adults
-- Strict clinical cure by day 10: EPs 7630 78.8% vs. placebo 31.4% (P<0.0001)
-- Work impairment duration: EPs 6.9 ± 1.8 days vs. placebo 8.2 ± 2.1 days (P=0.0003)
+**2022 meta-analysis (Kardos et al., PMID 36051888)** — 11 RCTs, 2195 participants (pediatric + adult acute bronchitis, adult common cold):
+- Children/adolescents, acute bronchitis: ≥50% cough-intensity reduction at day 7 — 79.6% EPs 7630 vs. 41.0% placebo, RR 1.86 (95% CI 1.34–2.95)
+- Adults, acute bronchitis: ≥50% cough response — 88.7% vs. 47.6%, RR 2.13 (95% CI 1.37–3.31)
+- Adults, common cold: ≥50% cough reduction at day 5 — 56.8% vs. 38.8%, RR 1.40 (95% CI 1.19–1.65)
+- Quality-of-life/activity-impairment measures also favored EPs 7630 in the common-cold trials
 
-**Acute bronchitis RCT**
-- PMID: 12807337
-- Design: Large randomized placebo-controlled adult trial, N=468
-- Result: Substantially greater improvement in bronchitis symptom scores with EPs 7630.
+**2026 PHYTOBRONCH trial (Bourqui et al., PMID 42014704)** — pragmatic, open-label RCT, 332 adults, 36 Swiss primary-care practices + 5 walk-in clinics, EPs 7630 vs. usual care:
+- Time to 50% symptom reduction: **no significant difference** (p=0.578)
+- Antibiotic use: 17.4% vs. 25.2% — 31% relative reduction, but **not statistically significant** (RR 0.78, 95% CI 0.49–1.26; p=0.309)
+- Adverse events: 32.3% vs. 21.5% — **significantly more frequent** with EPs 7630 (HR 1.40, 95% CI 1.03–1.89; p=0.030), though all adverse drug events were mild
+- This is the largest, most methodologically pragmatic (real-world, open-label, active-comparator) trial to date, and it directly contradicts the placebo-controlled positive trials on the primary outcome — it should be weighted accordingly, not discarded in favor of the older positive data
 
-**2010 dose-finding trial**
-- PMID: 20387996
-- Population: N=406 adults
-- BSS (bronchitis symptom score) reduction at day 7: placebo 2.7; 30 mg/day 4.3; 60 mg/day 6.1; 90 mg/day 6.3
-- Result: All active groups differed significantly from placebo.
+**Note on citation verification:** PMID 42014704 was flagged in this vault's citation index as "suspiciously recent" (2026) for an AI-compiled dossier's likely knowledge cutoff. It was directly verified live against PubMed on 2026-08-25 and is a real, currently-indexed article (NPJ Prim Care Respir Med, 2026) — not fabricated. Its authors also disclosed using ChatGPT to proofread (not generate) their manuscript text, an unrelated but notable transparency disclosure.
 
-**2019 common-cold RCT**
-- PMID: 31341433
-- Clinical cure by day 10: strict definition 45% EPs vs. 12% placebo; broader definition 74% vs. 25%
+## Pharmacokinetics
+Not located — no FDA label or StatPearls entry exists for this botanical extract; PK data was not a focus of the RCT/meta-analysis abstracts reviewed in this pass.
 
-**2022 meta-analysis**
-- PMID: 36051888
-- Design: 11 randomized placebo-controlled trials, 2,195 participants
-- In children/adolescents with acute bronchitis: ≥50% cough reduction 79.6% EPs vs. 41.0% placebo, pooled RR 1.86 (95% CI 1.34–2.95). Complete cough remission 18.0% vs. 5.5%, RR 2.91 (95% CI 1.26–6.72).
+## Contraindications
+Not established in the sources reviewed here (no FDA label exists for this product category).
 
-**2026 PHYTOBRONCH trial**
-- PMID: 42014704
-- Population: N=332 adults with acute bronchitis
-- Time to 50% symptom reduction: no significant difference (P=0.578)
-- Antibiotic use: EPs 17.4% vs. usual care 25.2% (P=0.309)
-- Adverse events: EPs 32.3% vs. usual care 21.5%, HR 1.40 (95% CI 1.03–1.89), P=0.030. All adverse drug events were mild.
-- Interpretation: The newest pragmatic trial shows that the benefit is not universal and that more mild adverse events occurred than with usual care.
+## Key Safety Data
+- Matthys 2010: adverse events mild-to-moderate, frequency dose-dependent; no serious adverse events across 406 patients
+- PHYTOBRONCH 2026: adverse events in 32.3% (EPs 7630) vs. 21.5% (usual care) of 332 adults, HR 1.40 (95% CI 1.03–1.89); all adverse drug events described as mild
 
-**Overall (per source):** Pelargonium has the strongest and largest clinical evidence base among the four homeopathic-flu products, but the newest pragmatic trial shows that the benefit is not universal and that more mild adverse events occurred.
-
-## Pros
-- Largest and most consistent clinical evidence base among the four homeopathic-flu-category products (elderberry, Oscillococcinum, Hyland Complete Flu Care, Pelargonium) per this dossier
-- Multiple positive RCTs and a substantial meta-analysis (2,195 participants) for both common cold and acute bronchitis
-- Dose-response relationship demonstrated in the 2010 trial
-
-## Cons / Safety Limitations
-- The largest, most recent, and most pragmatic trial (2026 PHYTOBRONCH) found no significant difference on its primary time-to-benefit endpoint and more (mild) adverse events than usual care
-- Not classified as a homeopathic dilution, but still requires separate evidence tracking from truly homeopathic products in the same Pharmacy Times categories
-
-## Contraindications / Interactions
-- Not reported in source material
+## Drug Interactions
+Not established in the sources reviewed here.
 
 ## Special Population Flags
-- The 2022 meta-analysis's cough-remission data specifically covers children/adolescents with acute bronchitis
+- Pediatric: the 2022 meta-analysis includes a dedicated children/adolescent acute-bronchitis subgroup (positive result), but no pediatric-specific dosing/safety label exists since this is a supplement, not an FDA-regulated drug
+- Pregnancy/lactation/renal/hepatic: not addressed in the sources reviewed here
 
-## Formulation Caveat
-Per the dossier's "Correction 4," Pelargonium/EPs 7630 (a pharmacologically active herbal extract) must be evidence-graded separately from truly homeopathic preparations such as Oscillococcinum, even though both appear in "Homeopathic ___ Products" Pharmacy Times categories.
+## Overdose / Toxicity
+Not reported in the sources reviewed here.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Cold Remedies: Umcka ColdCare — 2% (Pharmacy Times 2026 OTC Guide, survey of ~1,700 pharmacists).
-Homeopathic Cough Products: Umcka ColdCare — 6%.
-Homeopathic Flu Products: Umcka Cold+Flu — 4%.
-These are pharmacist recommendation shares, not response/cure rates.
+Cold Remedies: Umcka ColdCare — 2%. Homeopathic Cough Products: Umcka ColdCare — 6%. Homeopathic Flu Products: Umcka Cold+Flu — 4%. (Pharmacy Times 2026 OTC Guide, survey of ~1,700 pharmacists — pharmacist recommendation shares, not response/cure rates.)
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Umcka ColdCare, Umcka Cold+Flu, Nature's Way Umcka ColdCare Kids — named directly in the Pharmacy Times category tables in the source; the pediatric "Kids" variant's dose/formulation is not separately verified here.
+Umcka ColdCare, Umcka Cold+Flu, Nature's Way Umcka ColdCare Kids — named directly in this database's Pharmacy Times category tables; the pediatric "Kids" variant's exact dose/formulation is not separately verified here.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc guide master dossier volume 2]]
+- [[oscillococcinum]]
+- [[elderberry]]
+- [[homeopathic-cold-products]]

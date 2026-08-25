@@ -1,51 +1,61 @@
 # Artificial Tears / Ophthalmic Lubricants
 
 **Type:** Active Ingredient (class)
-**Drug Class:** Ophthalmic lubricants (examples: carboxymethylcellulose, hypromellose, glycerin, polyethylene glycol, propylene glycol, hydroxypropyl methylcellulose, povidone, mineral-oil-based formulations, lipid-containing emulsions, preservative-free formulations)
-**Evidence Grade:** Established as symptomatic lubricating therapy; not disease-modifying for all dry-eye disease
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** OTC ophthalmic lubricants (single or combination: carboxymethylcellulose/carmellose sodium, hydroxypropyl methylcellulose/hypromellose, polyethylene glycol, propylene glycol, glycerin, polyvinyl alcohol, hyaluronic acid, liposome/lipid-based emulsions; preserved or preservative-free)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate — good evidence for symptomatic improvement within a month of regular use; formulation choice materially changes efficacy; not disease-modifying for the inflammatory component of dry eye disease
+**Last updated:** 2026-08-25
+**Sources:** raw/primary-sources/artificial-tears/statpearls-dry-eye-syndrome.md, raw/primary-sources/artificial-tears/dailymed-refresh-tears.md, raw/primary-sources/artificial-tears/pubmed-semp-2023-systematic-review.md, raw/primary-sources/artificial-tears/pubmed-priyadarshini-2026-cyclosporine-context.md
 
 ---
 
 ## Indication
-Symptomatic therapy for dry-eye disease (DED) and ocular-surface discomfort.
+OTC symptomatic relief of dry eye disease (DED) / ocular surface discomfort: burning, irritation, dryness from wind/sun exposure or reduced tear production. Also used off-label as an adjunct in corneal abrasion/wound healing, conjunctivitis, keratitis, and contact lens rewetting (per Semp et al. 2023).
 
 ## Mechanism
-Lubrication of the ocular surface. Does not generally cure the underlying cause of dry-eye disease.
+Physical lubrication/hydration of the ocular surface, not a pharmacologic drug mechanism. DED itself is a multifactorial disease: tear-film hyperosmolarity (normal <300 mOsm/L; diseased up to 360 mOsm/L) triggers inflammatory mediator release, ocular surface damage, and tear instability in a self-perpetuating cycle (StatPearls). Artificial tears address the lubrication/osmolarity side of this cycle but do not directly treat the inflammatory component — a 2026 Cochrane review of topical cyclosporine A (a prescription anti-inflammatory, not an OTC product) demonstrates that a distinct, separately-treated inflammatory pathway exists in DED, which is why artificial tears are not disease-modifying for all patients.
 
-## Evidence Summary
-Evidence is heavily formulation-dependent — a low-viscosity aqueous lubricant, a lipid-containing emulsion, and a preservative-free formulation have different pharmacologic/physical properties, so they cannot be treated as one interchangeable product category. A 2026 Cochrane review of topical cyclosporine A for dry-eye disease (context, not itself an OTC product) demonstrates that DED is not simply "lack of water" — ocular-surface inflammation is a major component that artificial tears alone do not address. Database interpretation: artificial tears are lubricating/symptomatic treatment, not disease-modifying treatment for all dry-eye disease — this is explicitly listed in the continuation source's "Important Negative Evidence" table (Part XIV: "Artificial tears — Symptomatic lubrication, not necessarily disease modification").
+## Dosing
+No single FDA-mandated dose exists across this ingredient class (formulation-dependent); representative label (Refresh Tears, carboxymethylcellulose sodium 0.5%): instill 1–2 drops in the affected eye(s) as needed. Semp et al. 2023 systematic review found good evidence for **symptom** improvement within 1 month of regular use dosed **about 4 times daily**; **signs** (objective ocular surface findings) generally take several months to improve. If no symptom benefit after a month of consistent use, alternative management should be considered rather than continuing indefinitely.
 
-### Studies
+## Efficacy Evidence — Semp et al. 2023 systematic review (PMID 36647552)
+Systematic review of RCTs (PROSPERO CRD42022369619), 64 relevant articles, comparing artificial-tear formulations for DED:
+- Combination-ingredient formulations outperform single-active-ingredient artificial tears
+- **Polyethylene glycol**–containing tears outperform those containing **carboxymethylcellulose/carmellose sodium** or **hydroxypropyl methylcellulose**
+- Evaporative DED specifically benefits from **liposome**-containing formulations, especially at higher concentration
+- Limitations: DED definitions, severity criteria, and compliance tracking varied widely across the underlying trials — treat comparative claims as directional, not precise effect sizes
 
-**Priyadarshini SR, et al. — Topical cyclosporine A therapy for dry eye disease (context study, not an OTC artificial-tears product)**
-- Citation: Cochrane Database Syst Rev. 2026. PMID: 42464966
-- Design: Cochrane systematic review, search date March 17, 2026; RCTs comparing topical cyclosporine vs. vehicle/artificial tears/alternative concentrations
-- Interpretation: Demonstrates dry-eye disease is not simply a lack of water — ocular-surface inflammation is a major component. This is context for interpreting artificial tears' limitations, not itself evidence for or against a specific artificial-tears product.
+**Practical implication for this database:** because formulation actually changes outcomes, "artificial tears" cannot be evidence-graded as one interchangeable product — active ingredient, concentration, preservative system, and single- vs. combination-formulation all matter.
 
-## Pros
-- Provides genuine symptomatic relief for ocular-surface discomfort
-- A wide range of formulations exists to match different tear-film deficiencies (aqueous-deficient vs. evaporative dry eye, per the ingredient variety listed above)
+## Pharmacokinetics
+Not applicable in the systemic sense — topical ocular lubrication, not systemically absorbed/metabolized in a way covered by the sources reviewed here.
 
-## Cons / Safety Limitations
-- Symptomatic lubrication only — does not address ocular-surface inflammation, which the 2026 Cochrane cyclosporine review shows is a major component of dry-eye disease for many patients
-- Not disease-modifying for all dry-eye disease
+## Contraindications
+Representative label (Refresh Tears): none listed beyond general external-use-only precautions. No class-wide contraindication identified in the sources reviewed.
 
-## Contraindications / Interactions
-- Not reported in source material
+## Key Safety Data
+- Representative label warnings: discontinue and see a doctor for eye pain, vision changes, continued redness/irritation, or symptoms persisting beyond 72 hours
+- Preservative-related ocular surface toxicity is itself a recognized contributing factor to DED (StatPearls) — this is why preservative-free formulations are specifically recommended once treatment escalates beyond first-line
+- No serious systemic adverse effects identified in the sources reviewed (topical, non-systemically-absorbed product class)
+
+## Drug Interactions
+None identified in the sources reviewed — topical ocular product, no systemic drug-interaction data located in this pass.
 
 ## Special Population Flags
-- Not reported in source material
+Not addressed with product-specific data in the sources reviewed here; StatPearls notes several systemic drug classes (antihistamines, antihypertensives, diuretics, anticholinergics, isotretinoin) as causes of dry eye rather than as interactions with artificial-tear treatment.
 
-## Formulation Caveat
-Entries should preserve: active ingredient → concentration → formulation → preservative → dosing frequency (per source's explicit instruction). A low-viscosity aqueous lubricant, a lipid-containing emulsion, and a preservative-free formulation are not interchangeable, and evidence for one should not be assumed to apply to another.
+## Overdose / Toxicity
+Not applicable / not reported — topical OTC product with wide margin of safety; representative label directs contacting Poison Control if swallowed, as a standard precaution rather than a documented toxicity concern.
+
+## Pharmacy Times Context (recommendation share — NOT efficacy)
+Artificial Tears/Ophthalmic Lubricants category (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed, 1,524,477 monthly recommendations): Systane 34%, Refresh 23%, Blink 6%, Biotrue 5%, GenTeal Tears 5%, Tears Naturale 5%, Clear Eyes 4%, Bausch + Lomb Advanced Eye Relief 3%, iVizia 3%, Optase 3%, TheraTears 3%, Visine 3%, Soothe 2%, Retaine 1%. These are pharmacist recommendation shares, not response/cure rates, and do not indicate which specific formulation (single- vs. combination-ingredient, PEG- vs. CMC-based, preserved vs. preservative-free) each brand uses — see the Semp et al. 2023 findings above for why that distinction matters clinically.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific artificial-tears brand names are given in the source material (the EENT section describes the ingredient class and cites only the context cyclosporine review, without naming a commercial artificial-tears product). This database's drugs/ folder contains multiple eye-care brands (e.g., GenTeal Tears, TheraTears, Tears Naturale, Systane, Retaine, Soothe, Refresh, Blink, Optase, Bausch + Lomb Advanced Eye Relief) that are plausibly artificial-tears products by name, but since none is individually named in either source document, no ingredient link is asserted for any specific brand on this page, per the database rule against inferring ingredient content from name similarity alone.
+Systane, Refresh, Blink, Biotrue, GenTeal Tears, Tears Naturale, Clear Eyes, Bausch + Lomb Advanced Eye Relief, iVizia, Optase, TheraTears, Visine, Soothe, Retaine — all listed in this database's Pharmacy Times "Artificial Tears/Ophthalmic Lubricants" category, so all are artificial-tears products by category placement. However, per the Semp et al. 2023 findings, these brands are NOT interchangeable: they differ in active ingredient (e.g., Refresh Tears is specifically carboxymethylcellulose sodium 0.5% per its DailyMed label), concentration, preservative system, and single- vs. combination-formulation, none of which is individually re-verified per SKU in this pass except the one representative Refresh Tears label pulled above.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc evidence corpus chatgpt continuation]]
+- [[oxymetazoline]]
+- [[saliva-substitutes]]
