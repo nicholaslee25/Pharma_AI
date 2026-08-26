@@ -60,6 +60,8 @@ Boiron Oscillococcinum (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists survey
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Boiron Oscillococcinum — confirmed as the branded product per its own DailyMed label pulled above (Boiron is both the manufacturer name and appears in the brand name as tracked in this database's category tables).
 
+**Related but distinct product (brand-page research, 2026-08-26):** Hyland's Complete Flu Care uses Cairina moschata (Muscovy duck) heart/liver autolysate — the same traditional duck-organ-extract basis as this ingredient's Anas barbariae — combined with four additional homeopathic ingredients in one multi-remedy product. This is NOT the same product as Boiron Oscillococcinum and should not be assumed to share this page's specific Cochrane-review evidence, which was conducted on the single-remedy Boiron product. See `drugs/Hyland Complete Flu Care.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[pelargonium]]
