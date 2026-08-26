@@ -48,7 +48,7 @@ Capzasin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacist
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Capzasin (Capzasin HP Arthritis Pain Relief) — confirmed capsaicin 0.1% per its own DailyMed label pulled above. Other Capzasin-line products (e.g. Capzasin Quick Relief Gel) combine capsaicin with menthol at a different concentration (0.025% per search context, not independently pulled as a full label in this pass) — formulation not verified per SKU beyond the HP product above.
+Capzasin (Capzasin HP Arthritis Pain Relief) — confirmed capsaicin 0.1% per its own DailyMed label pulled above. Other Capzasin-line products (e.g. Capzasin Quick Relief Gel) combine capsaicin with menthol at a different concentration (0.025% per search context, not independently pulled as a full label in this pass) — formulation not verified per SKU beyond the HP product above. **Epsom-It Nerve Pain Relief** (Diabetic Neuropathy Products category, brand-page research 2026-08-26) also lists capsaicin in its ingredients, but at an undisclosed concentration and with no FDA Drug Facts panel — the product markets itself as "drug-free" despite containing this pharmacologically active TRPV1 agonist. This is a real labeling inconsistency relative to Capzasin's clearly monographed 0.1% claim in the same product category — see `drugs/Epsom-It Nerve Pain Relief.md`.
 
 ## Related
 - [[pharmacy overview]]
