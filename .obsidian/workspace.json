@@ -183,6 +183,9 @@
   },
   "active": "d4e0a91c9f4be85d",
   "lastOpenFiles": [
+    "raw/primary-sources/blood-glucose-monitors/pubmed-king-2018-bgm-accuracy-review.md",
+    "raw/primary-sources/blood-glucose-monitors/statpearls-blood-glucose-monitoring.md",
+    "raw/primary-sources/blood-glucose-monitors",
     "raw/primary-sources/benzoyl-peroxide/cochrane-yang-2020-and-lamel-2015.md",
     "raw/primary-sources/benzoyl-peroxide/dailymed-panoxyl.md",
     "raw/primary-sources/benzoyl-peroxide/statpearls-benzoyl-peroxide.md",
@@ -214,10 +217,7 @@
     "raw/primary-sources/garlic/pubmed-ried-2016-meta-analysis.md",
     "raw/primary-sources/garlic",
     "raw/primary-sources/fiber/pubmed-vanderschoot-2022-constipation-meta-analysis.md",
-    "raw/primary-sources/fiber",
     "raw/primary-sources/cranberry/cochrane-williams-2023-uti-prevention.md",
-    "raw/primary-sources/coq10/pubmed-wei-2022-statin-myopathy-meta-analysis.md",
-    "raw/primary-sources/coq10/pubmed-mortensen-2014-qsymbio-heart-failure.md",
-    "raw/primary-sources/omega-3-fish-oil/nih-ods-omega3-health-professional.md"
+    "raw/primary-sources/coq10/pubmed-wei-2022-statin-myopathy-meta-analysis.md"
   ]
 }
