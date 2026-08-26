@@ -11,14 +11,10 @@
             "id": "d4e0a91c9f4be85d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/projects/pharmacy/cough-cold-allergy/homeopathic-cough-products.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "homeopathic-cough-products"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,21 +181,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "63d10698161b2947",
+  "active": "d4e0a91c9f4be85d",
   "lastOpenFiles": [
-    "wiki/sources/source — chatgpt dossier citation index.md",
-    "wiki/sources",
-    "fix_sources.py",
-    "raw/pharmacy-research/chatgpt-dossier-citation-index.md",
-    "raw/primary-sources/ibuprofen/cochrane-postop-pain-summary.md",
-    "raw/primary-sources/ibuprofen/fda-label-dailymed.md",
-    "raw/primary-sources/ibuprofen/statpearls-ibuprofen.md",
-    "raw/primary-sources/ibuprofen",
-    "raw/primary-sources",
-    "wiki/projects/pharmacy/cough-cold-allergy/flu-products.md",
-    "wiki/projects/pharmacy/cough-cold-allergy/decongestants-nasal-spray.md",
-    "wiki/projects/pharmacy/cough-cold-allergy/antihistamines-oral.md",
-    "raw/pharmacy-research/otc-guide-master-dossier-volume-2.md",
-    "raw/pharmacy-research/otc-evidence-corpus-chatgpt-continuation.md"
+    "raw/primary-sources/bismuth-subsalicylate/dailymed-pepto-bismol.md",
+    "raw/primary-sources/terbinafine/dailymed-lamisil-at.md",
+    "raw/primary-sources/terbinafine/statpearls-terbinafine.md",
+    "raw/primary-sources/terbinafine",
+    "raw/primary-sources/clotrimazole/dailymed-lotrimin.md",
+    "raw/primary-sources/clotrimazole/statpearls-clotrimazole.md",
+    "raw/primary-sources/clotrimazole",
+    "raw/primary-sources/capsaicin/dailymed-capzasin-hp.md",
+    "raw/primary-sources/capsaicin/statpearls-capsaicin.md",
+    "raw/primary-sources/capsaicin",
+    "raw/primary-sources/topical-diclofenac/dailymed-voltaren-arthritis-pain.md",
+    "raw/primary-sources/topical-diclofenac/statpearls-diclofenac-topical.md",
+    "raw/primary-sources/topical-diclofenac",
+    "raw/primary-sources/hydrocortisone/dailymed-hydrocortisone-1pct.md",
+    "raw/primary-sources/hydrocortisone/statpearls-topical-corticosteroids.md",
+    "raw/primary-sources/hydrocortisone",
+    "raw/primary-sources/glucosamine-chondroitin/pubmed-clegg-2006-gait-trial.md",
+    "raw/primary-sources/glucosamine-chondroitin",
+    "raw/primary-sources/garlic/pubmed-ried-2016-meta-analysis.md",
+    "raw/primary-sources/garlic",
+    "raw/primary-sources/fiber/pubmed-vanderschoot-2022-constipation-meta-analysis.md",
+    "raw/primary-sources/fiber",
+    "raw/primary-sources/cranberry/cochrane-williams-2023-uti-prevention.md",
+    "raw/primary-sources/cranberry",
+    "raw/primary-sources/coq10/pubmed-wei-2022-statin-myopathy-meta-analysis.md",
+    "raw/primary-sources/coq10/pubmed-mortensen-2014-qsymbio-heart-failure.md",
+    "raw/primary-sources/coq10",
+    "raw/primary-sources/omega-3-fish-oil/nih-ods-omega3-health-professional.md",
+    "raw/primary-sources/probiotics/pubmed-goodman-2021-adult-aad.md",
+    "raw/primary-sources/probiotics/cochrane-goldenberg-2015-pediatric-aad.md",
+    "raw/primary-sources/multivitamins/pubmed-baker-2023-cosmos-mind-cognition.md",
+    "raw/primary-sources/multivitamins/pubmed-sesso-2022-cosmos-cancer-cvd.md",
+    "raw/primary-sources/prenatal-vitamins/pubmed-abate-2025-umbrella-review.md",
+    "raw/primary-sources/prenatal-vitamins/statpearls-folic-acid.md",
+    "raw/primary-sources/iron/nih-ods-iron-health-professional.md",
+    "raw/primary-sources/magnesium/nih-ods-magnesium-health-professional.md"
   ]
 }
