@@ -183,6 +183,10 @@
   },
   "active": "d4e0a91c9f4be85d",
   "lastOpenFiles": [
+    "raw/primary-sources/boric-acid/pubmed-vanslyke-1981-and-iavazzo-2011.md",
+    "raw/primary-sources/boric-acid/dailymed-v-bella-homeopathic-note.md",
+    "raw/primary-sources/boric-acid/dailymed-the-killer-boric-acid-600mg.md",
+    "raw/primary-sources/boric-acid",
     "raw/primary-sources/digital-thermometers/nokc-2009-thermometry-review.md",
     "raw/primary-sources/digital-thermometers/pubmed-shi-2020-tympanic-pediatric-meta-analysis.md",
     "raw/primary-sources/digital-thermometers/pubmed-geijer-2016-temporal-artery-meta-analysis.md",
@@ -214,10 +218,6 @@
     "raw/primary-sources/capsaicin/statpearls-capsaicin.md",
     "raw/primary-sources/capsaicin",
     "raw/primary-sources/topical-diclofenac/dailymed-voltaren-arthritis-pain.md",
-    "raw/primary-sources/topical-diclofenac/statpearls-diclofenac-topical.md",
-    "raw/primary-sources/topical-diclofenac",
-    "raw/primary-sources/hydrocortisone/dailymed-hydrocortisone-1pct.md",
-    "raw/primary-sources/hydrocortisone/statpearls-topical-corticosteroids.md",
-    "raw/primary-sources/hydrocortisone"
+    "raw/primary-sources/topical-diclofenac"
   ]
 }
