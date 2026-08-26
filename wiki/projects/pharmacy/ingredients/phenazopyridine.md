@@ -1,48 +1,64 @@
 # Phenazopyridine
 
 **Type:** Active Ingredient
-**Drug Class:** Urinary analgesic
-**Evidence Grade:** Effective for symptom relief only — the flagship "does not treat the underlying disease" example in this database
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Urinary analgesic (azo dye)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Effective for symptom relief only — the flagship "does not treat the underlying disease" example in this database, now backed by real patient-knowledge-gap survey data showing this warning frequently fails to reach actual users
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/phenazopyridine/statpearls-phenazopyridine.md, raw/primary-sources/phenazopyridine/dailymed-azo-maximum-strength.md
 
 ---
 
 ## Indication
-Symptomatic relief of dysuria (painful urination), urinary burning, and urgency discomfort.
+Symptomatic relief of dysuria (painful urination), burning, urgency, and frequency associated with urinary tract infections. **Adjuvant therapy only — not a cure, not an antibiotic.** StatPearls also notes off-label-adjacent uses: pain after catheter insertion/cystoscopy, and radiation-induced cystitis (considered safe for use up to 2 months in that specific context).
 
 ## Mechanism
-Not elaborated in source material.
+Azo dye acting as a LOCAL urinary analgesic — inhibits nerve fibers in the bladder wall that respond to mechanical stimuli, and blocks kinases involved in pain signaling. This is a local bladder-lining effect, not a systemic analgesic mechanism like an NSAID or opioid.
 
-## Evidence Summary
-Phenazopyridine provides symptomatic relief of dysuria, urinary burning, and urgency discomfort. **Critical distinction, stated explicitly in source: it does NOT treat the underlying UTI.** The correct framing per source is "can temporarily reduce urinary discomfort," not "treats a UTI." Persistent urinary symptoms need appropriate medical evaluation — this ingredient is also listed in the source's "Important Negative Evidence" table: "Phenazopyridine | Symptom relief, does not eradicate UTI."
+## Dosing
+Per AZO Urinary Pain Relief Maximum Strength label (phenazopyridine HCl 99.5mg): adults and children 12+, 2 tablets three times daily with meals, for up to **2 days maximum** (12 tablets total). Children under 12: do not use without consulting a doctor. Prescription-strength dosing (StatPearls): 100–200mg three times daily with meals. Renal dosing: every 8–16h if GFR >50 mL/min; **contraindicated if GFR <50 mL/min.**
 
-## Pros
-- Effective at what it actually does: temporary symptomatic relief of dysuria/burning/urgency
+## Efficacy Evidence
+StatPearls notes the overall rigorous-trial evidence base is limited (the drug predates modern regulatory trial requirements), but cites: symptomatic relief rates in one study of **dysuria 95.3%, burning 93.6%, frequency 85.6%, nocturia 83.7%** — high numbers, but drawn from a single older study, not a modern systematic review. By contrast, **only 31% of men with prostatitis reported satisfactory symptom relief** — a much lower rate, showing the drug's benefit is not uniform across all sources of urinary discomfort and should not be assumed to transfer from uncomplicated-UTI-type symptoms to other causes of urinary pain.
 
-## Cons / Safety Limitations
-- **Does not treat, cure, or eradicate the underlying urinary tract infection** — using it as a substitute for appropriate UTI treatment/evaluation is a critical misuse
-- Persistent urinary symptoms require medical evaluation, not continued self-treatment with this product
+## Pharmacokinetics
+Rapid GI absorption, peak plasma levels 2–3 hours. Half-life ~9.4 hours (StatPearls flags inconsistent data across sources). Metabolized to aniline and triaminopyridine — both implicated in the drug's hematologic/renal adverse effects. 41–65% excreted unchanged renally.
 
-## Contraindications / Interactions
-- Not reported in source material
+## Contraindications
+Known hypersensitivity to phenazopyridine. Severe renal insufficiency (GFR <50 mL/min). Severe hepatitis. G6PD deficiency (per OTC label: do not use unless approved by physician — hemolysis risk).
+
+## Key Safety Data
+- **Methemoglobinemia:** StatPearls notes fewer than 50 documented cases since 1951 — but flags that a 2020 National Poison Data System study linked phenazopyridine to "a notable number" of more recent reported cases, a real discrepancy between historical rarity and current surveillance signal worth taking seriously rather than dismissing based on the older, smaller count.
+- **Hemolytic anemia**, particularly in G6PD-deficient patients — characterized by Heinz bodies and degmacytes ("bite cells").
+- **Acute interstitial nephritis** has been reported even at THERAPEUTIC doses in patients with normal baseline renal function — not only an overdose phenomenon.
+- **Hepatotoxicity** associated with hypersensitivity reactions, dose-dependent.
+- Other reported effects: sulfhemoglobinemia, aseptic meningitis, visual disturbances, jaundice, renal calculi.
+- Common/expected effects: headache; nausea/vomiting/diarrhea; rash/pruritus/discoloration/ulceration; harmless reddish-orange urine discoloration (can stain clothing/contact lenses); extended use can cause skin/scleral yellowing.
+
+## Drug Interactions
+No confirmed drug-drug or drug-food interactions per StatPearls. Theoretical increased methemoglobinemia risk when combined with local anesthetics (e.g., benzocaine), but confirmed clinical evidence is lacking — has been used safely alongside lidocaine gel in practice.
 
 ## Special Population Flags
-- Not reported in source material
+- **Pregnancy:** FDA Category B; crosses the placenta; use only if indicated. OTC label recommends a pregnancy test and healthcare consultation before use.
+- **Breastfeeding:** avoid, especially if the infant is under 1 month old or has G6PD deficiency.
+- **Pediatric:** children under 12 should not use without consulting a doctor (OTC label); prescription pediatric dosing (6–12 years) is 12 mg/kg/day divided into three doses, but no commercial pediatric formulation exists — it requires compounding.
+- **Renal impairment:** see Dosing above — contraindicated below GFR 50.
 
-## Formulation Caveat
-Not reported in source material.
+## Overdose / Toxicity
+**Methemoglobinemia treatment:** first-line IV methylene blue (1% solution, 1–2 mg/kg) — CONTRAINDICATED in G6PD deficiency or with concurrent antidepressants (serotonin syndrome risk); high-dose IV ascorbic acid is an alternative. **Overdose effects:** renal toxicity, acute renal failure, hepatic impairment, life-threatening hemolytic anemia — the triaminopyridine metabolite specifically may damage the distal renal tubules. OTC label directs contacting Poison Control immediately for suspected overdose.
+
+## The Critical Distinction — Real Patient-Knowledge-Gap Data
+**Phenazopyridine does NOT treat, cure, or eradicate the underlying urinary tract infection.** This database's standing "does not treat the underlying disease" framing is now backed by real survey data cited in StatPearls: **71% of OTC phenazopyridine consumers were unaware that a bladder infection was causing their symptoms**, and **38% reported purchasing the drug as a substitute for medical care.** This is not a hypothetical risk — it is a documented, substantial gap between the label's warning and actual patient behavior/understanding. Persistent urinary symptoms require medical evaluation, not continued self-treatment with this product.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for Urinary Health is given in either source document — this section is intentionally omitted rather than inventing one.
+Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): **AZO — 68%** of Urinary Health recommendations (1,392,227/month category volume), far ahead of Culturelle Probiotic (10%), Cystex (7%), Nature's Bounty Saw Palmetto (3%), up4 Probiotics Women's (3%), UriStat (3%), Sundown Cranbury Gummies (2%), Uricalm (2%), Uqora (2%). Note the AZO brand family spans multiple different active ingredients (phenazopyridine, cranberry, boric acid — see [[cranberry]] and [[boric-acid]]), so this 68% figure is for the AZO brand overall, not phenazopyridine specifically. This is a pharmacist recommendation share, not an efficacy rate.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-UriStat, Uricalm, AZO (phenazopyridine, per real-world market identity) filed under Urinary Health in this database — not individually confirmed in the two source documents beyond the general phenazopyridine discussion above. Note: AZO also markets cranberry-based products (AZO Cranberry) and boric-acid products (AZO Boric Acid Vaginal Suppositories) under the same brand family — these are different active ingredients with different mechanisms (see cranberry.md and boric-acid.md) and should not be assumed to be phenazopyridine just because they share the "AZO" brand name. Cystex is also filed under Urinary Health in this database but is not confirmed as phenazopyridine-based in source.
+AZO Urinary Pain Relief (Maximum Strength and regular) — confirmed phenazopyridine HCl (99.5mg maximum strength) per the specific DailyMed label pulled above. UriStat, Uricalm are plausibly phenazopyridine-based by real-world market identity and category placement, filed under Urinary Health, but not individually confirmed against a label in this pass. Cystex is also filed under Urinary Health but is NOT confirmed as phenazopyridine-based here — verify per SKU. Note: AZO also markets cranberry-based products (AZO Cranberry) and boric-acid products (AZO Boric Acid Vaginal Suppositories) under the same brand family — these are different active ingredients with different mechanisms (see [[cranberry]] and [[boric-acid]]) and should not be assumed to be phenazopyridine just because they share the "AZO" brand name.
 
 ## Related
 - [[pharmacy overview]]
 - [[cranberry]]
 - [[boric-acid]]
-- [[source — otc evidence corpus chatgpt continuation]]
