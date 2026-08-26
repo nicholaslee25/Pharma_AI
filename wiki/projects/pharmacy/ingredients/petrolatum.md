@@ -2,48 +2,44 @@
 
 **Type:** Active Ingredient
 **Drug Class:** Occlusive wound-care/moisturizing agent
-**Evidence Grade:** Underrated per source — strong practical value for uncomplicated minor wounds and as a moisturizing-class ingredient
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** High for uncomplicated minor/surgical wound care — a real, well-known 922-patient RCT shows plain petrolatum performs comparably to a topical antibiotic ointment on overall infection rate, with a better allergy profile
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/petrolatum/pubmed-smack-1996-jama-rct.md, raw/primary-sources/petrolatum/statpearls-moisturizers-petrolatum-excerpt.md
 
 ---
 
 ## Indication
-Minor wound care (maintaining a moist healing environment); general skin moisturization.
+Minor/uncomplicated wound care (maintaining a moist healing environment); general skin moisturization and barrier protection.
 
 ## Mechanism
-Maintains a moist wound environment, reduces scab formation and desiccation, and can support epithelialization.
+Classic/prototypical occlusive — forms a physical barrier on the skin that reduces water evaporation. **Reduces transepidermal water loss by nearly 99%** (StatPearls), the highest reduction figure among common occlusive agents (vs. mineral oil, paraffin, squalene, dimethicone). This occlusive property is the basis for both its moisturizing use and its wound-care use (maintaining a moist wound environment, reducing scab formation/desiccation, supporting epithelialization) — the same mechanism serves both purposes.
 
-## Evidence Summary
-Per source, petrolatum is "an underrated first-aid product" — it maintains a moist wound environment, reduces scab formation and desiccation, and can support epithelialization. It is described as "a good example of a simple intervention with strong practical value for uncomplicated minor wounds." It is also named as a relevant ingredient in the therapeutic-moisturizer/skincare evidence discussion (see moisturizers-ceramides.md) — moisturization itself has strong evidence in atopic dermatitis.
+## Efficacy Evidence
 
-## Pros
-- Maintains moist wound environment, reduces scab formation/desiccation, supports epithelialization
-- Strong practical value for uncomplicated minor wounds — described as underrated relative to more heavily marketed alternatives (e.g., topical antibiotic ointments, see topical-antibiotics.md)
-- Also a relevant ingredient for general skin moisturization, which has strong evidence in atopic dermatitis
+**Smack et al. 1996 (PMID 8805732, JAMA)** — randomized, double-blind RCT, white petrolatum vs. bacitracin ointment for postprocedure wound care, 922 patients / 1,249 wounds after dermatologic surgery (Walter Reed Army Medical Center):
+- **Postprocedure infection: 2.0% (petrolatum) vs. 0.9% (bacitracin)** — 95% CI for the difference -0.4% to 2.7%, **P=0.37, NOT statistically significant** — i.e., no real difference in overall infection risk was demonstrated
+- **Important nuance:** of the petrolatum-group infections, 8 of 9 were specifically *Staphylococcus aureus*, vs. ZERO staph infections in the bacitracin group (**P=0.004, this comparison WAS significant**) — meaning bacitracin's antimicrobial action did prevent staph infections specifically, even though it didn't lower the OVERALL infection rate compared to plain petrolatum. Both facts are true and worth holding together, not cherry-picking one.
+- **Allergic contact dermatitis: 0% (petrolatum) vs. 0.9% (bacitracin)**, P=0.12 — not statistically significant but numerically favoring petrolatum's cleaner allergy profile, consistent with bacitracin being a well-documented topical allergen (see [[topical-antibiotics]])
+- No clinically significant healing differences at day 1, 7, or 28
+- **Authors' conclusion: white petrolatum is a safe, effective wound care ointment for ambulatory surgery, with an equally low infection rate and minimal allergy risk compared to bacitracin.** This is the frequently-cited real-world basis for "plain petrolatum is a reasonable, evidence-supported alternative to routine topical antibiotic use for minor/surgical wounds" — see [[topical-antibiotics]] for that ingredient's full evidence and allergy profile.
 
-## Cons / Safety Limitations
-- Not reported in source material — no specific safety limitation identified
-
-## Contraindications / Interactions
-- Not reported in source material
-
-## Special Population Flags
-- Not reported in source material
+## Key Safety Data
+- No allergic contact dermatitis observed in the petrolatum arm of the Smack 1996 trial (0 of 440 evaluable patients), vs. 4 of 444 (0.9%) in the bacitracin arm
+- No other specific adverse-effect data was located in the sources gathered — petrolatum is generally regarded as having a very clean safety profile, consistent with the trial data above
 
 ## Formulation Caveat
-Not reported in source material.
+The evidence above concerns plain white petrolatum specifically, as used in the pivotal wound-care RCT — not petrolatum-containing combination products (e.g., Aquaphor, which combines petrolatum with other ingredients), which were not independently evaluated against this specific trial's design.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for petrolatum specifically is given in either source document — this section is intentionally omitted rather than inventing one. See moisturizers-ceramides.md for the CeraVe 32% therapeutic-skincare recommendation-share data, which is a related but distinct category.
+No specific Pharmacy Times brand percentage for petrolatum specifically (as distinct from branded combination moisturizers) was found in this database's subcategory files in this pass — no percentage is invented here. See [[moisturizers-ceramides]] for the CeraVe/Aquaphor/Eucerin therapeutic-skincare recommendation-share data, a related but distinct category, and see the Burn Treatments category data on [[burn-treatment]] and [[topical-antibiotics]] for adjacent first-aid product shares.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific petrolatum brand or percentage is given in either source document. This database's drugs/ folder contains petrolatum-plausible brands (e.g., Vaseline, Vaseline Petroleum Jelly, Aquaphor) filed under relevant categories, but since none is individually discussed with source data, no ingredient-evidence link is asserted for any specific brand on this page.
+Vaseline, Vaseline Petroleum Jelly — plain petrolatum by real-world market identity, plausibly matching the Smack 1996 trial's tested product most directly. Aquaphor is a petrolatum-containing combination product (not pure petrolatum) — its specific formulation was not independently tested in the RCT above and should not be assumed to have identical performance.
 
 ## Related
 - [[pharmacy overview]]
 - [[topical-antibiotics]]
 - [[moisturizers-ceramides]]
-- [[source — otc evidence corpus chatgpt continuation]]
