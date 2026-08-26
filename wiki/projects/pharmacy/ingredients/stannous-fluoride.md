@@ -1,48 +1,53 @@
 # Stannous Fluoride
 
 **Type:** Active Ingredient
-**Drug Class:** Anticaries/antigingivitis agent
-**Evidence Grade:** Moderate-to-strong — useful multi-benefit agent when several dental concerns coexist
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Drug Class:** Anticaries/antigingivitis/antiplaque agent
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate — two independent systematic reviews (2006, 2019) both find real, statistically significant reductions in gingivitis/plaque, but both also flag substantial trial heterogeneity and call for better-quality RCTs; a real staining tradeoff is documented
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/stannous-fluoride/paraskevas-2006-and-johannsen-2019.md
 
 ---
 
 ## Indication
-Caries prevention, tooth sensitivity, and gingivitis/plaque control — addressed together.
+Caries prevention, tooth sensitivity, and gingivitis/plaque control — addressed together, since stannous fluoride is typically marketed as a multi-benefit agent rather than a single-purpose ingredient.
 
 ## Mechanism
-Not elaborated in source material.
+Stannous ion (Sn[II]) is a broad-spectrum antimicrobial with bacteriostatic/bactericidal properties: it interferes with plaque biofilm development/maturation, inhibits bacterial adherence/colonization, and penetrates the bacterial cell wall to disrupt metabolism. It also has a strong affinity for binding bacterial endotoxins (lipopolysaccharides), suppressing Toll-like-receptor activation that would otherwise drive gingival inflammation. Separately, for dentin hypersensitivity: stannous ions oxidize to stannic ions and hydrolyze into insoluble tin compounds (hydroxides, oxides, phosphates, fluorophosphates) that physically precipitate onto and occlude exposed dentin tubules. (Note: this mechanism summary is drawn from secondary dental-pharmacology literature rather than a single directly-fetched primary source; no dedicated StatPearls article specific to stannous fluoride was located in this search pass.)
 
-## Evidence Summary
-Stannous fluoride can offer caries prevention plus sensitivity reduction plus gingivitis/antiplaque effects — useful when multiple dental concerns coexist in the same patient, rather than needing separate products for each.
+## Efficacy Evidence
 
-## Pros
-- Multi-benefit profile: caries prevention, sensitivity reduction, and gingivitis/antiplaque effects in one agent
-- Useful for patients with more than one dental concern simultaneously
+**Paraskevas & van der Weijden 2006 (J Clin Periodontol)** — systematic review, 15 studies (n=4,989), 14 RCTs (4,924 participants):
+- **Gingival index: WMD -0.15 (95% CI -0.20 to -0.11)** — significant reduction, 6 pooled studies
+- **Gingivitis severity: WMD -0.21 (95% CI -0.27 to -0.14)** — significant, 2 studies
+- **Plaque (Turesky index): WMD -0.31 (95% CI -0.54 to -0.07)** — significant, 4 studies
+- **Notable increase in tooth staining vs. sodium fluoride** — a real, documented tradeoff, not a hypothetical concern
+- Conclusion: stannous fluoride reduces gingivitis and plaque vs. conventional dentifrices, though heterogeneity in outcome measures made assessing true effect magnitude difficult
 
-## Cons / Safety Limitations
-- Not reported in source material
+**Johannsen et al. 2019 (PMID 31872105, Heliyon)** — systematic review, searches to June 2017:
+- 2 studies on calculus, **21 on plaque/gingivitis**, 4 on halitosis, 5 on stain met inclusion
+- Significant reductions in dental calculus and halitosis reported
+- No significant stain-reduction differences found in this review (a partial contrast with Paraskevas 2006's staining-increase finding — the two reviews examined different specific comparisons and should not be read as flatly contradictory)
+- Gingivitis meta-analysis favored stannous fluoride, but individual trials showed **substantial heterogeneity**
+- Conclusion: positive effect on calculus, plaque, gingivitis, stain, and halitosis overall, with a trend toward stronger effect than non-SnF2 toothpaste — but the authors explicitly call for a new generation of well-conducted RCTs, meaning they do not consider this evidence base definitive
 
-## Contraindications / Interactions
-- Not reported in source material
+**Bottom line:** two independent systematic reviews, 13 years apart, both find real statistically-significant benefit for gingivitis/plaque control specifically, which is a meaningfully consistent signal — but both also explicitly flag heterogeneity and call for better trials, so "moderate," not "strong," is the honest characterization.
 
-## Special Population Flags
-- Not reported in source material
+## Key Safety Data
+Tooth staining is a real, quantified tradeoff associated with stannous fluoride use (per Paraskevas 2006) — this is the most consistently documented adverse effect across the sources gathered. No other specific adverse-effect incidence data was located in this pass.
 
 ## Formulation Caveat
-Not reported in source material.
+"Stabilized" stannous fluoride formulations (the specific subject of the Johannsen 2019 review) are a modern reformulation intended to address historical staining/stability issues with older stannous fluoride products — evidence for stabilized formulations should not be assumed to be identical to older, non-stabilized stannous fluoride products.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for stannous fluoride is given in either source document — this section is intentionally omitted rather than inventing one.
+No specific Pharmacy Times brand percentage for stannous fluoride specifically was found in this database's subcategory files in this pass — no percentage is invented here. See [[fluoride-toothpaste]] for the Toothpaste, General Use category data (Crest 28%, Colgate 26%, Sensodyne 21%, etc.) and [[potassium-nitrate]] for the Sensitive Gums/Teeth category — stannous fluoride products may appear within either category depending on specific SKU marketing.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific stannous-fluoride brand or percentage is given in either source document. This database's drugs/ folder contains stannous-fluoride-plausible brands (e.g., Crest Pro-Health, Parodontax) filed under Toothpaste, General Use / Therapeutic Mouthwashes, but since none is individually discussed with source data, no ingredient-evidence link is asserted for any specific brand on this page.
+Crest Pro-Health, Parodontax — plausibly stannous-fluoride-based by real-world market identity (Crest Pro-Health specifically markets stabilized stannous fluoride), filed under Toothpaste, General Use / Therapeutic Mouthwashes in this database, but not individually confirmed against a label in this pass.
 
 ## Related
 - [[pharmacy overview]]
 - [[fluoride-toothpaste]]
 - [[potassium-nitrate]]
-- [[source — otc evidence corpus chatgpt continuation]]
