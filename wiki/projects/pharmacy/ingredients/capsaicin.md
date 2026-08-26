@@ -43,7 +43,7 @@ Not addressed in the sources reviewed — flagged as a gap.
 See Key Safety Data above — no human overdose cases documented; animal toxicity data suggest a wide margin of safety at topical OTC concentrations, with the main real-world risk being local burns from misuse (tight bandaging, heat, application to broken skin) rather than systemic toxicity.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Capzasin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Topical Analgesics — Arthritis/Joint Pain category 4%, Topical Analgesics (general) category 3%. These are pharmacist recommendation shares, not response/cure rates.
+Capzasin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Topical Analgesics — Arthritis/Joint Pain category 4%, Topical Analgesics (general) category 3%, **Diabetic Neuropathy Products category 25%** (second-largest share in that category, brand-page research 2026-08-26 — see [[diabetic-foot-care]] for the diminished-sensation/burn-risk interaction relevant to this population specifically). These are pharmacist recommendation shares, not response/cure rates.
 
 ---
 
