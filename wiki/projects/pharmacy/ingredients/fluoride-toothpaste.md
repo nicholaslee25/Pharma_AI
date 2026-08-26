@@ -2,46 +2,72 @@
 
 **Type:** Active Ingredient
 **Drug Class:** Anticaries agent
-**Evidence Grade:** Very high — one of the strongest evidence areas in the entire OTC universe per source
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Very high — one of the most extensively studied and consistently positive OTC evidence bases of anything in this database, backed by a 42,300-child Cochrane meta-analysis with a precisely quantified effect size
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/fluoride-toothpaste/statpearls-fluoride-caries-prevention.md, raw/primary-sources/fluoride-toothpaste/cochrane-marinho-2003.md
 
 ---
 
 ## Indication
-Cavity (caries) prevention.
+Prevention of dental caries (cavities) via daily toothbrushing. Dental caries is the most common disease worldwide, affecting 60–90% of the population (StatPearls) — and is non-communicable and preventable, which is what makes this evidence base so strong.
 
 ## Mechanism
-Not elaborated pharmacologically beyond its established anticaries action.
+Three pathways (StatPearls): (1) **demineralization inhibition** — fluoride in plaque fluid travels with acid into the enamel subsurface, forming fluorapatite, which resists acid dissolution far better than native hydroxyapatite; (2) **remineralization enhancement** — fluoride accelerates fluorapatite crystal growth on partially damaged tooth surfaces, making them less soluble in plaque acids; (3) **bacterial inhibition** — at low pH, fluoride penetrates bacterial cell walls as HF, disrupting enzyme activity with cumulative antimicrobial effect.
 
-## Evidence Summary
-Per source: "one of the strongest evidence areas in the entire OTC universe" — Cochrane reviews consistently find fluoride toothpaste significantly reduces caries versus non-fluoride toothpaste, making it foundational preventive dental care. Effectiveness depends on concentration, brushing frequency, technique, exposure duration, and age.
+## Dosing / Concentration
+| Product/Setting | Fluoride Concentration |
+|---|---|
+| Standard OTC toothpaste | 1,000–1,100 ppm |
+| High-risk children (age 7+) | 1,350–1,500 ppm |
+| Professional varnish (age <6 appropriate) | 22,600 ppm |
+| Professional gel (age 6+) | 5,000–12,300 ppm |
+| Community water fluoridation | 0.7 mg/L |
 
-## Pros
-- Cochrane-review-level consistent evidence for caries reduction — one of the strongest evidence bases of any product in this entire database
+**Pediatric application amount (fluorosis-prevention precaution):** smear amount for under age 3; pea-sized amount for ages 3–6; avoid fluoride rinses under age 6 due to swallowing risk.
 
-## Cons / Safety Limitations
-- Not reported in source material — no specific adverse-effect data given
+## Efficacy Evidence
 
-## Contraindications / Interactions
-- Not reported in source material
+**Marinho et al. 2003 Cochrane review (PMID 12535435)** — RCTs/quasi-RCTs, fluoride toothpaste vs. placebo, children up to age 16, ≥1 year duration, outcome = D(M)FS (decayed/missing/filled tooth surfaces) increment:
+- **74 studies included, 70 meta-analyzed, 42,300 children total**
+- **Pooled prevented fraction (PF): 24% (95% CI 21–28%, p<0.0001)** — a precise, statistically robust effect
+- **NNT: 1.6 children need to brush with fluoride toothpaste for 3 years to prevent one D(M)FS in a HIGH-caries population (2.6 D(M)FS/year baseline); 3.7 children in a LOWER-caries population (1.1 D(M)FS/year baseline)** — the number needed to treat depends heavily on baseline caries risk, an important nuance for counseling
+- Effect size INCREASED with: higher baseline caries rate, higher fluoride concentration, higher frequency of use, and supervised brushing — i.e., technique and compliance genuinely matter, not just product choice
+- Effect was NOT influenced by concurrent water fluoridation exposure (the toothpaste benefit holds regardless)
+- Reviewers' own conclusion: "supported by more than half a century of research, the benefits of fluoride toothpastes are firmly established"
+- Acknowledged gap even in this large review: little data on the primary (deciduous) dentition specifically, or on fluorosis as an adverse effect
 
-## Special Population Flags
-- Effectiveness depends partly on age (per source, alongside concentration, brushing frequency, technique, and exposure duration) — no specific pediatric dosing/concentration guidance is detailed in source material
+**Supplementary StatPearls-cited figures (concentration/format specific):**
+- Daily fluoride toothpaste vs. placebo: PF of 24.9% in young permanent dentition (closely matching the Cochrane 24% figure independently)
+- 1,500 ppm toothpaste outperformed standard 1,000 ppm dentifrices
+- Fluoride varnish (professional, twice yearly): 37% reduction in primary teeth, 43% in permanent teeth
+- Fluoride gel: 26% reduction in permanent teeth
+
+## Special Population Flags — Fluorosis Risk (real, age-specific safety data)
+- **Children under 4:** risk to permanent incisors and first molars if fluoride is overexposed/swallowed during tooth development
+- **Children 4–6:** risk to premolars and second molars
+- Fluoride varnish is the only HIGH-concentration fluoride formulation appropriate for children under 6, specifically because it is professionally applied in a small, controlled amount rather than self-administered at volume
+- USPSTF strongly recommends fluoride varnish application to primary teeth starting at eruption
+
+## Oral Fluoride Supplementation (non-fluoridated water areas, <0.3 ppm)
+| Age | Daily Dose |
+|---|---|
+| 6 months–3 years | 0.25 mg |
+| 3–6 years | 0.5 mg |
+| 6+ years | 1.0 mg |
 
 ## Formulation Caveat
-Effectiveness depends on concentration, brushing frequency, technique, and exposure duration — a general "fluoride toothpaste works" claim should retain these caveats rather than implying any formulation/technique combination is equally effective.
+Effectiveness depends on concentration, brushing frequency, technique, exposure duration, and supervision — the Cochrane data explicitly shows the effect size scales with these factors, so a blanket "fluoride toothpaste works" claim should retain this nuance rather than implying any product/technique combination performs equally.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-No specific Pharmacy Times brand percentage for Toothpaste, General Use is given in either source document — this section is intentionally omitted rather than inventing one.
+Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): **Crest — 28%**, **Colgate — 26%**, **Sensodyne — 21%**, **Aquafresh — 6%**, **Arm & Hammer — 4%**, **Biotène — 3%**, **parodontax — 3%**, **Tom's of Maine — 3%**, **Burt's Bees — 2%**, **hello — 2%**, **Listerine — 2%** of Toothpaste, General Use recommendations (1,147,689/month category volume). These are pharmacist recommendation shares, not efficacy rankings — Sensodyne's high share likely reflects its sensitivity-relief positioning rather than superior caries-prevention data, and not all listed brands are confirmed fluoride-based (e.g., some "natural" toothpaste lines market fluoride-free formulations — verify per specific SKU).
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-No specific fluoride-toothpaste brand or percentage is given in either source document. This database's drugs/ folder contains fluoride-toothpaste-plausible brands (e.g., Crest, Colgate, Aquafresh, Arm & Hammer, Tom's of Maine) filed under Toothpaste, General Use, but since none is individually discussed with source data, no ingredient-evidence link is asserted for any specific brand on this page.
+Crest, Colgate, Aquafresh, Arm & Hammer, Tom's of Maine — plausible fluoride-toothpaste brands by real-world market identity and category placement, though most major brands also sell fluoride-free variants (especially Tom's of Maine, which markets both), so fluoride content should be confirmed per specific SKU rather than assumed from brand name alone.
 
 ## Related
 - [[pharmacy overview]]
 - [[stannous-fluoride]]
 - [[hydroxyapatite-toothpaste]]
-- [[source — otc evidence corpus chatgpt continuation]]
