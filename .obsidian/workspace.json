@@ -183,6 +183,10 @@
   },
   "active": "d4e0a91c9f4be85d",
   "lastOpenFiles": [
+    "raw/primary-sources/digital-thermometers/nokc-2009-thermometry-review.md",
+    "raw/primary-sources/digital-thermometers/pubmed-shi-2020-tympanic-pediatric-meta-analysis.md",
+    "raw/primary-sources/digital-thermometers/pubmed-geijer-2016-temporal-artery-meta-analysis.md",
+    "raw/primary-sources/digital-thermometers",
     "raw/primary-sources/blood-sampling-devices-lancets/pubmed-loveland-1999-pain-rct.md",
     "raw/primary-sources/blood-sampling-devices-lancets/cdc-mmwr-2025-hbv-glucometer-sharing.md",
     "raw/primary-sources/blood-sampling-devices-lancets",
@@ -214,10 +218,6 @@
     "raw/primary-sources/topical-diclofenac",
     "raw/primary-sources/hydrocortisone/dailymed-hydrocortisone-1pct.md",
     "raw/primary-sources/hydrocortisone/statpearls-topical-corticosteroids.md",
-    "raw/primary-sources/hydrocortisone",
-    "raw/primary-sources/glucosamine-chondroitin/pubmed-clegg-2006-gait-trial.md",
-    "raw/primary-sources/glucosamine-chondroitin",
-    "raw/primary-sources/garlic/pubmed-ried-2016-meta-analysis.md",
-    "raw/primary-sources/fiber/pubmed-vanderschoot-2022-constipation-meta-analysis.md"
+    "raw/primary-sources/hydrocortisone"
   ]
 }

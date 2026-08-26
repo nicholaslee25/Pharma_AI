@@ -2,32 +2,47 @@
 
 **Type:** Diagnostic (device — evaluated with agreement/accuracy metrics, NOT drug-efficacy language)
 **Category:** Diagnostics
-**Evidence Grade:** Not applicable in drug-efficacy terms — stated resolution is not the same as accuracy
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate — real pooled meta-analytic data exists for tympanic and temporal artery methods, and both are consistently found less accurate than rectal (reference-standard) thermometry, not merely "different"
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/digital-thermometers/pubmed-geijer-2016-temporal-artery-meta-analysis.md, raw/primary-sources/digital-thermometers/pubmed-shi-2020-tympanic-pediatric-meta-analysis.md, raw/primary-sources/digital-thermometers/nokc-2009-thermometry-review.md
 
 ---
 
 ## What This Page Is
-Thermometer performance is evaluated by agreement with a reference thermometer at a given measurement site, not by a drug-style efficacy percentage.
+Thermometer performance is evaluated by agreement with a reference thermometer (rectal/core temperature) at a given measurement site, not by a drug-style efficacy percentage. **Key distinction: a device's stated display resolution (e.g., 0.1°F increments) is not the same as its true accuracy against a reference standard** — a meter can display fine increments while still having a much wider real error margin.
+
+## Efficacy/Accuracy Evidence (accuracy-metric framing)
+
+**Temporal artery thermometers — Geijer et al. 2016 (PMID 27033957, BMJ Open):** 37 articles, 5,026 participants, vs. core-temperature reference methods:
+- Pooled mean difference: **-0.19°C** (95% limits of agreement -1.16 to +0.77°C) — a wide scatter, moderate-quality evidence
+- Pooled sensitivity for fever detection: **0.72** (95% CI 0.61–0.81)
+- Pooled specificity: **0.94** (95% CI 0.87–0.97)
+- Trend toward UNDERESTIMATING temperature specifically in febrile patients — the group where accuracy matters most clinically
+- **Authors' conclusion: temporal artery thermometers are NOT sufficiently accurate to replace rectal/bladder/invasive reference methods**, and perform similarly to (i.e., no better than) tympanic thermometers — "both methods are inaccurate" in the authors' own words
+
+**Tympanic thermometers, pediatric — Shi et al. 2020 (PMID 32398036, BMC Pediatr):** 12 studies, 4,639 pediatric patients, cutoffs tested from 37.0–38.0°C:
+- Optimal cutoff identified: **37.8°C**, with sROC AUC **0.97** and Youden Index **0.83** at that cutoff
+- (Note: the exact pooled sensitivity/specificity percentage pair at this optimal cutoff was not confirmed from the PubMed abstract text in this pass — only AUC and Youden Index are cited here; a WebSearch-only-sourced pair of ~92%/91% was seen but is not independently confirmed against the primary abstract, so it is deliberately omitted rather than asserted as fact)
+- Conclusion: new-generation tympanic thermometry has high diagnostic accuracy for pediatric fever screening at the 37.8°C cutoff specifically — a different (and more favorable) picture than older tympanic-thermometer literature
+
+**Older background (NOKC 2009 report, Norwegian government HTA, hosted on NCBI Bookshelf):** an earlier systematic review (11 studies, N=1,426, adult hospitalized patients) found infrared tympanic thermometry did NOT identify an acceptable proportion of fever cases detected by rectal thermometry (low sensitivity) despite high specificity — i.e., older-generation tympanic thermometers tend to under-detect fever rather than over-detect it. This is consistent with the newer literature's overall message that tympanic/temporal methods trade sensitivity for specificity relative to rectal reference, though device generation and cutoff choice matter a great deal (see Shi 2020 above, which is notably more favorable for newer devices at the right cutoff).
 
 ## What to Measure and Why
-Per source:
-- Agreement with reference thermometer
-- Measurement site: oral / axillary / rectal / tympanic / temporal
-- **Key distinction: a stated resolution (e.g., 0.1°F) is not the same as accuracy of ±0.1°F.** A device can display readings in fine increments while still having a wider true error margin against a reference standard.
-
-## Why This Matters
-No product-specific agreement/accuracy data for any named digital thermometer is given in either source document. This page holds the evidence-schema framework the source specifies.
+Agreement with a reference (usually rectal) thermometer; measurement site (oral / axillary / rectal / tympanic / temporal — not interchangeable, can give systematically different readings for the same true body temperature); sensitivity/specificity for fever detection at a stated cutoff; and the cutoff temperature itself, which meaningfully changes reported accuracy (see Shi 2020: 37.8°C performed best among tested cutoffs in children).
 
 ## Special Notes
-- Different measurement sites (oral, axillary, rectal, tympanic, temporal) are not interchangeable and can give systematically different readings for the same underlying body temperature — site must always be recorded alongside any reading or accuracy claim.
+- Different measurement sites are not interchangeable and must always be recorded alongside any reading or accuracy claim — site-swapping a "normal" reading from one method to another's threshold can create a false reassurance or false alarm.
+- Across both major methods reviewed here (temporal and tympanic), the consistent finding is that non-invasive/non-rectal methods are less accurate than rectal reference, with tympanic accuracy in particular improving in newer-generation devices used at well-chosen cutoffs (Shi 2020) but historically weak per older literature (NOKC 2009).
+- No axillary- or oral-specific pooled accuracy data with hard numbers was located in this pass.
+
+## Pharmacy Times Context (recommendation share — NOT efficacy)
+Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): **Braun ThermoScan — 50%** (a tympanic thermometer — see Shi 2020 / NOKC 2009 above), **Vicks — 22%**, **Safety 1st — 17%**, **Exergen — 9%** (a temporal artery thermometer — see Geijer 2016 above), **MOBI — 2%** of Digital Thermometer recommendations (1,189,286/month category volume). These are pharmacist recommendation shares, not accuracy rankings — the market-leading brand (Braun ThermoScan, tympanic) is not thereby shown to be the most accurate; that depends on device generation and cutoff, per the evidence above.
 
 ---
 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU)
-No specific thermometer brand or product-level accuracy data is given in either source document. This database's drugs/ folder contains thermometer brands filed under Diagnostics (e.g., Braun ThermoScan, Exergen), but since none is discussed with specific data in either source, no performance claim is asserted for any of them here.
+Braun ThermoScan (tympanic), Exergen (temporal artery) — both filed under Diagnostics/Digital Thermometers in this database, and both technology types are directly covered by the meta-analyses above by method (not brand-specific study data). Vicks, Safety 1st, MOBI are plausible thermometer brands by real-world market identity and category placement, but no brand-specific or even confirmed measurement-technology data for these three was located in this pass.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc evidence corpus chatgpt continuation]]
