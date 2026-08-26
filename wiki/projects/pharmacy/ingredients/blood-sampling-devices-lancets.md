@@ -39,7 +39,7 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU)
-Accu-Chek, OneTouch, FreeStyle, Bayer Microlet 2, Contour Next — all filed under Diagnostics/Blood Sampling Devices-Lancets in this database by real-world market identity. No brand-specific pain, gauge, or infection-rate data was located for any of these five in this pass; the outbreak and pain-comparison evidence above applies to lancet use as a category (reuse/sharing behavior and puncture site), not to any single brand's design.
+Accu-Chek, OneTouch, FreeStyle, Bayer Microlet 2, Contour Next — all filed under Diagnostics/Blood Sampling Devices-Lancets in this database by real-world market identity. No brand-specific pain, gauge, or infection-rate data was located for any of these five in this pass; the outbreak and pain-comparison evidence above applies to lancet use as a category (reuse/sharing behavior and puncture site), not to any single brand's design. Brand-page research (2026-08-26) did confirm one device-specific spec: **Bayer Microlet 2** uses 28-gauge lancets with 5 adjustable depth settings — a plausible but not independently trial-confirmed comfort feature — see `drugs/Bayer Microlet 2.md`. The CDC reuse/sharing infection risk and the Loveland 1999 puncture-site pain finding above remain the strongest, most important evidence for this category regardless of brand.
 
 ## Related
 - [[pharmacy overview]]

@@ -54,7 +54,7 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU)
-FreeStyle, OneTouch, Accu-Chek, Contour Next — all filed under Diagnostics/Blood Glucose Monitors in this database by real-world market identity. No product-specific MARD or % within ISO-limits data for any of these four brands was located in this pass; per the King et al. review above, accuracy varies meaningfully by brand and by whether a given study was manufacturer-funded, so no brand-specific accuracy ranking is asserted here.
+Brand-page research (2026-08-26) has since located brand-specific accuracy data for all four brands: **FreeStyle** (34% share) — its Libre CGM line showed MARD ranging widely 7.8-18.33% and ISO 15197:2013 pass rates of 64.9-99.5% depending on study population, no data found for its classic fingerstick meters specifically; **OneTouch** (28%) — Verio line MARD 4.8-8.9%, multiple strip lots met/exceeded ISO 15197:2013; **Accu-Chek** (26%) — Performa models showed the widest single-brand MARD range found (2.3-20.5% across a nine-year retrospective dataset) despite meeting formal ISO compliance in controlled evaluation; **Contour Next** (12%) — the strongest figures located, 100% ISO 15197:2013 compliance and 100% Zone-A error-grid performance in two separate model evaluations, despite having the smallest market share of the four. None of these sources clearly separated fully-independent from manufacturer-or-manufacturer-adjacent-funded studies, so the King et al. funding-bias caveat above still applies to all four. See each brand's own `drugs/*.md` page for full detail and sourcing.
 
 ## Related
 - [[pharmacy overview]]
