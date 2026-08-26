@@ -1,52 +1,57 @@
 # At-Home COVID Tests
 
 **Type:** Diagnostic (device — evaluated with diagnostic-performance metrics, NOT drug-efficacy language)
-**Category:** Diagnostics
-**Evidence Grade:** Not applicable in drug-efficacy terms — performance is test/variant/timing-specific and must never be reported as one blanket accuracy figure
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Category:** Diagnostics (rapid antigen self-tests)
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** Moderate-to-high for the antigen-test class as a whole (large pooled datasets exist), but performance is brand/timing/population-specific — no single accuracy number applies to "at-home COVID tests" generally
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/at-home-covid-tests/cochrane-dinnes-2022-antigen-accuracy.md, raw/primary-sources/at-home-covid-tests/pubmed-cai-2024-self-test-meta-analysis.md, raw/primary-sources/at-home-covid-tests/cadth-rapid-antigen-considerations.md
 
 ---
 
 ## What This Page Is
-Diagnostic devices are evaluated on a completely different evidence schema from drugs. Per source: "Diagnostic products get: sensitivity, specificity, PPV, NPV, likelihood ratios, false-positive/negative rate, limit of detection, agreement with reference standard, time to result, usability, failure rate, population tested, symptomatic vs. asymptomatic performance, variant/strain effects, regulatory status — explicitly NOT drug-style efficacy percentages."
+Diagnostic devices are evaluated on a different evidence schema from drugs: sensitivity, specificity, PPV, NPV, likelihood ratios, false-positive/negative rate, limit of detection, agreement with a reference standard (usually RT-PCR), time to result, and performance broken out by symptomatic vs. asymptomatic status and by brand — never a single blanket "accuracy" percentage.
 
-## What to Measure and Why
-Performance depends on variant, viral load, symptom timing, vaccination status, specimen type, test generation, and the comparator PCR assay used. An old sensitivity estimate should never be applied to a current test, because viral variants and test generations change over time.
+## Mechanism
+Antigen tests are lateral-flow immunoassays that detect SARS-CoV-2 nucleocapsid protein in an anterior nasal swab sample, typically producing a result in under 30 minutes (vs. one or more days for lab-based PCR). They are highly specific but less sensitive than molecular (PCR) tests, meaning a positive result is highly trustworthy but a negative result does not rule out infection.
 
-**Required fields for any specific product/study record (per source):**
-- Reference standard (usually PCR)
-- Sample type
-- Population (symptomatic vs. asymptomatic — performance differs substantially between these groups)
-- Sensitivity
-- Specificity
-- PPV (positive predictive value)
-- NPV (negative predictive value)
-- LR+ / LR− (likelihood ratios)
-- False-positive/negative rate
-- Limit of detection
-- Time to result
-- Invalid-result rate
-- Operator training
-- Environment
-- Device version / manufacturer
-- Study date
-- Variant/strain in circulation at time of study
+## Efficacy Evidence (accuracy-metric framing)
 
-**Correct storage format (per source):** "Test X: sensitivity X%, specificity Y%, population Z, vs. reference standard Q, period D" — never a blanket "rapid tests are 80% accurate."
+**Cochrane review (Dinnes et al. 2022, PMID 35866452)** — 155 study cohorts, 100,462 samples, 16,822 confirmed cases, 49 commercial antigen assays:
+- Sensitivity, symptomatic: **73.0%** (95% CI 69.3–76.4%)
+- Sensitivity, asymptomatic: **54.7%** (95% CI 47.7–61.6%)
+- Sensitivity, first week of symptoms: **80.9%** (95% CI 76.9–84.4%) vs. second week: **53.8%** (95% CI 48.0–59.6%)
+- Specificity: **99.1%** symptomatic, **99.7%** asymptomatic
+- By brand: sensitivity ranged **34.3–91.3%** (symptomatic) and **28.6–77.8%** (asymptomatic) across individually evaluated assays — only 7 of 20 assays met the WHO's ≥80% sensitivity bar for symptomatic testing
+- PPV illustration: at 5% prevalence (symptomatic, week 1), PPV ≈89% (~1 in 10 positives false, ~1 in 5 cases missed); at 0.5% prevalence (asymptomatic), PPV only 38–52%
 
-## Why This Matters
-No product-specific numerical data (sensitivity/specificity for any named at-home COVID test) is given in either source document. This page exists to hold the evidence-schema framework the source specifies, so that if product-specific data is added later, it is recorded correctly rather than collapsed into a single misleading accuracy number.
+**Self-testing-specific meta-analysis (Cai et al. 2024, PMID 39494084)** — 45 studies, 50,897 patients, fully self-performed antigen tests vs. RT-PCR: pooled sensitivity **77%**, specificity **~100%**, diagnostic odds ratio 625.95. Higher sensitivity observed with Abbott Panbio assays, self-collected nasal (vs. other) swabs, and higher viral load (lower PCR Ct cutoff) at time of testing.
+
+**Bottom line:** these two independent pooled analyses roughly agree — sensitivity in the 55–80% range depending heavily on symptom status/timing, with consistently high (~99–100%) specificity. No single ingredient-style "efficacy grade" applies; performance must be read by population and timing, not as one number.
+
+## What to Measure and Why (per CADTH review)
+Performance depends on variant, viral load, symptom timing, vaccination status, specimen type, test generation, and the comparator PCR assay's Ct cutoff. Serial testing (repeating over several days) is recommended specifically because single-test sensitivity is limited — this is a designed-in mitigation, not an incidental detail. Combined nasal + throat sampling produced higher detection rates than nasal-only sampling in cited literature, though FDA-authorized home tests are nasal-only.
+
+**Required fields for any specific product/study record:** reference standard, sample type, population (symptomatic vs. asymptomatic), sensitivity, specificity, PPV, NPV, LR+/LR−, limit of detection, time to result, device version/manufacturer, study date, and circulating variant at time of study. Correct storage format: "Test X: sensitivity X%, specificity Y%, population Z, vs. reference standard Q, period D" — never a blanket "rapid tests are 80% accurate."
+
+## Key Safety / Usability Data
+- Real-world accessibility barriers (CADTH): manual dexterity and vision requirements for self-administration; nasal swab discomfort was the most commonly cited barrier to use; cost ($19.99–$46/package in the cited Canadian market data); temperature storage constraints (2–30°C); instruction-language and distribution-access barriers for vulnerable populations.
+- A 2021 German study cited in the CADTH review found over a quarter of participants doubted test validity, particularly for negative results — a real adherence/trust consideration for an at-home product.
+- False-negative risk rises the longer a person has had symptoms (viral load declines) and is higher in asymptomatic testing generally — both are inherent to antigen-test biology, not a defect of any one brand.
 
 ## Special Notes
-- Symptomatic vs. asymptomatic testing populations must be tracked separately — a test's real-world performance in each group is not interchangeable.
-- Variant/strain effects mean a sensitivity figure from an earlier study period should not be assumed to hold for later variants.
+- Symptomatic vs. asymptomatic testing populations must be tracked separately — performance in each group is not interchangeable, per both pooled sources above.
+- A sensitivity figure from an earlier study period/variant should not be assumed to hold for later variants — none of the sources gathered here provide variant-stratified data, which is itself a real gap.
+
+## Pharmacy Times Context (recommendation share — NOT efficacy)
+No dedicated at-home-COVID-test brand-share category was found among this database's Pharmacy Times subcategory files in this pass — no percentage is invented here.
 
 ---
 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU)
-No specific at-home COVID test brand or product-level performance data is given in either source document. This database's drugs/ folder contains diagnostic brands filed under the Diagnostics category (e.g., BinaxNOW, FlowFlex, CareStart, Ellume) that plausibly belong to this category by name, but since none is discussed with specific data in either source, no performance claim is asserted for any of them here.
+This database's drugs/ folder contains diagnostic brands filed under the Diagnostics category (e.g., BinaxNOW, FlowFlex, CareStart, Ellume) that plausibly belong to this category by name. Brand-specific FDA EUA performance data (individual PPA/NPA tables) was not successfully extracted in this pass — the Cochrane review above documents that sensitivity varies widely by brand (34.3–91.3%), so no single brand's number should be assumed from the class-level figures here without checking that brand's own EUA summary.
 
 ## Related
 - [[pharmacy overview]]
-- [[source — otc evidence corpus chatgpt continuation]]
+- [[blood-glucose-monitors]]
+- [[digital-thermometers]]
