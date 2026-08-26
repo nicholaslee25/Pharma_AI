@@ -12,7 +12,7 @@ Decongestants, Nasal Spray - 3%
 Saline Nasal Moisturizers - 2%
 
 ## Overview
-No FDA drug label exists — Xlear is explicitly marketed as **drug-free**: a saline nasal spray with added xylitol (ingredients per manufacturer: purified water, xylitol, USP sodium chloride, grapefruit seed extract). This is a legitimate "no label found, not a drug" case, unlike its category-mates in Decongestants, Nasal Spray (Afrin, Dristan, Neo-Synephrine, etc.) which all contain an actual vasoconstrictor active ingredient — Xlear's placement in that category is somewhat misleading since it works by a completely different, non-pharmacological mechanism (osmotic/moisturizing action plus xylitol's proposed anti-adhesive effect on bacteria). New finding — no prior ingredient pointer existed since none was applicable.
+No FDA drug label exists — Xlear is explicitly marketed as **drug-free**: a saline nasal spray with added xylitol (ingredients per manufacturer: purified water, xylitol, USP sodium chloride, grapefruit seed extract). This is a legitimate "no label found, not a drug" case, unlike its category-mates in Decongestants, Nasal Spray (Afrin, Dristan, Neo-Synephrine, etc.) which all contain an actual vasoconstrictor active ingredient — Xlear's placement in that category is somewhat misleading since it works by a completely different, non-pharmacological mechanism (osmotic/moisturizing action plus xylitol's proposed anti-adhesive effect on bacteria). **Update 2026-08-26:** a general [[saline-nasal-sprays]] evidence page has since been built during Saline Nasal Moisturizers research — Xlear's saline base (isotonic sodium chloride) is covered there; the added xylitol and grapefruit seed extract remain specific to Xlear and are not addressed by that page.
 
 ## Pros
 - **No rebound congestion risk** — since there's no vasoconstrictor active ingredient, the central safety concern dominating every other product in its Decongestants category simply doesn't apply; can be used as often as needed without the 3-day limit, per manufacturer marketing
@@ -38,4 +38,5 @@ No ingredient page applies — this is a legitimate "not a drug" case. Worth fla
 
 ## Related
 - [[oxymetazoline]]
+- [[saline-nasal-sprays]]
 - [[pharmacy overview]]
