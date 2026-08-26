@@ -54,6 +54,7 @@ Benzocaine and lidocaine are frequently marketed together as a class, but the me
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
 **Topical Anesthetics** (First Aid category, Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed, 1,142,647/month volume): Aspercreme with Lidocaine 37%, Salonpas Lidocaine 29%, Dermoplast 14%, Lanacane First Aid Spray 13%, Bactine Max 3%, Blue-Emu 3%, Pomada Dragon 1% — this category is dominated by LIDOCAINE products, the comparatively safer anesthetic per the data above.
 **Canker Sore Treatments** (Oral Care category, 778,992/month volume): Orajel 43%, Anbesol 22%, Kank-A 14%, DenTek Canker Relief Patches 9%, Curoxen Mouth Sore Relief 7%, GUM Canker-X 5% — Orajel, Anbesol, and Kank-A are the brands in this list plausibly BENZOCAINE-based by real-world market identity, meaning the methemoglobinemia data above is most directly relevant to this second category, not the lidocaine-dominated first one.
+**Diabetic Neuropathy Products** (Diabetic Healthcare category, 903,782/month volume, brand-page research 2026-08-26): Aspercreme with Lidocaine 33%, Capzasin (capsaicin, see [[capsaicin]]) 25%, Biofreeze (menthol) 24%, Dragon Lidocaine Roll On 2% — confirming lidocaine's presence extends beyond the general Topical Anesthetics category into diabetic neuropathy symptom relief specifically, still as temporary symptomatic numbing rather than a neuropathy-modifying treatment.
 
 ---
 
