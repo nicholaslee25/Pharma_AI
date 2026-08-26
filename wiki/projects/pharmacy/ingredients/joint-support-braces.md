@@ -30,7 +30,7 @@ DonJoy-style custom hinged braces (e.g. for post-ACL-reconstruction) are markete
 
 ## Special Notes
 - "No RCT exists for this specific knee sleeve" is the norm for this category, not a gap in this vault's research — Class I 510(k)-exempt status means manufacturers are not required to generate outcome-trial evidence to market these devices, unlike drugs or Class II/III devices.
-- Copper-infusion marketing (see [[Copper Fit]]) is a materials/marketing claim layered on top of ordinary compression-sleeve mechanics — it is evaluated separately below since it makes an affirmative therapeutic claim beyond generic compression.
+- **Discrepancy flagged: [[Copper Fit]]'s copper-infusion marketing claim is not supported by therapeutic evidence found in this pass.** Copper has documented antimicrobial/antifungal properties relevant to hospital-surface infection control, but no clinical trial isolating a copper-specific joint-pain or inflammation benefit (vs. compression alone) was located. Independent reviewers (MedicalNewsToday, HighYa) attribute Copper Fit's real-world benefit to compression, treating the copper content as primarily an odor-control/marketing feature. See [[Copper Fit]] for full detail — flagged on both pages per this project's discrepancy convention.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
 Joint Support/Braces category share: ACE 53%, Futuro 20%, Copper Fit 13%, Mueller 9%, DonJoy 5%. This is a pharmacist-recommendation share from the Pharmacy Times survey, not a clinical efficacy ranking — see the class-level evidence above, which does not distinguish among these brands on outcome data.
