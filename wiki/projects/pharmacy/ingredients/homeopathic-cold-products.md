@@ -2,66 +2,57 @@
 
 **Type:** Active Ingredient (class — homeopathic, highly diluted preparations)
 **Drug Class:** Homeopathic preparations
-**Evidence Grade:** Insufficient/no convincing evidence of clinically meaningful benefit at claimed dilutions
-**Last updated:** 2026-08-23
-**Sources:** raw/pharmacy-research/chatgpt-dossier-citation-index.md
+**Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
+**Evidence Grade:** No convincing evidence of clinically meaningful benefit at claimed dilutions — and the strongest available systematic review shows a textbook bias-quality gradient (better-designed trials found nothing; weaker trials found an effect)
+**Last updated:** 2026-08-26
+**Sources:** raw/primary-sources/homeopathic-cold-products/pubmed-gassinger-1981-and-hawke-2018.md
 
 ---
 
 ## Indication
-Marketed generally for cold/flu symptom relief and prevention.
+Marketed generally for cold/flu symptom relief and prevention. This page covers general/combination homeopathic cold products where no single active constituent has dedicated study data. For the two products in this space that DO have substantial dedicated evidence, see [[oscillococcinum]] (a true homeopathic dilution with mixed/weak Cochrane-level evidence) and [[elderberry]] / [[pelargonium]] (explicitly NOT homeopathic dilutions — pharmacologically active herbal extracts that happen to appear in the same "Homeopathic ___ Products" Pharmacy Times categories; do not conflate).
 
 ## Mechanism
-Not reported in source material — homeopathic preparations at claimed dilutions do not have an established pharmacologic mechanism per the continuation source's framing.
+Homeopathic preparations at claimed dilutions (often far beyond Avogadro's number, meaning no molecules of the original substance are statistically likely to remain) do not have an established conventional pharmacologic mechanism.
 
-## Evidence Summary
-Systematic reviews have generally failed to demonstrate convincing efficacy beyond placebo for common-cold/flu symptoms at claimed homeopathic dilutions (continuation source). This page covers general/combination homeopathic cold products where no single active constituent has dedicated study data (for the two products in this source set that DO have substantial dedicated evidence, see oscillococcinum.md — a true homeopathic dilution with mixed/weak Cochrane-level evidence — and elderberry.md / pelargonium.md, which are explicitly NOT homeopathic dilutions but pharmacologically active herbal extracts that happen to appear in the same "Homeopathic ___ Products" Pharmacy Times categories). No adequate product-specific RCT was located for the exact commercial "Hyland Complete Flu Care" combination product, and evidence for individual homeopathic ingredients cannot automatically be transferred to a combination product with different potencies and formulation.
+## Efficacy Evidence
 
-### Studies
+**Gassinger et al. 1981 (PMID 7195723)** — RCT, 53 outpatients with common cold/flu-like illness, homeopathic Eupatorium perfoliatum D2 vs. aspirin (assessed via symptom checklist/exam at days 1, 4, 10):
+- No significant difference between groups in subjective complaints, temperature, or lab findings
+- **Important limitation not to gloss over: this trial had NO placebo arm.** "Equally effective as aspirin" for a self-limiting illness does not establish that either treatment beats no treatment — this is a genuine gap in what the study can actually show, not a confirmation of efficacy for either arm.
 
-**Eupatorium perfoliatum D2 vs. aspirin trial**
-- PMID: 7195723
-- Design: Randomized trial, N=53 patients with common-cold/influenza-like illness
-- Result: No significant difference vs. aspirin in subjective complaints, temperature, or laboratory findings.
+**Hawke et al. 2018 Cochrane review (PMID 29630715, later updated as PMID 30196554)** — 8 RCTs, 1,562 children aged 0–16, oral homeopathic products vs. placebo or conventional treatment for acute respiratory tract infections (ARTIs):
+- Real methodological problems across included trials: inconsistent methodology, high attrition, no intention-to-treat analysis in several, selective reporting, protocol deviations; 3 of 8 studies funded by homeopathy manufacturers
+- **The single most important finding: studies rated LOW risk of bias showed NO benefit from homeopathic products; studies rated UNCERTAIN or HIGH risk of bias were the ones reporting a beneficial effect.** This inverse relationship between study quality and reported benefit is exactly the pattern expected if the true effect is null and weaker studies are picking up bias/noise rather than a real signal.
+- Non-individualized products, ARTI prevention: OR 1.14 (95% CI 0.83–1.57) — low-quality evidence of little-to-no effect
+- Individualized homeopathy, reducing antibiotic-use need: OR 0.79 (95% CI 0.35–1.76, N=369) — low-quality, CI crosses 1
+- Individualized treatment, short-term cure: OR 1.31 (95% CI 0.09–19.54, N=155) — very-low-quality, essentially uninformative CI
+- Individualized treatment, long-term cure: OR 1.01 (95% CI 0.10–9.96) — very-low-quality, again uninformative
+- No serious adverse events reported across studies; one study found increased non-severe adverse events in the treatment arm specifically
 
-**Cochrane review — homeopathic products for acute respiratory infections in children**
-- PMID: 29630715
-- Result: Higher-quality trials generally did not establish benefit.
+**Bottom line:** across both the older single-product RCT and the more rigorous modern Cochrane review, there is no convincing evidence of a real treatment effect beyond placebo for general homeopathic cold/respiratory products, and the pattern of "better trials find nothing" is itself informative, not just an absence of evidence.
 
-**Overall (per dossier, re: Hyland Complete Flu Care specifically):** Exact-product clinical efficacy remains unestablished.
-
-## Pros
-- Not reported in source material — no established pharmacologic mechanism or convincing efficacy signal identified for general/combination homeopathic cold products
-
-## Cons / Safety Limitations
-- Systematic reviews have generally failed to demonstrate convincing efficacy beyond placebo for common-cold/flu symptoms at claimed dilutions
-- No adequate product-specific RCT located for the exact commercial Hyland Complete Flu Care combination
-- Evidence for individual homeopathic ingredients cannot be automatically transferred to a combination product with different potencies/formulation
-- **Pediatric homeopathic cough products:** per the continuation source, evidence is "not convincing"; the bigger risk is delaying effective evaluation/treatment while relying on an ineffective product, not merely that the product itself doesn't work
-
-## Contraindications / Interactions
-- Not reported in source material
+## Key Safety Data
+No serious adverse events identified in the Cochrane review; one study noted increased non-severe adverse events in the homeopathic-treatment group vs. control. The primary documented risk with pediatric homeopathic products specifically is **delaying effective evaluation/treatment while relying on an ineffective product** — not direct toxicity from the product itself, since these preparations are typically too dilute to contain a pharmacologically active dose of anything.
 
 ## Special Population Flags
-- Pediatric: see the pediatric homeopathic cough note above — the primary documented risk is delayed appropriate care, not a direct toxicity from the product itself
+**Pediatric:** the main documented risk is delayed appropriate care (see above), not a direct toxicity risk from the diluted preparation itself.
 
 ## Formulation Caveat
-Classify general homeopathic cold products as "insufficient convincing evidence / no established pharmacologic mechanism at claimed dilution," not equivalent to conventional cold medicine (per continuation source). Homeopathic products should not be grouped with pharmacologically active herbal extracts (elderberry, Pelargonium) even when they share a Pharmacy Times category — see this database's "Correction 4" framing on the elderberry, oscillococcinum, and pelargonium pages.
+General homeopathic cold products should be classified as "insufficient convincing evidence / no established pharmacologic mechanism at claimed dilution" — not equivalent to conventional cold medicine. Homeopathic products should not be grouped with pharmacologically active herbal extracts (elderberry, Pelargonium) even when they share a Pharmacy Times category. No adequate product-specific RCT was located for exact commercial combination products (e.g., Hyland Complete Flu Care) in this pass — evidence for a single homeopathic ingredient studied in isolation cannot be automatically transferred to a combination product with different potencies/formulation.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Homeopathic Cold Products (Pharmacy Times 2026 OTC Guide, survey of ~1,700 pharmacists): Zicam — 34%, Cold-EEZE — 26%, Sambucol — 17%, Hyland Defend Cough + Cold — 12%, Boiron ColdCalm — 11%.
+Homeopathic Cold Products (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Zicam — 34%, Cold-EEZE — 26%, Sambucol — 17%, Hyland Defend Cough + Cold — 12%, Boiron ColdCalm — 11%.
 Homeopathic Flu Products: Sambucol Black Elderberry Cold & Flu Relief — 40%, Boiron Oscillococcinum — 38%, Hyland Complete Flu Care — 18%, Umcka Cold+Flu — 4%.
 These are pharmacist recommendation shares, not response/cure rates. Zicam, Cold-EEZE, Sambucol, Oscillococcinum, and Umcka each have their own dedicated evidence pages in this database — see Related below.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Hyland Complete Flu Care, Hyland Defend Cough + Cold, Boiron ColdCalm, Boiron ColdCalm Kids — named directly in the Pharmacy Times homeopathic category tables in the source, with no dedicated product-specific RCT identified for any of them individually. Hyland's 4 Kids Cold 'n Cough, Hyland's 4 Kids Cough Syrup, and other Hyland's pediatric products are plausibly related to the same brand family but are not individually named/confirmed in the two source documents. Children's Chestal Honey, Boiron Chestal, and Boiron Children's Chestal Honey are a separate Boiron product line named in the Pharmacy Times Homeopathic Cough Products table (Boiron Chestal — 11%) but with no dedicated evidence discussed in source beyond the general homeopathic-evidence framing on this page.
+Hyland Complete Flu Care, Hyland Defend Cough + Cold, Boiron ColdCalm, Boiron ColdCalm Kids — named directly in the Pharmacy Times homeopathic category tables, with no dedicated product-specific RCT identified for any of them individually in this pass. Hyland's 4 Kids Cold 'n Cough, Hyland's 4 Kids Cough Syrup are plausibly related to the same brand family but not individually confirmed. Boiron Chestal / Children's Chestal Honey is a separate Boiron product line named in the Pharmacy Times Homeopathic Cough Products table, with no dedicated evidence beyond the general homeopathic-evidence framing on this page.
 
 ## Related
 - [[pharmacy overview]]
 - [[elderberry]]
 - [[oscillococcinum]]
 - [[pelargonium]]
-- [[source — otc guide master dossier volume 2]]
-- [[source — otc evidence corpus chatgpt continuation]]
