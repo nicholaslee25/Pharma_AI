@@ -69,8 +69,11 @@ Mag-Ox 400 (magnesium oxide, per brand-name convention — notably one of the LO
 
 **New ingredient page created 2026-08-27 (Phillips' brand-specific pass): [[magnesium-hydroxide]]** covers magnesium's SEPARATE use as a saline/osmotic laxative (Milk of Magnesia, ~1200mg/15mL, labeled doses up to 4,800mg/day) — a pharmacologically distinct, much-higher-dose context than this page's dietary-supplement framing (adult Tolerable Upper Intake Level 350mg for supplemental magnesium). Applying this page's dietary-supplement safety data to the laxative-use context would understate real hypermagnesemia/renal-toxicity risk at those higher doses. See [[magnesium-hydroxide]] for that dedicated evidence.
 
+**A third, distinct magnesium context found 2026-08-27 (Topicals/Foot Care Products pass): topical/transdermal magnesium sulfate (Epsom salt), e.g. [[Dr. Teal's]] Epsom Salt Soaking Solution** — an FDA OTC drug labeled for external "relief of pain from minor sprains and bruises" (and, on the same product, an internal saline-laxative use at oral doses). **Real, contested evidence flag:** the popular claim that soaking absorbs therapeutic magnesium through the skin rests mainly on Waring 2004, a small (n=19), uncontrolled, never-peer-reviewed study hosted by the Epsom Salt Council (a real conflict-of-interest concern) — a separate 2017 peer-reviewed review (Nutrients) found current evidence does not support transdermal magnesium absorption claims generally. No dedicated ingredient page exists yet for topical magnesium sulfate specifically; this gap and the contested-evidence finding are noted here and on `drugs/Dr. Teal's.md` rather than resolved either way.
+
 ## Related
 - [[pharmacy overview]]
 - [[calcium]]
 - [[proton-pump-inhibitors]]
 - [[magnesium-hydroxide]]
+- [[Dr. Teal's]]

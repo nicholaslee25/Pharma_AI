@@ -69,6 +69,8 @@ All 7 Thermal Relief Products brands now individually researched as of 2026-08-2
 
 **Pomada Dragon** (filed under Topical Anesthetics, 1%, First Aid — NOT Thermal Relief Products) — confirmed camphor 4% + menthol 10% + methyl salicylate 30%, IDENTICAL to BENGAY Ultra Strength's formulation under a different brand name, and a genuine category-placement discrepancy since it contains no anesthetic ingredient despite its "Topical Anesthetics" filing — see `drugs/Pomada Dragon.md`.
 
+**[[Dr. Teal's]] confirmed 2026-08-27** (Foot Care Products, 5%): Pre and Post Workout Pain Relief Cream is menthol 10% (labeler PDC Brands), standard concentration; the brand's other relevant SKU (Epsom Salt Soaking Solution, magnesium sulfate) is a completely different mechanism — see `drugs/Dr. Teal's.md` for a real, contested-evidence flag on transdermal magnesium absorption.
+
 **[[Gold Bond]] confirmed 2026-08-27** (Topicals): menthol-only, low-concentration line (Medicated Powder 1%, Medicated/Extra Strength Lotion 0.5%, some SKUs add pramoxine HCl 1% for anesthesia) — well below the FDA's 3% burn-risk threshold, driving Foot Care Products (15%), Therapeutic Skin Care/Moisturizers (3%), and Topical Poison Ivy/Oak Remedies (1%) shares. **Real mechanism-gap discrepancy flagged:** the same menthol-only Medicated Powder also drives part of Gold Bond's 9% share of Jock Itch/Antifungal Products, despite having zero antifungal activity — Gold Bond separately sells a genuine miconazole nitrate 2% Anti-Fungal Spray/Cream/Powder line, meaning the brand spans both an actual antifungal drug and a non-antifungal comfort product within the same infection-treatment category. See `drugs/Gold Bond.md`.
 
 ## Related
