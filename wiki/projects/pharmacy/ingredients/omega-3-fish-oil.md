@@ -76,6 +76,8 @@ Nature Made, Nature's Bounty, Natrol Omega-3 Fish Oil, Nordic Naturals, Oceanblu
 
 **Cross-category finding (2026-08-27, Pediatrics/Children's Multivitamins research): Nature Made Kids First Multivitamin with Omega-3** — confirmed via manufacturer labeling to combine standard pediatric multivitamin nutrients with 113.5mg fish oil (25mg EPA + 5mg DHA) per gummy serving, filed under Children's Multivitamins (9% share) rather than this omega-3 category. Contains fish (tuna) per its own allergen labeling — a real allergen a caregiver might not expect from a product marketed as a "multivitamin." The 30mg total omega-3 dose is small relative to the adult doses discussed in the efficacy evidence above; this page's VITAL/REDUCE-IT findings should not be assumed to transfer to this pediatric dose. See `drugs/Nature Made Kids First Multivitamin.md`.
 
+**Second cross-category finding (2026-08-27): SmartyPants** (Children's Multivitamins, 5% share) — several of its SKUs (Kids Complete, Kids Plus Multi & Omegas, Toddler Multi & Omegas) contain omega-3 DHA/EPA from fish oil + algal oil, yet the brand markets ALL formulas, including these, as "Certified Free From the 9 Major US Allergens" (which includes fish). This is the opposite allergen-disclosure conclusion from Nature Made Kids First Multivitamin directly above, for the same underlying ingredient (fish-derived omega-3) in the same product category — plausible if SmartyPants' fish oil is refined enough to remove allergenic protein, but not independently verified in this pass, and at least one third-party ingredient scan flagged possible fish-derived content despite the certification. See `drugs/SmartyPants.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[coq10]]
