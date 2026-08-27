@@ -49,6 +49,10 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 
 **[[Babyganics]] confirmed 2026-08-27 — NOT this ingredient class at all.** Babyganics Natural Insect Repellent uses an essential-oil blend (rosemary/citronella/geranium/cedarwood/peppermint/lemongrass oils in a soybean oil base), registered as a FIFRA Section 25(b) "minimum risk" pesticide **EXEMPT from EPA registration entirely** — a lower regulatory bar than this page's DEET/picaridin, which undergo full EPA review. Consumer Reports' own testing explicitly recommends avoiding "natural" essential-oil repellents, which "earned dismal scores" versus EPA-registered actives. See `drugs/Babyganics.md`.
 
+**[[Stem]] confirmed 2026-08-27** (manufacturer SC Johnson) — rosemary oil main active, **soybean oil ~95% of total product volume**, explicitly confirmed EPA-exempt (not merely plausible, per independent reporting). Third and most pronounced soybean-oil-allergen case in this category, alongside Babyganics and Hello Bello. See `drugs/Stem.md`.
+
+**Category-wide pattern, confirmed 2026-08-27:** three of this category's six brands (Babyganics 10%, Hello Bello 6%, Stem 3% — 19% combined share) are essential-oil-based, EPA-exempt-or-plausibly-exempt "natural" repellents, all sharing a soybean-oil carrier base — a real, recurring allergen consideration this database had not previously documented at category scale, plus the shared Consumer-Reports-flagged efficacy gap relative to the EPA-registered DEET/picaridin majority (Off! 58%, Cutter 16%, Natrapel 7% — 81% combined share).
+
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
@@ -57,3 +61,4 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 - [[Babyganics]]
 - [[Natrapel]]
 - [[Hello Bello]]
+- [[Stem]]
