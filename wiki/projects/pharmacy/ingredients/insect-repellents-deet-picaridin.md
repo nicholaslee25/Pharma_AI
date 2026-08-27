@@ -41,8 +41,10 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 
 ## Brands Using This Ingredient Class (in this database — formulation not individually verified per SKU beyond what's noted)
 **[[Off!]]** (58%, category leader) — spans DEET (5-99% depending on SKU), picaridin (DEET-free lines), PMD (~10%, "Botanicals" line), and various essential oils ("Kids" line) — see `drugs/Off!.md` and `drugs/Off.md` (same brand, two category-file rows).
+**[[Cutter]]** (16%, manufacturer Spectrum Brands) confirmed 2026-08-27 — DEET at multiple strengths (10-30%+ across SKUs), picaridin (7-20% across SKUs), and oil of lemon eucalyptus/PMD (not for children under 3) — see `drugs/Cutter.md`.
 
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
 - [[Off!]]
+- [[Cutter]]
