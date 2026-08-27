@@ -63,7 +63,7 @@ Synergistic CNS depression with alcohol, sedatives, hypnotics, tranquilizers —
 Management: airway stabilization, supplemental oxygen, continuous monitoring, IV access, ECG. Sodium bicarbonate is an option for prolonged QRS/arrhythmias. Benzodiazepines for agitation/seizures. Physostigmine (an anticholinesterase) may be warranted for severe toxicity but requires toxicologist consultation and bedside atropine availability given its own risks. OTC label directs contacting Poison Control (1-800-222-1222) for suspected overdose.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): **Dramamine for Kids — 71%** of Children's Motion Sickness Products recommendations (637,029/month category volume), well ahead of Sea-Band (18%, a non-drug acupressure wristband — a completely different mechanism) and Nauzene Kids (11%, formulation not confirmed as dimenhydrinate-based here). This is a pharmacist recommendation share, not an efficacy rate.
+Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): **Dramamine for Kids — 71%** of Children's Motion Sickness Products recommendations (637,029/month category volume), well ahead of Sea-Band (18%, a non-drug acupressure wristband with a weak/inconsistent independent evidence base per `drugs/Sea-Band.md` — a completely different mechanism) and Nauzene Kids (11%, confirmed 2026-08-27 via DailyMed to be homeopathic lactic acid 3X + wild hops/Bryonia alba 3X — NOT dimenhydrinate-based, resolving this page's earlier hedge; see `drugs/Nauzene Kids.md`). This is a pharmacist recommendation share, not an efficacy rate.
 
 ---
 
