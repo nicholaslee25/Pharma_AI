@@ -76,7 +76,7 @@ Aleve (naproxen) recommendation shares across this database's categories (Pharma
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Aleve — confirmed naproxen sodium 220mg per its own DailyMed label pulled above. Aleve PM (naproxen + diphenhydramine, per brand-name convention) and AleveX (topical naproxen-family product) appear in this database's category tables under the Aleve brand family, but their individual labels were not independently pulled/verified in this pass — formulation not confirmed per SKU beyond the base Aleve caplet.
+Aleve — confirmed naproxen sodium 220mg per its own DailyMed label pulled above. **Aleve PM confirmed 2026-08-27:** naproxen sodium 220mg + diphenhydramine HCl 25mg per DailyMed — see the new [[oral-diphenhydramine-sleep-aid]] page for the sleep-aid component's evidence/safety profile. See `drugs/Aleve PM.md`. AleveX (topical naproxen-family product) appears in this database's category tables under the Aleve brand family, but its label was not independently pulled/verified in this pass.
 
 ## Related
 - [[pharmacy overview]]
