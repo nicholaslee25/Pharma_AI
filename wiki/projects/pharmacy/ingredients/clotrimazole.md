@@ -53,14 +53,15 @@ Topical application has negligible systemic absorption through intact skin. Oral
 Not addressed with a dedicated overdose section in the sources reviewed — topical use carries minimal systemic absorption and correspondingly low overdose risk; OTC label directs contacting Poison Control if swallowed as a standard precaution.
 
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
-Lotrimin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Jock Itch Antifungal Products 49%, Toe/Foot Antifungal Products 39%. These are pharmacist recommendation shares, not response/cure rates. Note the Lotrimin brand also markets terbinafine-based products under the same brand name in the real-world market (e.g., "Lotrimin Ultra") — not all Lotrimin products are clotrimazole specifically; see [[terbinafine]] for that separate active ingredient.
+Lotrimin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Jock Itch Antifungal Products 49%, Toe/Foot Antifungal Products 39%. These are pharmacist recommendation shares, not response/cure rates. **Correction (2026-08-27):** this page previously stated the Lotrimin brand also markets terbinafine-based products (e.g., "Lotrimin Ultra") — this was inaccurate. Confirmed via DailyMed: "Lotrimin Ultra" is **butenafine hydrochloride 1%**, a chemically distinct benzylamine antifungal, not terbinafine — see the new [[butenafine]] ingredient page, which also documents genuine head-to-head RCT evidence of butenafine outperforming clotrimazole on both clinical and mycological cure rates.
 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Lotrimin — confirmed clotrimazole 1% per the specific DailyMed label pulled above (the base "Lotrimin" product line), though the broader Lotrimin brand family includes other active ingredients (e.g., terbinafine in "Lotrimin Ultra") not covered by this specific label — formulation not verified per SKU beyond the one label pulled.
+Lotrimin — confirmed clotrimazole 1% per the specific DailyMed label pulled above (the base "Lotrimin AF" product line, ages 2+), though the broader Lotrimin brand family includes a separate active ingredient in its "Lotrimin Ultra" sub-line — **butenafine hydrochloride 1%, ages 12+** (see [[butenafine]]), not covered by this clotrimazole label.
 
 ## Related
 - [[pharmacy overview]]
 - [[terbinafine]]
+- [[butenafine]]
 - [[boric-acid]]
