@@ -86,7 +86,7 @@ Bayer-branded aspirin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,7
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Bayer Aspirin / Bayer — confirmed aspirin 325mg per its own DailyMed label pulled above (Bayer Genuine Aspirin). Other Bayer-line products (e.g. Bayer Aspirin Regimen enteric-coated, low-dose variants) exist in the real-world market but were not individually pulled/verified in this pass — dose varies by specific Bayer SKU (325mg standard vs. 81mg low-dose regimen products).
+Bayer Aspirin / Bayer — confirmed aspirin 325mg per its own DailyMed label pulled above (Bayer Genuine Aspirin). Other Bayer-line products (e.g. Bayer Aspirin Regimen enteric-coated, low-dose variants) exist in the real-world market but were not individually pulled/verified in this pass — dose varies by specific Bayer SKU (325mg standard vs. 81mg low-dose regimen products). **Excedrin confirmed 2026-08-27:** Excedrin Extra Strength, Excedrin Tension Headache, and Excedrin Migraine all confirmed identical formulation — acetaminophen 250mg + aspirin 250mg + caffeine 65mg — per DailyMed, a real same-formulation-different-brand-name instance. Excedrin Migraine carries dedicated brand-specific RCT evidence (Lipton et al. 1998, 3 placebo-controlled trials, PMID 9482363) beyond the general aspirin ingredient-class literature. See `drugs/Excedrin.md` and `drugs/Excedrin Migraine.md`.
 
 ## Related
 - [[pharmacy overview]]

@@ -1,8 +1,9 @@
 # Excedrin Migraine
 
 **Type:** Drug
-**Status:** Needs research
-**Last updated:** 2026-08-23
+**Status:** Researched — see Verification Status
+**Verification Status:** AI-compiled from primary sources, unverified
+**Last updated:** 2026-08-27
 
 ---
 
@@ -10,19 +11,34 @@
 Migraine Headache Products - 65%
 
 ## Overview
-See ingredients/aspirin.md and ingredients/acetaminophen.md for evidence — explicitly discussed in the continuation source as the acetaminophen + aspirin + caffeine combination with a 65% recommendation share.
+Confirmed via DailyMed: Excedrin Migraine's active ingredients are **acetaminophen 250 mg + aspirin 250 mg (NSAID) + caffeine 65 mg** per caplet — matching this database's continuation-source hedge, and now independently verified. **This is the identical formulation sold as plain Excedrin Extra Strength and Excedrin Tension Headache** (see `drugs/Excedrin.md`), with "Migraine" reflecting a real, distinct FDA-approved indication (granted 1998) rather than a different medicine. Excedrin Migraine is the only OTC product with an FDA-approved indication specifically for migraine. That approval rests on real, dedicated brand-relevant trial evidence: **Lipton et al. 1998 (Archives of Neurology, PMID 9482363)** — three double-blind, randomized, placebo-controlled, parallel-group trials in migraineurs meeting IHS diagnostic criteria — found the acetaminophen+aspirin+caffeine combination significantly more effective than placebo from approximately 1–6 hours post-dose across all three trials, for migraine pain AND associated nausea, photophobia, phonophobia, and functional disability.
 
 ## Pros
-(TBD)
+- Genuine, dedicated brand-relevant RCT evidence (3 placebo-controlled trials, Lipton et al. 1998) beyond the general single-ingredient Cochrane literature — a stronger evidentiary basis than most brands in this database have for their specific combination product
+- The only OTC product with an FDA-approved migraine indication specifically, not merely a general pain-reliever repurposed for migraine
+- Addresses multiple migraine-associated symptoms (nausea, light/sound sensitivity, functional disability) in the cited trials, not just headache pain itself
+- Category-dominant share (65%) reflecting the real evidentiary/regulatory distinction this specific formulation holds
 
 ## Cons
-(TBD)
+- **Marketing-vs-formulation nuance:** despite the migraine-specific FDA approval and branding, this is chemically identical to Excedrin Extra Strength/Tension Headache — a consumer paying a premium for "Migraine"-labeled product isn't getting a different medicine, just a product carrying a specific, evidence-backed indication claim on its label
+- A secondary-source claim circulating online (not the primary Lipton 1998 trial) states the combination is "significantly more effective than sumatriptan" — this specific comparative claim was **not independently verified against a primary head-to-head trial in this pass** and is flagged as unconfirmed rather than repeated as fact
+- Carries the full combined risk profile of three active ingredients (acetaminophen hepatotoxicity, aspirin GI-bleed/Reye's-syndrome risk, caffeine stimulant effects) — see `drugs/Excedrin.md` Cons for detail
+- Not appropriate for all migraine presentations — a consumer with frequent/severe migraine unresponsive to this combination should be evaluated for prescription-strength or triptan-class treatment rather than escalating OTC dose
 
 ## Use Cases
-(TBD)
+Acute treatment of mild-to-moderate migraine attacks, including migraine-associated nausea, photophobia, and phonophobia — the specific FDA-approved use distinguishing this product from general headache relievers.
 
 ## Allergies / Warnings
-(TBD)
+Per label: contains an NSAID (aspirin) — may cause severe stomach bleeding; severe liver damage may occur with excessive use or combination with other acetaminophen-containing products or alcohol; caffeine content roughly equivalent to one cup of coffee per dose; Reye's syndrome risk in children/teenagers with viral illness (aspirin-specific). Not intended for migraine prevention, only acute treatment.
 
 ## Symptoms Treated
-(TBD)
+Migraine headache pain, nausea, photophobia, phonophobia, and migraine-associated functional disability.
+
+## Brand-Specific Alignment Check
+Confirms and closes out this database's prior hedge, now independently verified via DailyMed. Cross-referenced with `drugs/Excedrin.md` as a documented same-formulation-different-brand-name instance, flagged on both [[acetaminophen]] and [[aspirin]].
+
+## Related
+- [[acetaminophen]]
+- [[aspirin]]
+- [[Excedrin]]
+- [[pharmacy overview]]
