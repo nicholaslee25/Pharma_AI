@@ -61,7 +61,7 @@ Dulcolax recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacist
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Dulcolax — confirmed bisacodyl 5mg per its own DailyMed label pulled above. Dulcolax's appearance in the Stool Softeners Pharmacy Times category likely reflects a separate combination-line SKU (Dulcolax also markets docusate-based stool softener products under the same brand family) rather than plain bisacodyl acting as a stool softener — not independently confirmed against a specific label in this pass.
+Dulcolax — confirmed bisacodyl 5mg per its own DailyMed label pulled above. **Confirmed 2026-08-27:** Dulcolax's Stool Softeners-category appearance is indeed a separate line — "Dulcolax Stool Softener"/"Dulcolax Pink Stool Softener" are confirmed via DailyMed as docusate sodium 100mg with NO bisacodyl, resolving the prior hedge. See `drugs/Dulcolax.md` and [[docusate]] for the full one-brand-two-mechanisms finding.
 
 ## Related
 - [[pharmacy overview]]

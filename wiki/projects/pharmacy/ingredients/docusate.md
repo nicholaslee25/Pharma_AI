@@ -64,6 +64,8 @@ Colace recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Colace — confirmed docusate sodium 100mg per its own DailyMed label pulled above. Colace 2-IN-1 is a combination product (docusate + sennosides per brand naming) whose exact formulation was not independently pulled/verified in this pass.
 
+**Major finding (2026-08-27, Dulcolax brand-specific pass): "Dulcolax Stool Softener"/"Dulcolax Pink Stool Softener" confirmed via DailyMed as docusate sodium 100mg** — identical active ingredient/dose to Colace, sold under the Dulcolax brand family (whose core/best-known product is bisacodyl, a completely different stimulant-laxative mechanism per [[bisacodyl]]). This is a real, consequential one-brand-two-mechanisms finding: a consumer choosing "Dulcolax" without checking for the word "Stool Softener" could get either an FDA-approved stimulant laxative or a docusate product with no FDA-approved indication and a 2021-review-confirmed lack of placebo-superiority. See `drugs/Dulcolax.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[senna]]
