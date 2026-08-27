@@ -37,7 +37,10 @@ Cough, nasal/sinus congestion (historical formulation).
 ## Brand-Specific Alignment Check
 **New finding, flagged here and worth cross-referencing if any other Triaminic-family page exists in this database:** the possible brand discontinuation, the historical PPA/hemorrhagic-stroke episode, and the 2013 child-resistant-cap recall are all real, previously undocumented findings for this brand — none silently resolved. If this database's maintainers can confirm current retail status, this page should be updated accordingly rather than left in this flagged, uncertain state indefinitely.
 
+**Update (see [[Triaminic]]):** the [[Triaminic]] page (same brand, filed separately under Children's Cough/Cold Combinations - 4%) confirms Triaminic is actually a small product line — Day Time Cold and Cough (this page's documented dextromethorphan+phenylephrine formulation), Night Time Cold and Cough (diphenhydramine+phenylephrine — sedating antihistamine, not DXM), and Multi-Symptom Fever and Cold (acetaminophen+chlorpheniramine+dextromethorphan+phenylephrine). This page's ingredient assumption should be understood as covering only the Day Time SKU.
+
 ## Related
+- [[Triaminic]]
 - [[oral-phenylephrine]]
 - [[dextromethorphan]]
 - [[pharmacy overview]]
