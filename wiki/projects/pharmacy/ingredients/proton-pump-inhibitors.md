@@ -59,6 +59,8 @@ Prilosec OTC recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharma
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Prilosec OTC — confirmed omeprazole magnesium 20.6mg (20mg omeprazole) per its own DailyMed label pulled above.
 
+**Nexium 24HR (2026-08-27, brand-specific pass):** confirmed via DailyMed as esomeprazole magnesium 20mg delayed-release capsule — same drug class/delivery mechanism as Prilosec OTC (esomeprazole is the S-isomer of omeprazole). No clinically meaningful efficacy advantage over omeprazole was identified for the brand-premium esomeprazole molecule in this pass — flagged on `drugs/Nexium 24hr.md` given esomeprazole/Nexium's real market price premium over generic omeprazole.
+
 ## Related
 - [[pharmacy overview]]
 - [[famotidine]]
