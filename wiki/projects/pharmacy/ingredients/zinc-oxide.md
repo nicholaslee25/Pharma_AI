@@ -67,6 +67,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Burt's Bees Baby Diaper Rash Ointment confirmed 2026-08-27 — significant allergen finding:** 40% zinc oxide at a single concentration, but with sweet almond oil (tree-nut allergen) AND soybean oil (top-9 major allergen) as undisclosed "100% Natural Origin" inactive ingredients, plus lanolin — the first product in this category confirmed to carry both a tree-nut and a top-9 allergen simultaneously. See `drugs/Burt's Bees Baby Diaper Rash Ointment.md`.
 
+**Resinol confirmed 2026-08-27 — NOT zinc-oxide-primary:** its actual FDA-labeled active ingredients are petrolatum 55% and resorcinol 2% (topical analgesic); zinc oxide, calamine, corn starch, and lanolin are inactive ingredients only. **Real safety finding:** resorcinol carries a documented methemoglobinemia risk in children with excessive/prolonged use or application to broken skin/large body-surface areas — a meaningfully more serious safety profile than the zinc-oxide-only competitors in this category. No dedicated resorcinol ingredient page exists in this database (data gap). See `drugs/Resinol.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
