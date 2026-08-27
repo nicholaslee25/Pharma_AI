@@ -65,7 +65,7 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Crest, Colgate, Aquafresh, Arm & Hammer, Tom's of Maine — plausible fluoride-toothpaste brands by real-world market identity and category placement, though most major brands also sell fluoride-free variants (especially Tom's of Maine, which markets both), so fluoride content should be confirmed per specific SKU rather than assumed from brand name alone.
+Crest, Colgate, Aquafresh, Arm & Hammer, Tom's of Maine — plausible fluoride-toothpaste brands by real-world market identity and category placement, though most major brands also sell fluoride-free variants (especially Tom's of Maine, which markets both), so fluoride content should be confirmed per specific SKU rather than assumed from brand name alone. **Biotène toothpaste (Fresh Mint Original/Gentle Mint) confirmed sodium fluoride paste per its own DailyMed label** (2026-08-26) — but note Biotène's much larger oral-RINSE product lines (Dry Mouth, PBF) show no identified Drug Facts panel at all, a cosmetic/drug split within the same brand; see `drugs/Biotène.md` and [[saliva-substitutes]]. **Tom's of Maine confirmed to span both classifications (2026-08-26):** Whole Care Mouthwash and Children's Anticavity Rinse are confirmed sodium fluoride (0.02% and 0.04% respectively), while the separate "Wicked Fresh!" mouthwash line is explicitly fluoride-free and cosmetic-classified (zinc-based odor neutralization, no located Drug Facts panel) — see `drugs/Tom's of Maine.md`.
 
 ## Related
 - [[pharmacy overview]]
