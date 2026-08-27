@@ -56,6 +56,8 @@ Senokot (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Stimulant 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Senokot — confirmed sennosides 17.2mg per its own DailyMed label pulled above.
 
+**Ex-Lax confirmed 2026-08-27** as sennosides-based, spanning Regular Strength (15mg, chocolate-flavored chewable) and Maximum Strength (25mg) — a real 1.7x concentration spread, plus a genuine pediatric-accidental-ingestion consideration given the candy-resembling chewable format. **Colace 2-IN-1 confirmed 2026-08-27** as docusate 50mg + sennosides 8.6mg, a deliberate dual-mechanism combination with plain Colace's docusate — see [[docusate]]. **Dulcolax confirmed 2026-08-27** to be bisacodyl-based, NOT sennosides — see [[bisacodyl]] for that brand's own real one-brand-two-mechanism finding (bisacodyl stimulant line + separate docusate stool-softener line under the same Dulcolax name).
+
 ## Related
 - [[pharmacy overview]]
 - [[bisacodyl]]
