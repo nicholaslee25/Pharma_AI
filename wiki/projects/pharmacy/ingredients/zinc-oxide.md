@@ -73,6 +73,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Eucerin Baby confirmed 2026-08-27 (with naming ambiguity):** most plausibly "Eucerin Aquaphor Baby 3-in-1 Diaper Rash Cream," zinc oxide 15% — a genuinely different, zinc-oxide-based formulation from the separately-branded, petrolatum-only "Aquaphor Baby Healing Ointment" already confirmed in this database, despite the shared "Aquaphor" name and shared manufacturer (Beiersdorf). See `drugs/Eucerin Baby.md`.
 
+**Dr Smith's Diaper Ointment/Spray confirmed 2026-08-27:** both ointment and spray formats are consistently 10% zinc oxide (the lowest concentration confirmed in this category), a second positive counter-example to the concentration-ambiguity pattern alongside Balmex. See `drugs/Dr Smith's Diaper Ointment-Spray.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
