@@ -81,3 +81,4 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 - [[pharmacy overview]]
 - [[petrolatum]]
 - [[Calmol 4]]
+- [[mineral-sunscreen-filters]] (zinc oxide's separate, mechanistically distinct UV-filter/sunscreen use — added 2026-08-27, Sunscreen category research)
