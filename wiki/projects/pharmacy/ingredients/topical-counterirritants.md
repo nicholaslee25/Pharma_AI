@@ -67,6 +67,8 @@ All 7 Thermal Relief Products brands now individually researched as of 2026-08-2
 **ThermaCare** (14%) — NOT a counterirritant chemical product at all; an FDA Class II heat-generating DEVICE (iron-oxidation/exothermic chemistry), with no menthol/camphor/methyl salicylate. Genuinely strong positive RCT evidence (Nadler 2002, PMID 12004166) shows it outperformed ibuprofen and acetaminophen for acute low back pain; a real FDA recall (6 lots, 2017-2018, overheating/leaking wraps) also exists. See `drugs/ThermaCare.md`.
 **Beyond BodiHeat** (8%) — also a heat-generating DEVICE (activated carbon + iron powder + vermiculite), no counterirritant chemical ingredient — see `drugs/Beyond BodiHeat.md`.
 
+**Pomada Dragon** (filed under Topical Anesthetics, 1%, First Aid — NOT Thermal Relief Products) — confirmed camphor 4% + menthol 10% + methyl salicylate 30%, IDENTICAL to BENGAY Ultra Strength's formulation under a different brand name, and a genuine category-placement discrepancy since it contains no anesthetic ingredient despite its "Topical Anesthetics" filing — see `drugs/Pomada Dragon.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[capsaicin]]

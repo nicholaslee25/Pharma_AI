@@ -13,7 +13,7 @@ Topical Analgesics - 7%
 Topical Analgesics, Arthritis/Joint Pain - 8%
 
 ## Overview
-Confirmed via DailyMed: BENGAY spans a genuinely wide concentration spread across its SKUs — from **BENGAY Vanishing Scent** (menthol 2.5% only, the mildest formulation, BELOW the FDA's >3% menthol burn-risk threshold) and **BENGAY Zero Degrees** (menthol 5% only), up to **BENGAY Ultra Strength Non-Greasy Cream** (camphor 4% + menthol 10% + methyl salicylate 30%) — the highest methyl salicylate concentration confirmed anywhere in this database's Thermal Relief Products research, well exceeding both FDA-identified burn-risk thresholds (>3% menthol, >10% methyl salicylate). **BENGAY was explicitly named in press coverage of the FDA's September 2012 Drug Safety Communication** on rare-but-serious burns from topical menthol/methyl salicylate/capsaicin products (see [[topical-counterirritants]]). A consumer choosing "BENGAY" without checking the specific product name is choosing between meaningfully different formulations and risk profiles — from a mild single-ingredient gel to a triple-ingredient, high-concentration cream.
+Confirmed via DailyMed: BENGAY spans a genuinely wide concentration spread across its SKUs — from **BENGAY Vanishing Scent** (menthol 2.5% only, the mildest formulation, BELOW the FDA's >3% menthol burn-risk threshold) and **BENGAY Zero Degrees** (menthol 5% only), up to **BENGAY Ultra Strength Non-Greasy Cream** (camphor 4% + menthol 10% + methyl salicylate 30%) — the highest methyl salicylate concentration confirmed anywhere in this database's Thermal Relief Products research, well exceeding both FDA-identified burn-risk thresholds (>3% menthol, >10% methyl salicylate). **BENGAY was explicitly named in press coverage of the FDA's September 2012 Drug Safety Communication** on rare-but-serious burns from topical menthol/methyl salicylate/capsaicin products (see [[topical-counterirritants]]). A consumer choosing "BENGAY" without checking the specific product name is choosing between meaningfully different formulations and risk profiles — from a mild single-ingredient gel to a triple-ingredient, high-concentration cream. **Identical-formulation finding (2026-08-26, Topical Anesthetics brand-page research): [[Pomada Dragon]]'s confirmed formulation (camphor 4% + menthol 10% + methyl salicylate 30%) is IDENTICAL to BENGAY Ultra Strength's** — the same active-ingredient combination under a different brand name, also confirming Pomada Dragon is miscategorized under "Topical Anesthetics" despite sharing BENGAY's pure-counterirritant (non-anesthetic) mechanism.
 
 ## Pros
 - Confirmed FDA Drug Facts labels across multiple SKUs, with concentrations clearly disclosed per product
@@ -42,4 +42,5 @@ Directly substantiates [[topical-counterirritants]]'s FDA burn-risk section — 
 - [[topical-counterirritants]]
 - [[Icy Hot]]
 - [[Tiger Balm]]
+- [[Pomada Dragon]]
 - [[pharmacy overview]]
