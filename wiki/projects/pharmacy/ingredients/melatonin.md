@@ -63,7 +63,10 @@ Melatonin Sleep Aids (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Nature Made Melatonin and Natrol Melatonin — plausibly single-ingredient melatonin products per brand naming, though individual labels were not pulled in this pass. Nature's Bounty Sleep3, OLLY Immunity Sleep, MidNite, Vicks ZzzQuil Pure Zzzs, Zarbee's Naturals, InstaSleep, Nature's Truth Melatonin Gummies, and Vitafusion Melatonin Gummies appear in this database's Melatonin Sleep Aids category but several are named as combination or multi-purpose products (e.g. "Immunity Sleep") — exact melatonin content/co-ingredients not independently verified per SKU here, and per the StatPearls-cited label-accuracy study above, even a verified ingredient list may not reflect actual dose.
 
+**Cross-category finding (2026-08-27, Pediatrics/Children's Cough research): HoneyWorks Kids Nighttime Cough Syrup** — confirmed to contain melatonin (alongside honey, English ivy leaf extract, vitamin C, zinc, grapefruit seed extract) as its nighttime sleep-support mechanism, filed under Children's Cough (2% share) rather than Melatonin Sleep Aids. This is a real instance of melatonin being delivered to children specifically via a cough-syrup vehicle rather than a dedicated sleep-aid product — directly relevant to this page's own documented pediatric-overdose trend (poison control cases rising from ~8,000 in 2012 to >52,000 in 2021) since a parent giving a "cough syrup" may not mentally categorize it as "a melatonin product" the way they would a dedicated sleep gummy, a possible contributor to inadvertent double-dosing if combined with an actual sleep aid. No dedicated per-dose safety data for this specific product was located. See `drugs/HoneyWorks Kids.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[dimenhydrinate]]
 - [[second-generation-antihistamines]]
+- [[honey-pediatric-cough]]
