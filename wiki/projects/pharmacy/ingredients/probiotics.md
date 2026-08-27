@@ -59,6 +59,8 @@ Probiotic Dietary Supplements (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Culturelle (typically Lactobacillus rhamnosus GG, per brand identity), Florastor (typically Saccharomyces boulardii, a yeast rather than a bacterial probiotic, per brand identity), Align (typically Bifidobacterium longum, per brand identity), and Florajen (typically a Lactobacillus/Bifidobacterium blend, per brand identity) are the most-recommended brands in this category; none of their exact strain/CFU-dose specifications were independently pulled from a label in this pass, despite strain and dose being shown above to materially affect efficacy.
 
+**Cross-category finding (2026-08-27, Pediatrics/Children's Multivitamins research): Culturelle Kids** — the first label-level strain confirmation for the Culturelle brand family in this database: manufacturer labeling for the Kids Complete/Multivitamin+Probiotic chewable SKUs confirms **Lactobacillus rhamnosus GG (LGG)**, matching this page's brand-identity assumption for the adult Culturelle line. Also confirms Culturelle Kids itself spans multiple SKUs, including a probiotic-only "Kids Daily Probiotic Packets" with no multivitamin content — filed under Children's Multivitamins (3% share) in this database's category data, which should refer to a multivitamin-combination SKU rather than the probiotic-only packets. See `drugs/Culturelle Kids.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[loperamide]]
