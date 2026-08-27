@@ -61,6 +61,8 @@ Decongestants, Oral (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed)
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Sudafed PE — confirmed phenylephrine HCl 10mg per its own DailyMed label pulled above. Sudafed PE is a separate, phenylephrine-based product line from plain Sudafed (pseudoephedrine) — see [[pseudoephedrine]]; do not conflate the two despite the shared "Sudafed" brand name.
 
+**Cross-category finding (2026-08-27, Pediatrics/Children's Cough-Cold Combinations research):** Children's Mucinex Multi-Symptom Cold (daytime liquid) confirmed via DailyMed to contain phenylephrine HCl 2.5mg/5mL alongside dextromethorphan and guaifenesin, ages 4+. This is the first pediatric combination product in this database where oral phenylephrine's FDA-flagged efficacy problem (2023 advisory panel: not GRASE at marketed OTC doses) intersects a children's product — flagged on `drugs/Children's Mucinex.md`. Children's Dimetapp and Children's Robitussin Cough & Cold CF-type formulations also list phenylephrine per their own DailyMed labels — see their respective brand pages.
+
 ## Related
 - [[pharmacy overview]]
 - [[pseudoephedrine]]
