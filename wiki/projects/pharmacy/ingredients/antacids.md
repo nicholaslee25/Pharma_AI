@@ -56,6 +56,8 @@ Tums (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Antacids cate
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Tums — confirmed calcium carbonate 500mg per its own DailyMed label pulled above. Other real-world antacid brands (e.g. Rolaids, Maalox, Mylanta) use varying combinations of calcium carbonate, magnesium hydroxide, and/or aluminum hydroxide — not individually verified per SKU in this pass.
 
+**Gaviscon (US) confirmed 2026-08-27 as NOT calcium-carbonate-based** — actual active ingredients are aluminum hydroxide + magnesium carbonate (tablet formulations also contain alginic acid). A real, brand-specific mismatch versus this page's calcium-carbonate representative-agent framing; see `drugs/Gaviscon.md`. **Mylanta and Gelusil confirmed 2026-08-27** as aluminum hydroxide + magnesium hydroxide + simethicone triple-combination products (not calcium-carbonate-based either) — see `drugs/Mylanta.md` and `drugs/Gelusil.md`, and [[simethicone]] for the shared antigas mechanism. **Rolaids confirmed 2026-08-27** as genuinely calcium-carbonate + magnesium-hydroxide based (matching this page's representative framing), spanning a real multi-SKU concentration spread (Original 675mg/135mg, Ultra Strength 1200mg/200mg, Max Strength 1250mg/250mg) — see `drugs/Rolaids.md`. **Alka-Seltzer confirmed 2026-08-27** to be substantially different from the rest of this category: its antacid action (citric acid/sodium bicarbonate) is paired with a genuine 325mg aspirin dose per tablet and ~567mg sodium per tablet — see `drugs/Alka-Seltzer.md` and [[aspirin]] for the safety implications this page's general antacid framing does not cover.
+
 ## Related
 - [[pharmacy overview]]
 - [[famotidine]]
