@@ -34,8 +34,11 @@ Per FDA skin-protectant monograph conventions: for external use only; discontinu
 ## Brands Using This Ingredient (in this database)
 [[Aveeno Eczema Therapy]] — confirmed colloidal oatmeal per DailyMed, 16% share of Eczema Care/Relief Products. Aveeno Soothing Bath Treatment (same brand family, not separately tracked as its own drugs/ page in this database).
 
+**[[Eczema Honey]] confirmed 2026-08-27:** also colloidal oatmeal 1% as its sole active ingredient (5% share, Eczema Care/Relief Products) — per DailyMed (labeler Eczema Honey CO LLC), identical active ingredient/concentration to Aveeno Eczema Therapy. **Discrepancy flagged:** honey, the brand's namesake, is listed only as an inactive ingredient on this product's own FDA label — the actual FDA-recognized active ingredient/mechanism is this page's colloidal oatmeal, not honey. See `drugs/Eczema Honey.md` for the full finding, including a separate unaffiliated-seeming "Kenkoderm Eczema Honey" product line with near-identical naming.
+
 ## Related
 - [[Aveeno Eczema Therapy]]
 - [[Aveeno]]
+- [[Eczema Honey]]
 - [[moisturizers-ceramides]]
 - [[pharmacy overview]]
