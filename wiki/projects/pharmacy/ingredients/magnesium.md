@@ -67,7 +67,10 @@ Magnesium Supplements (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveye
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Mag-Ox 400 (magnesium oxide, per brand-name convention — notably one of the LOWER-bioavailability forms per the ODS data above, despite being the top-recommended brand in this category) and SlowMag Mg (typically magnesium chloride, per brand-name convention — a higher-bioavailability form) are named directly; the remaining brands' specific magnesium salt/formulation was not independently pulled from a label in this pass.
 
+**New ingredient page created 2026-08-27 (Phillips' brand-specific pass): [[magnesium-hydroxide]]** covers magnesium's SEPARATE use as a saline/osmotic laxative (Milk of Magnesia, ~1200mg/15mL, labeled doses up to 4,800mg/day) — a pharmacologically distinct, much-higher-dose context than this page's dietary-supplement framing (adult Tolerable Upper Intake Level 350mg for supplemental magnesium). Applying this page's dietary-supplement safety data to the laxative-use context would understate real hypermagnesemia/renal-toxicity risk at those higher doses. See [[magnesium-hydroxide]] for that dedicated evidence.
+
 ## Related
 - [[pharmacy overview]]
 - [[calcium]]
 - [[proton-pump-inhibitors]]
+- [[magnesium-hydroxide]]
