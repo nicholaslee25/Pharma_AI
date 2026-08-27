@@ -46,7 +46,7 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Sensodyne — confirmed potassium nitrate 5% (combined with sodium fluoride 0.24%) per the specific DailyMed label pulled above. Colgate Sensitive, Arm & Hammer Sensitive, Crest Gum & Sensitivity are plausibly potassium-nitrate-based by real-world market identity and category placement, but not individually confirmed against a label in this pass.
+Sensodyne — confirmed potassium nitrate 5% (combined with sodium fluoride 0.24%) per the specific DailyMed label pulled above. Colgate Sensitive, Arm & Hammer Sensitive are plausibly potassium-nitrate-based by real-world market identity and category placement, but not individually confirmed against a label in this pass. **Correction, 2026-08-27: Crest Gum & Sensitivity is NOT potassium-nitrate-based** — confirmed via DailyMed to use **stannous fluoride 0.454%** instead (anticavity + antigingivitis + antisensitivity, same mechanism family as Crest Pro-Health). This subcategory ("Toothpaste, Sensitive Gums/Teeth") therefore contains at least two chemically distinct desensitizing mechanisms marketed as if interchangeable — see `drugs/Crest Gum & Sensitivity.md` and [[stannous-fluoride]].
 
 ## Related
 - [[pharmacy overview]]
