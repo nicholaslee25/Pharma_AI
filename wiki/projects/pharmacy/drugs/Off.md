@@ -39,4 +39,6 @@ None — this is a preventive repellent, not a symptom-treatment product. It doe
 ## Related
 - [[insect-bites]]
 - [[topical-anesthetics]]
+- [[insect-repellents-deet-picaridin]]
+- [[Off!]]
 - [[pharmacy overview]]
