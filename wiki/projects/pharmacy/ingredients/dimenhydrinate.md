@@ -68,7 +68,7 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Dramamine for Kids — confirmed dimenhydrinate 25mg per the specific DailyMed label pulled above. Dramamine Motion Sickness (adult formulation) is plausibly dimenhydrinate as well by brand-family identity and real-world market data (typically 50mg), though not individually re-verified against its own label in this pass. **Dramamine Nausea is a separate, differently-formulated Dramamine product and may use a different active ingredient** (e.g., ginger-based or meclizine-based in the real-world market) — not confirmed either way here, so no ingredient claim is made for it.
+Dramamine for Kids — confirmed dimenhydrinate 25mg per the specific DailyMed label pulled above. Dramamine Motion Sickness (adult formulation) is plausibly dimenhydrinate as well by brand-family identity and real-world market data (typically 50mg), though not individually re-verified against its own label in this pass. **Dramamine Nausea confirmed 2026-08-27** as meclizine HCl 25mg — genuinely NOT dimenhydrinate, resolving this page's prior hedge. A new dedicated [[meclizine]] ingredient page was created for it. See `drugs/Dramamine Nausea.md` — this makes "Dramamine" a real one-brand-three-mechanisms finding (dimenhydrinate, meclizine, and a separate ginger-based Advanced Herbals line).
 
 ## Related
 - [[pharmacy overview]]
