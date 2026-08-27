@@ -37,8 +37,11 @@ External use only; avoid eyes, lips, mucous membranes, eczematous or sunburned s
 ## Brands Using This Ingredient (in this database)
 [[Differin Gel]] — confirmed adapalene 0.1% per FDA label, the category-leading brand (20% share) in Acne Products.
 
+**Major brand-name discrepancy, added 2026-08-27 (Scar Treatments research):** [[Differin Resurfacing Scar Gel]] carries the same "Differin" brand name but contains **no adapalene at all** — its actual active ingredients are bakuchiol (a plant-derived, non-retinoid compound marketed as "nature's Retinol"), a peptide blend, and centella asiatica extract, with no FDA Drug Facts panel or DailyMed listing found (consistent with cosmetic, not drug, status). A consumer relying on this ingredient page's adapalene evidence to judge "Differin Resurfacing Scar Gel" would be evaluating the wrong compound entirely — see [[Differin Resurfacing Scar Gel]] for the full flag.
+
 ## Related
 - [[Differin Gel]]
+- [[Differin Resurfacing Scar Gel]]
 - [[benzoyl-peroxide]]
 - [[salicylic-acid]]
 - [[pharmacy overview]]
