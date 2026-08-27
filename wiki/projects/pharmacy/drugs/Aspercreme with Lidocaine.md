@@ -35,8 +35,9 @@ For external use only; do not apply to wounds, broken/irritated skin, or use wit
 Minor muscle and joint pain; neuropathic burning, tingling, and numbness discomfort (symptomatic relief only, not a treatment for the underlying neuropathy).
 
 ## Brand-Specific Alignment Check
-No discrepancy found — matches [[topical-anesthetics]]'s existing brand list and safety framing exactly (already named there as a confirmed lidocaine-based brand with the largest Topical Anesthetics category share). This pass confirms the consistent 4% concentration across the full multi-SKU line, including the foot-specific creme relevant to the Diabetic Neuropathy Products category.
+No discrepancy found — matches [[topical-anesthetics]]'s existing brand list and safety framing exactly (already named there as a confirmed lidocaine-based brand with the largest Topical Anesthetics category share). This pass confirms the consistent 4% concentration across the full multi-SKU line, including the foot-specific creme relevant to the Diabetic Neuropathy Products category. **Cross-reference confirmed 2026-08-27:** the plain "Aspercreme" brand (Topical Analgesics/Arthritis-Joint Pain categories) is a chemically unrelated trolamine salicylate 10% product — see `drugs/Aspercreme.md` for the full brand-splits-two-mechanisms discussion.
 
 ## Related
 - [[topical-anesthetics]]
+- [[Aspercreme]]
 - [[pharmacy overview]]
