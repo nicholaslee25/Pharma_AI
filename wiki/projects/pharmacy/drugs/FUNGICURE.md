@@ -14,7 +14,7 @@ Jock Itch/Antifungal Products - 5%
 Confirmed via DailyMed (manufacturer: Kobayashi Healthcare International, Inc.): FUNGICURE spans **two chemically distinct antifungal actives** across its product line — another "one brand, multiple mechanisms" case in this category:
 
 - **FUNGICURE Intensive / Liquid Gel / Manicure & Pedicure Liquid Gel: clotrimazole** — the same azole active as [[Lotrimin]]'s base "AF" line (see [[clotrimazole]]), marketed as effective against 6 dermatophyte species (E. floccosum, T. mentagrophytes, M. canis, M. gypseum, T. tonsurans, T. rubrum).
-- **A separate FUNGICURE sub-line: undecylenic acid** — an older fatty-acid antifungal mechanism (prevents fungal growth on skin via membrane disruption) with no dedicated ingredient page in this database — flagged as a gap rather than built out, given undecylenic acid's comparatively minor and historical role relative to the azole/allylamine/benzylamine mechanisms already thoroughly covered elsewhere in this category ([[clotrimazole]], [[terbinafine]], [[butenafine]], [[tolnaftate]]).
+- **A separate FUNGICURE sub-line: undecylenic acid** — an older fatty-acid antifungal mechanism (prevents fungal growth on skin via membrane disruption). **Ingredient page [[undecylenic-acid]] built 2026-08-27** (Toe/Foot Antifungal Products research, prompted by [[Fungi-Nail]] using it as a primary rather than secondary active) — documents real but dated placebo-controlled trial evidence and a materially important nuance: FDA labeling for undecylenic-acid nail products claims only to improve fungal-nail *appearance*, not to cure onychomycosis.
 
 No FUNGICURE-brand-specific clinical trial was located in this pass; the clotrimazole sub-line's evidence sits at the [[clotrimazole]] ingredient level.
 
@@ -47,4 +47,6 @@ Itching, burning, cracking, and scaling from athlete's foot, jock itch, and ring
 - [[terbinafine]]
 - [[butenafine]]
 - [[tolnaftate]]
+- [[undecylenic-acid]]
+- [[Fungi-Nail]]
 - [[pharmacy overview]]
