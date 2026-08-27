@@ -4,7 +4,7 @@
 **Drug Class:** Topical corticosteroid — Class VII (least-potent class), 1% OTC strength
 **Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
 **Evidence Grade:** High — topical corticosteroids as a class are among the best-established treatments for inflammatory dermatoses; hydrocortisone 1% specifically sits at the mildest end of the potency spectrum, which shapes both its safety margin and its limits
-**Last updated:** 2026-08-25
+**Last updated:** 2026-08-26
 **Sources:** raw/primary-sources/hydrocortisone/statpearls-topical-corticosteroids.md, raw/primary-sources/hydrocortisone/dailymed-hydrocortisone-1pct.md
 
 ---
@@ -51,7 +51,7 @@ Cortizone-10 recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharma
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Cortizone-10 — confirmed hydrocortisone-based per widely-known brand identity and its appearance in this database's category tables; the specific 1% vs. other-strength SKU and exact formulation were not independently pulled from a DailyMed label matching this exact brand name in this pass (the representative label pulled above is a generic "Hydrocortisone 1% Anti-Itch Cream," not Cortizone-10 specifically).
+**Cortizone-10** — confirmed hydrocortisone 1% (10mg/1g) as the sole active ingredient per its own DailyMed labels, pulled 2026-08-26 during brand-page research (see `drugs/Cortizone-10 Itch Relief.md`), across every identified SKU (Cooling Relief Gel, Cream, Intensive Healing Cream, Ointment, Plus Cream, Soothing Aloe Itch Relief Cream, Water Resistant Ointment, Ultra Soothing Creme, Sensitive Skin Creme, Easy Relief liquid) — resolves the prior "not independently pulled" gap.
 
 ## Related
 - [[pharmacy overview]]
