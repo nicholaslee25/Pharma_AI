@@ -55,8 +55,12 @@ Cortizone-10 recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharma
 
 **[[Exederm]] confirmed 2026-08-27:** Flare Control Cream for Eczema & Dermatitis (1% share, Eczema Care/Relief Products) uses **hydrocortisone ACETATE 1.0%**, not free hydrocortisone — a related ester salt form. **Flagged nuance:** this page's evidence base (StatPearls, DailyMed free-hydrocortisone labels) concerns the free-base form; ester-to-free-base equivalence is standard clinical assumption but was not independently re-verified against dedicated ester-specific comparative data in this pass. See `drugs/Exederm.md`.
 
+**[[Preparation H]] confirmed 2026-08-27 (Hemorrhoidal Preparations, 73% share):** the "Soothing Relief Anti-Itch"/"Hydrocortisone" SKU line uses hydrocortisone 1% for external anal itching — one of three genuinely different mechanisms sold under the Preparation H brand name (alongside phenylephrine, see [[rectal-phenylephrine]], and pramoxine, see [[topical-anesthetics]]). Label warns not to combine with any other hydrocortisone product without consulting a doctor. See `drugs/Preparation H.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
 - [[moisturizers-ceramides]]
 - [[Exederm]]
+- [[Preparation H]]
+- [[rectal-phenylephrine]]
