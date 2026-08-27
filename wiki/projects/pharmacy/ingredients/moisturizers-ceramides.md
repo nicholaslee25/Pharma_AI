@@ -53,7 +53,10 @@ Per this database's standing rule: **"CeraVe 32%" does NOT mean "CeraVe improves
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 CeraVe, Aquaphor, Eucerin, Cetaphil, Aveeno, Aveeno Eczema Therapy, Neutrogena, AmLactin, Gold Bond, Gold Bond Eczema Relief, Vanicream, La Roche-Posay Lipikar Eczema Cream, Vaseline (occlusive/petrolatum-based, see [[petrolatum]]) — all filed under Therapeutic Skin Care/Moisturizers or Eczema Care/Relief Products by real-world market identity. None besides the general category-level evidence above is individually validated against a specific formulation's clinical trial data in this pass.
 
+**[[Vanicream]] confirmed 2026-08-27:** Moisturizing Cream and Gentle Facial Cleanser/Cleansing Bar are **cosmetics with no FDA-recognized active ingredient at all** — not drugs, despite eczema-relevant marketing and an NEA Seal of Acceptance. Explicitly **ceramide-free** (petrolatum-occlusive-based, closer to [[petrolatum]]'s mechanism than to ceramide-replacement). This is a real, confirmed category-composition finding: a majority of this brand's tracked recommendation share in this database rests outside FDA drug regulation. Vanicream is also one of the emollients studied in the ongoing CASCADE infant-eczema-prevention trial (OHSU), directly relevant to this page's Kelleher 2021 prevention-context caution above. See `drugs/Vanicream.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
 - [[hydrocortisone]]
+- [[Vanicream]]
