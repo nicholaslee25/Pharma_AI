@@ -53,7 +53,10 @@ Cortizone-10 recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharma
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 **Cortizone-10** — confirmed hydrocortisone 1% (10mg/1g) as the sole active ingredient per its own DailyMed labels, pulled 2026-08-26 during brand-page research (see `drugs/Cortizone-10 Itch Relief.md`), across every identified SKU (Cooling Relief Gel, Cream, Intensive Healing Cream, Ointment, Plus Cream, Soothing Aloe Itch Relief Cream, Water Resistant Ointment, Ultra Soothing Creme, Sensitive Skin Creme, Easy Relief liquid) — resolves the prior "not independently pulled" gap. The bare "Cortizone-10" brand-file rows in Eczema Care/Relief Products (9%) and Topical Poison Ivy/Oak Remedies (19%) confirmed 2026-08-27 to be this same formulation — see `drugs/Cortizone-10.md`.
 
+**[[Exederm]] confirmed 2026-08-27:** Flare Control Cream for Eczema & Dermatitis (1% share, Eczema Care/Relief Products) uses **hydrocortisone ACETATE 1.0%**, not free hydrocortisone — a related ester salt form. **Flagged nuance:** this page's evidence base (StatPearls, DailyMed free-hydrocortisone labels) concerns the free-base form; ester-to-free-base equivalence is standard clinical assumption but was not independently re-verified against dedicated ester-specific comparative data in this pass. See `drugs/Exederm.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
 - [[moisturizers-ceramides]]
+- [[Exederm]]
