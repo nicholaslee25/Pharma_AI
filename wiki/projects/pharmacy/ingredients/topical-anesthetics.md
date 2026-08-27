@@ -75,6 +75,8 @@ Orajel — confirmed benzocaine 20% per the specific DailyMed label pulled above
 
 **Alocane** (Burn Treatments 9%, Sun Burn Relief 11%, Topical Antibiotics/Antiseptics 2%) and **Bactine MAX**'s Ointment SKU (Burn Treatments 5%) both confirmed lidocaine-based (4% and 40mg respectively) — both add to the lidocaine (lower-risk) side of this page's brand list; Bactine MAX additionally spans two other formulations without lidocaine at all (see `drugs/Bactine MAX.md`).
 
+**Lanacane First Aid Spray** (Topical Anesthetics, 13%) — confirmed benzethonium chloride 0.2% + benzocaine 20% per its own DailyMed label, pulled 2026-08-26 (see `drugs/Lanacane First Aid Spray.md`) — adds to the benzocaine (higher-risk) side; same combination pattern as [[Dermoplast]]'s First Aid SKU.
+
 **Sting-Kill** (Insect Bite and Sting Management, 4%) — confirmed benzocaine USP 20% + menthol USP 1% per its own DailyMed label, pulled 2026-08-26 (see `drugs/Sting-Kill.md`) — single-use swab format, adds to the benzocaine (higher-risk) side of this page's brand list.
 
 **BiteMD** (Insect Bite and Sting Management, 4%) — confirmed benzocaine 5% (plus camphor 3% and phenol 1.35%, neither of which has a dedicated evidence page in this database — gap flagged) per its own DailyMed label, pulled 2026-08-26 (see `drugs/BiteMD.md`) — adds to the benzocaine (higher-risk) side of this page's brand list.
