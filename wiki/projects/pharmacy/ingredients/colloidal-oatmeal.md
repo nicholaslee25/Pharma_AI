@@ -38,10 +38,13 @@ Per FDA skin-protectant monograph conventions: for external use only; discontinu
 
 **[[Gold Bond Eczema Relief]] confirmed 2026-08-27:** colloidal oatmeal **2%** — double the concentration confirmed for Aveeno Eczema Therapy and Eczema Honey (both 1%) — per DailyMed (labeler Gold Bond Co LLC), consistent across its Medicated/Ultimate Eczema Relief SKUs. No head-to-head trial comparing 1% vs. 2% colloidal oatmeal was located; this pass's pivotal RCT (Lisante 2017, above) tested 1%. **Manufacturer marketing claim flagged as unsupported:** Gold Bond's own site claims "9 out of 10" / "8 of 10" user-improvement figures with no disclosed sample size, methodology, or citation — held separately from this page's peer-reviewed evidence, not merged into it. See `drugs/Gold Bond Eczema Relief.md`.
 
+**[[La Roche-Posay Lipikar Eczema Cream]] confirmed 2026-08-27:** colloidal oatmeal 1%, matching Aveeno Eczema Therapy's concentration, per DailyMed (labeler Cosmetique Active Production). **Regional evidence-attribution discrepancy flagged:** widely-circulated "82% non-relapse," "14,180 patients, 29 clinical studies" figures for "Lipikar" products actually belong to "Lipikar Baume AP+M," a different, non-US product line — not this US-sold, Pharmacy-Times-tracked SKU. See `drugs/La Roche-Posay Lipikar Eczema Cream.md`.
+
 ## Related
 - [[Aveeno Eczema Therapy]]
 - [[Aveeno]]
 - [[Eczema Honey]]
 - [[Gold Bond Eczema Relief]]
+- [[La Roche-Posay Lipikar Eczema Cream]]
 - [[moisturizers-ceramides]]
 - [[pharmacy overview]]
