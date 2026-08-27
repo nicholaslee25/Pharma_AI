@@ -43,8 +43,11 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 **[[Off!]]** (58%, category leader) — spans DEET (5-99% depending on SKU), picaridin (DEET-free lines), PMD (~10%, "Botanicals" line), and various essential oils ("Kids" line) — see `drugs/Off!.md` and `drugs/Off.md` (same brand, two category-file rows).
 **[[Cutter]]** (16%, manufacturer Spectrum Brands) confirmed 2026-08-27 — DEET at multiple strengths (10-30%+ across SKUs), picaridin (7-20% across SKUs), and oil of lemon eucalyptus/PMD (not for children under 3) — see `drugs/Cutter.md`.
 
+**[[Babyganics]] confirmed 2026-08-27 — NOT this ingredient class at all.** Babyganics Natural Insect Repellent uses an essential-oil blend (rosemary/citronella/geranium/cedarwood/peppermint/lemongrass oils in a soybean oil base), registered as a FIFRA Section 25(b) "minimum risk" pesticide **EXEMPT from EPA registration entirely** — a lower regulatory bar than this page's DEET/picaridin, which undergo full EPA review. Consumer Reports' own testing explicitly recommends avoiding "natural" essential-oil repellents, which "earned dismal scores" versus EPA-registered actives. See `drugs/Babyganics.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
 - [[Off!]]
 - [[Cutter]]
+- [[Babyganics]]
