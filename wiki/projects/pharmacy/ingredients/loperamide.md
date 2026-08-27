@@ -61,7 +61,7 @@ Imodium (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Antidiarrh
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Imodium A-D — confirmed loperamide HCl 2mg per its own DailyMed label pulled above. Imodium Multi-Symptom Relief is a combination product (loperamide + simethicone, per brand-name convention) whose exact formulation was not independently pulled/verified in this pass.
+Imodium A-D — confirmed loperamide HCl 2mg per its own DailyMed label pulled above. **Imodium Multi-Symptom Relief confirmed 2026-08-27** as loperamide HCl 2mg + simethicone 125mg per DailyMed — resolves the prior formulation hedge. See `drugs/Imodium Multi-Symptom Relief.md`.
 
 ## Related
 - [[pharmacy overview]]
