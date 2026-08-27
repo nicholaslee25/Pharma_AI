@@ -61,6 +61,8 @@ Gas-X Maximum Strength Softgels — confirmed simethicone 250mg per its own Dail
 
 **Second homeopathic (non-simethicone) product confirmed — Colic Calm Plus (3% share), with a real 2023 FDA warning letter.** A 12-constituent homeopathic liquid (CalmCo LLC, manufactured by Denison Pharmaceuticals, LLC); the manufacturer's own marketing explicitly confirms it contains NO simethicone. More seriously: the FDA issued a warning letter to CalmCo LLC on 2023-08-09 citing illegal unapproved-drug claims for "Colic Calm"/"Colic Calm +" (e.g., claiming to ease "gas, colic, hiccups and teething"), referencing a related CGMP warning letter issued to manufacturer Denison Pharmaceuticals on 2023-07-26 for failing to adequately investigate batch/specification discrepancies — the FDA explicitly called this combination "particularly concerning from a public health perspective" given the product's infant-directed use. See `drugs/Colic Calm Plus.md`.
 
+**Mommy's Bliss Baby Gas Relief** (3% share) confirmed at the same simethicone 20mg/0.3mL dose as Mylicon/Little Remedies, correctly scoped to "gas" with no colic claim. Markets "real ginger extract" prominently despite ginger being an inactive, not active, ingredient. See `drugs/Mommy's Bliss Baby Gas Relief.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[loperamide]]
