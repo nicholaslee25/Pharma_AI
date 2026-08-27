@@ -39,7 +39,7 @@ Per label(s): for external use only across all three formulas; do not use if all
 Pain and itching from minor cuts/scrapes/burns (all SKUs, via lidocaine); infection-risk reduction (Ointment and, via antisepsis, Spray and Liquid Bandage).
 
 ## Brand-Specific Alignment Check
-**Real discrepancy, flagged on this page, [[topical-anesthetics]], [[topical-antibiotics]], and (once built) [[liquid-bandages]]:** "Bactine MAX" is not a single formulation — it is a brand umbrella over at least three mechanically distinct products, each aligned to a different subcategory it's tracked under in this database. This is a sharper example of the brand-spans-multiple-formulations pattern than most other multi-category brands in this database, where usually one core formula extends across related uses.
+**Real discrepancy, flagged on this page, [[topical-anesthetics]], [[topical-antibiotics]], and [[liquid-bandages]]:** "Bactine MAX" is not a single formulation — it is a brand umbrella over at least three mechanically distinct products, each aligned to a different subcategory it's tracked under in this database. This is a sharper example of the brand-spans-multiple-formulations pattern than most other multi-category brands in this database, where usually one core formula extends across related uses.
 
 ## Related
 - [[topical-anesthetics]]
