@@ -61,6 +61,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Triple Paste confirmed 2026-08-27:** standard "Medicated for Diaper Rash" formula is 12.8% zinc oxide; a separate "Triple 3X Max Diaper Rash" line is 40% — a third brand (after Desitin, Boudreaux's Butt Paste) confirmed to split standard-vs-40%-maximum-strength, reinforcing 40% as the apparent category-wide ceiling. See `drugs/Triple Paste.md`.
 
+**Calmoseptine confirmed 2026-08-27 — real category-placement finding:** its own FDA label (lanolin 15.7% + menthol 0.44% + petrolatum 24% + zinc oxide 20.6%) is indicated as an **anorectal ointment** for perianal itching/discomfort — diaper rash is not mentioned in the label at all. This explains why its Incontinence-Related Skin Protectants share (21%) is far higher than its Diaper Rash Products share (4%) — the latter reflects real-world off-label pediatric use rather than a labeled indication. See `drugs/Calmoseptine.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
