@@ -75,6 +75,9 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Dr Smith's Diaper Ointment/Spray confirmed 2026-08-27:** both ointment and spray formats are consistently 10% zinc oxide (the lowest concentration confirmed in this category), a second positive counter-example to the concentration-ambiguity pattern alongside Balmex. See `drugs/Dr Smith's Diaper Ointment-Spray.md`.
 
+**[[Calmol 4]] confirmed 2026-08-27 (Topicals/Hemorrhoidal Preparations, 7% share):** zinc oxide 10% + cocoa butter 76% rectal suppository — a second confirmed anorectal (not diaper-rash) use of zinc oxide alongside Calmoseptine, here as a pure protectant/astringent with no vasoconstrictor, anesthetic, or corticosteroid active. See `drugs/Calmol 4.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
+- [[Calmol 4]]
