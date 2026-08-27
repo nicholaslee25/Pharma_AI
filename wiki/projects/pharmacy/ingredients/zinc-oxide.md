@@ -65,6 +65,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Boogie Diaper Rash Spray confirmed 2026-08-27:** dual-active zinc oxide 25% + dimethicone 20% no-rub spray — the highest zinc-oxide concentration among non-maximum-strength brands checked, and the first dual-active/spray-format product in this category. Also contains lanolin as an undisclosed inactive ingredient — the same contact-allergy consideration flagged for A&D, A+D Original Ointment, and Calmoseptine. See `drugs/Boogie Diaper Rash Spray.md`.
 
+**Burt's Bees Baby Diaper Rash Ointment confirmed 2026-08-27 — significant allergen finding:** 40% zinc oxide at a single concentration, but with sweet almond oil (tree-nut allergen) AND soybean oil (top-9 major allergen) as undisclosed "100% Natural Origin" inactive ingredients, plus lanolin — the first product in this category confirmed to carry both a tree-nut and a top-9 allergen simultaneously. See `drugs/Burt's Bees Baby Diaper Rash Ointment.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
