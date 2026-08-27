@@ -59,6 +59,8 @@ Pepto-Bismol recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharma
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Pepto-Bismol — confirmed bismuth subsalicylate 525mg/30mL per its own DailyMed label pulled above.
 
+**Kaopectate confirmed 2026-08-27 as an identical-formulation brand** (bismuth subsalicylate 525mg/30mL, matching Pepto-Bismol) — a real "identical formulation under a different brand name" instance, made more notable because Kaopectate's own brand name ("kaolin" + "pectin") reflects its pre-2004 formula and is now chemically inaccurate for the current US product, which switched entirely to bismuth subsalicylate in 2004 after a Proposition 65 lead-contamination lawsuit over the prior attapulgite-clay formula. See `drugs/Kaopectate.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[loperamide]]
