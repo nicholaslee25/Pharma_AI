@@ -45,6 +45,8 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 
 **[[Natrapel]]** (7%, manufacturer Tender Corp/Adventure Ready Brands) confirmed 2026-08-27 — picaridin 20% as the sole active ingredient across its core line, EPA-registered, DEET-free — the simplest single-ingredient brand identity of the three "conventional" repellent brands in this category. See `drugs/Natrapel.md`.
 
+**[[Hello Bello]] confirmed 2026-08-27 — also NOT this ingredient class.** Essential-oil blend (cedarwood, citronella, coconut, lemongrass, soybean, peppermint, thyme oils), all ingredients drawn from the FIFRA 25(b) minimum-risk exempt list — plausibly EPA-exempt like Babyganics, though the exact filing was not independently confirmed. Same soybean-oil allergen finding as Babyganics. See `drugs/Hello Bello.md`.
+
 **[[Babyganics]] confirmed 2026-08-27 — NOT this ingredient class at all.** Babyganics Natural Insect Repellent uses an essential-oil blend (rosemary/citronella/geranium/cedarwood/peppermint/lemongrass oils in a soybean oil base), registered as a FIFRA Section 25(b) "minimum risk" pesticide **EXEMPT from EPA registration entirely** — a lower regulatory bar than this page's DEET/picaridin, which undergo full EPA review. Consumer Reports' own testing explicitly recommends avoiding "natural" essential-oil repellents, which "earned dismal scores" versus EPA-registered actives. See `drugs/Babyganics.md`.
 
 ## Related
@@ -54,3 +56,4 @@ This is an ingredient CLASS page covering an entire regulatory category (EPA pes
 - [[Cutter]]
 - [[Babyganics]]
 - [[Natrapel]]
+- [[Hello Bello]]
