@@ -88,8 +88,11 @@ Bayer-branded aspirin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,7
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Bayer Aspirin / Bayer — confirmed aspirin 325mg per its own DailyMed label pulled above (Bayer Genuine Aspirin). **Confirmed 2026-08-27:** Bayer Aspirin Regimen Low Dose is aspirin 81mg, enteric-coated, for doctor-directed secondary cardiovascular prevention — a materially different dose/purpose than Genuine Aspirin's 325mg acute-pain formulation under the SAME brand name. See `drugs/Bayer Aspirin.md` and `drugs/Bayer.md` (same brand, listed separately under "Oral Anti-Inflammatory Products"). **BC Powder and Goody's Powder confirmed 2026-08-27:** both are aspirin + caffeine (BC base line) or acetaminophen + aspirin + caffeine (BC Max, all Goody's SKUs) combination powders per DailyMed. Real safety literature found: published case reports of chronic salicylate toxicity/ARDS and kidney failure with prolonged high-dose combination-powder use. See `drugs/BC Powder.md` and `drugs/Goody's Powder.md`. **Excedrin confirmed 2026-08-27:** Excedrin Extra Strength, Excedrin Tension Headache, and Excedrin Migraine all confirmed identical formulation — acetaminophen 250mg + aspirin 250mg + caffeine 65mg — per DailyMed, a real same-formulation-different-brand-name instance. Excedrin Migraine carries dedicated brand-specific RCT evidence (Lipton et al. 1998, 3 placebo-controlled trials, PMID 9482363) beyond the general aspirin ingredient-class literature. See `drugs/Excedrin.md` and `drugs/Excedrin Migraine.md`.
 
+**Alka-Seltzer confirmed 2026-08-27 (Gastrointestinal/Antacids research):** Original Alka-Seltzer (citric acid 1000mg + aspirin 325mg + sodium bicarbonate 1916mg per tablet, ~567mg sodium/tablet) is filed in this database under Antacids, Nausea Remedies, and Upset Stomach Remedies — none of which signal NSAID content — making it the only aspirin-containing brand in those three categories. Real, brand-specific safety flags apply (GI bleeding, Reye syndrome, 3rd-trimester pregnancy contraindication, anticoagulant/methotrexate interaction) that no other brand in those categories shares. See `drugs/Alka-Seltzer.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[ibuprofen]]
 - [[naproxen]]
 - [[acetaminophen]]
+- [[antacids]]
