@@ -19,6 +19,8 @@ Dove (Unilever) is confirmed via DailyMed as a case where **only a specific sub-
 
 This is a real, consumer-relevant split: a shopper reaching for "Dove" soap gets a plain, non-medicated cosmetic bar unless they specifically select the "Care & Protect" sub-line, which is a small fraction of the overall Dove product range.
 
+**Third Dove product family (separate brand page):** [[Dove DermaCare Scalp]] is a third, unrelated Dove formulation — pyrithione zinc 1.0% dandruff shampoo, tracked in this database's Dandruff Shampoo category (6% share) — chemically identical to [[Head & Shoulders]]. "Dove" as a name thus spans three pharmacologically distinct product families (antibacterial body wash, cosmetic body wash, dandruff shampoo) across this database.
+
 ## Pros
 - The antibacterial-specific "Care & Protect" line is clearly sub-branded, giving a consumer who wants an actual antibacterial soap a real, identifiable option within the family
 - Confirmed 0.13% benzalkonium chloride concentration matches other brands in this category (Softsoap, Cetaphil)
@@ -46,4 +48,5 @@ Care & Protect line: not a treatment for an existing condition — preventive hy
 - [[benzalkonium-chloride]]
 - [[Cetaphil]]
 - [[Softsoap]]
+- [[Dove DermaCare Scalp]]
 - [[pharmacy overview]]
