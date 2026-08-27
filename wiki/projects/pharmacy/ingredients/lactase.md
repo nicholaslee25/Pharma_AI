@@ -57,6 +57,8 @@ Lactaid — named directly in this database's Lactose Intolerance Products categ
 
 **Major category-mismatch finding (2026-08-27, Beano brand-specific pass):** this database's Lactose Intolerance Products category (13% share) includes Beano, whose confirmed active ingredient is alpha-galactosidase — an enzyme that breaks down galactooligosaccharides (bean/vegetable sugars), NOT lactose. Alpha-galactosidase has no plausible mechanism for lactose-intolerance symptoms; lactase (this page's ingredient) is the mechanistically correct choice for that indication. See `drugs/Beano.md`.
 
+**Lactaid confirmed 2026-08-27** as pure lactase, spanning a real 2x FCC-unit spread (4,500 vs. 9,000) across its own caplet line. **Hilma confirmed 2026-08-27** as a multi-enzyme dairy-and-gluten combination product (lactase + lipase + protease/peptidase blend + botanicals) — lactase is present and correctly targeted, but is one of at least nine ingredients; manufacturer explicitly states the product is not for Celiac Disease/gluten allergy. **Schiff Digestive Advantage confirmed 2026-08-27** as lactase + Bacillus coagulans (BC30) probiotic — notably, this page's own cited Shaukat et al. 2010 systematic review found probiotic evidence for lactose intolerance specifically insufficient, the same verdict given to lactase/lactose-reduced products generally, meaning this combination does not have a stronger combined evidence case than either ingredient alone. See `drugs/Lactaid.md`, `drugs/Hilma.md`, `drugs/Schiff Digestive Advantage.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[probiotics]]
