@@ -56,6 +56,8 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 
 **After Bite** (Insect Bite and Sting Management, 23%) — confirmed via DailyMed that the **"After Bite Xtra"** SKU specifically is diphenhydramine HCl 2% gel — but "After Bite" as a brand spans at least four other distinct active-ingredient formulations across its other SKUs (sodium bicarbonate, lidocaine HCl, benzocaine, and reportedly ammonium hydroxide in the classic original) — see `drugs/After Bite.md` and [[topical-anesthetics]] for the lidocaine/benzocaine sub-lines. This diphenhydramine-based sub-line is the only After Bite formulation relevant to this page.
 
+**Ivarest** (Topical Poison Ivy/Oak Remedies, 7%, confirmed 2026-08-27) — confirmed calamine 14% + benzyl alcohol 10.5% + diphenhydramine HCl 2% (a three-ingredient combination, the same 2% diphenhydramine concentration as Benadryl Extra Strength). Own label carries the same "do not use with other diphenhydramine products" warning documented above. See `drugs/Ivarest.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[insect-bites]]
