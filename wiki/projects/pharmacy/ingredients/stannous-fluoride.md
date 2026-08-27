@@ -45,7 +45,7 @@ No specific Pharmacy Times brand percentage for stannous fluoride specifically w
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Crest Pro-Health, Parodontax — plausibly stannous-fluoride-based by real-world market identity (Crest Pro-Health specifically markets stabilized stannous fluoride), filed under Toothpaste, General Use / Therapeutic Mouthwashes in this database, but not individually confirmed against a label in this pass.
+**Crest Pro-Health confirmed 2026-08-26:** multiple sub-lines (Clean Mint, base Pro-Health, Gum Detoxify Deep Clean, Maximum Cavity Protection, Advanced Antibacterial Protection) all confirmed stannous fluoride paste per their own DailyMed labels — see `drugs/Crest Pro-Health.md`. **Parodontax — discrepancy confirmed 2026-08-26:** the TOOTHPASTE line (Active Gum Repair, Complete Protection, etc.) is confirmed stannous fluoride, matching the brand's own "why parodontax uses stannous fluoride" marketing — but the SEPARATE Parodontax Active Gum Health Mouthwash is confirmed to use cetylpyridinium chloride (CPC) 0.07% w/w INSTEAD, not stannous fluoride at all. The brand's defining ingredient does not extend across its full product line. See `drugs/Parodontax.md`.
 
 ## Related
 - [[pharmacy overview]]
