@@ -51,6 +51,8 @@ These are pharmacist recommendation shares, not response/cure rates. Zicam, Cold
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Hyland Complete Flu Care, Hyland Defend Cough + Cold, Boiron ColdCalm, Boiron ColdCalm Kids — named directly in the Pharmacy Times homeopathic category tables, with no dedicated product-specific RCT identified for any of them individually in this pass. Hyland's 4 Kids Cold 'n Cough, Hyland's 4 Kids Cough Syrup are plausibly related to the same brand family but not individually confirmed. Boiron Chestal / Children's Chestal Honey is a separate Boiron product line named in the Pharmacy Times Homeopathic Cough Products table, with no dedicated evidence beyond the general homeopathic-evidence framing on this page.
 
+**Cross-category finding (2026-08-26, First Aid/Sun Burn Relief brand-page research): [[SunBurnt]]'s "Advanced After-Sun Gel" SKU** — confirmed via DailyMed to be a homeopathic product (cantharis vesicatoria 3X HPUS, calendula officinalis TINC HPUS, echinacea angustifolia TINC HPUS) carrying the standard FDA disclaimer, despite being filed under Sun Burn Relief rather than any "Homeopathic ___ Products" category — the first identified case of a homeopathic-dilution product surfacing outside this database's dedicated homeopathic categories. Note: cantharis's 3X potency is a comparatively low dilution (1:1,000) relative to the 30C/D2 potencies this page's evidence discussion centers on — cantharidin (cantharis's active compound) is a real vesicant at pharmacologically active concentrations, though no safety incident specific to this 3X product was found.
+
 ## Related
 - [[pharmacy overview]]
 - [[elderberry]]
