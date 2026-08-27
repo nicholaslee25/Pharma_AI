@@ -89,6 +89,8 @@ Orajel — confirmed benzocaine 20% per the specific DailyMed label pulled above
 
 All 7 First Aid/Topical Anesthetics brands now individually researched as of 2026-08-26 (Aspercreme with Lidocaine, Salonpas Lidocaine, Dermoplast, Lanacane First Aid Spray, Bactine Max, Blue-Emu, Pomada Dragon) — this category itself turned out to include one product (Pomada Dragon) that is not actually anesthetic-based at all, a category-placement discrepancy in the same family as this database's other mechanism-vs-category-name mismatches.
 
+**Toothache Products (Oral Care category) researched 2026-08-26:** Orajel 68%, Anbesol 16%, DenTek Instant Pain Relief Advanced Kit 8%, Kank-A 6%, Red Cross Toothache Medication 2% (884,244/month volume). Four of five brands (Orajel, Anbesol, DenTek, Kank-A — ~98% combined share) are confirmed benzocaine 20%-based, the most benzocaine-concentrated category researched in this database so far. The exception: **Red Cross Toothache Medication** is confirmed **eugenol 85%** (clove oil derivative) in a sesame oil base — a genuinely different mechanism, narrower labeled indication (cavity-related throbbing toothache specifically), and a distinct allergy population (eugenol/clove-oil allergy, not "caine"-family allergy) from every other brand in this category. See `drugs/DenTek Instant Pain Relief Advanced Kit.md`, `drugs/Red Cross Toothache Medication.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[docosanol]]
