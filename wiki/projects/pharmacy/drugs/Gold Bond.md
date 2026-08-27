@@ -48,6 +48,8 @@ Itching, minor skin irritation, and chafing (menthol-based Foot Care/Moisturizer
 ## Related
 - [[topical-counterirritants]]
 - [[topical-anesthetics]]
+- [[miconazole-nitrate-topical]]
+- [[Zeasorb]]
 - [[Gold Bond Eczema Relief]]
 - [[colloidal-oatmeal]]
 - [[pharmacy overview]]
