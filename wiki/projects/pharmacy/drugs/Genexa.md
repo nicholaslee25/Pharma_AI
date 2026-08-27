@@ -35,8 +35,11 @@ Pain and fever in children ages 2-11.
 ## Brand-Specific Alignment Check
 New finding for this database: a brand whose entire differentiation is in inactive-ingredient/marketing positioning ("clean," organic, dye-free) while the active ingredient and dose are identical to the category-dominant competitor (Children's Tylenol) — flagged as a genuine "same active ingredient, different marketing" instance, distinct from this database's more common "same brand name, different active ingredient" discrepancy pattern. Cross-referenced on [[acetaminophen]].
 
+**Cross-reference (2026-08-27, Genexa Kids' Cold Crush brand-page research): the SAME "Made Clean"/"Physician-Formulated" marketing language is used on `drugs/Genexa Kids' Cold Crush.md`, a homeopathic (not evidence-based drug) product** — see that page and [[homeopathic-cold-products]] for the flagged marketing-consistency concern: identical brand-trust language applied to products with entirely different evidence bases within the same brand family.
+
 ## Related
 - [[acetaminophen]]
 - [[Children's Tylenol]]
 - [[DrKids]]
+- [[Genexa Kids' Cold Crush]]
 - [[pharmacy overview]]
