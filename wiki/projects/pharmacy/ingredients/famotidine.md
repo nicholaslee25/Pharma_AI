@@ -66,6 +66,8 @@ Pepcid recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Pepcid AC Maximum Strength — confirmed famotidine 20mg per its own DailyMed label pulled above. Pepcid AC Original Strength (10mg) and Pepcid AC Icy Cool Mint variant appear in the real-world market under the same brand family; individual labels beyond the Maximum Strength tablet were not independently pulled in this pass.
 
+**Category gap flagged (2026-08-27, Tagamet HB 200 brand-specific pass):** this database's H2 Receptor Antagonists category also includes Tagamet HB 200 (cimetidine, not famotidine) and Zantac 360° — different molecules within the same drug class, filed alongside Pepcid despite meaningfully different interaction profiles (cimetidine is a notable CYP450 inhibitor with a real warfarin interaction that famotidine does not share to the same degree). No dedicated cimetidine ingredient page exists in this database; see `drugs/Tagamet HB 200.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[proton-pump-inhibitors]]
