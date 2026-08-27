@@ -56,7 +56,18 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-Abreva — confirmed docosanol 10% per the specific DailyMed label pulled above. No other brand in this database's Cold Sore Treatments category was confirmed as docosanol-based in this pass; several of the other top brands use different mechanisms entirely (anesthetics, lip-protectant/moisturizing bases, or other actives) and should not be assumed to share docosanol's evidence profile.
+Abreva — confirmed docosanol 10% per the specific DailyMed label pulled above. **All nine other Cold Sore Treatments brands now individually researched (2026-08-26)** — genuinely different mechanisms confirmed across the category:
+- **Blistex** — confirmed its own dedicated "Cold Sore Treatment" SKU ALSO uses docosanol 10%, directly matching Abreva's mechanism; but the same brand separately sells a lidocaine-based "Fast-Acting Pain Relief" gel and a camphor/menthol/phenol "Medicated" lip ointment — three different mechanisms under one name. See `drugs/Blistex.md`.
+- **Anbesol Cold Sore Therapy** — confirmed allantoin + benzocaine + camphor + petrolatum (anesthetic/protectant combination, no antiviral action) — see `drugs/Anbesol Cold Sore Therapy.md` and [[topical-anesthetics]].
+- **Campho-Phenique** — confirmed camphor + phenol (counterirritant/antiseptic, no antiviral action) — see `drugs/Campho-Phenique.md`.
+- **Carmex** — confirmed its dedicated Cold Sore Treatment SKU uses benzocaine + white petrolatum (anesthetic), while its more general Classic Lip Balm SKU uses camphor + white petrolatum (protectant only, no anesthetic) — see `drugs/Carmex.md`.
+- **Orajel** (4% share here) — its benzocaine/menthol/zinc-chloride "All Mouth Sores" gel is the plausible driver — see `drugs/Orajel.md` and [[topical-anesthetics]].
+- **Lip Clear Lysine+** — **discrepancy:** despite the brand name, the FDA-recognized active ingredient is menthol 0.1%, not lysine (lysine is inactive-ingredient-only) — see `drugs/Lip Clear Lysine+.md`.
+- **Zilactin** — confirmed benzyl alcohol 10% (a third anesthetic chemical class, distinct from both benzocaine and lidocaine; not covered by [[topical-anesthetics]]'s benzocaine/lidocaine scope — gap flagged there) — see `drugs/Zilactin.md`.
+- **Curoxen** (and its Canker Sore Treatments sibling entry, Curoxen Mouth Sore Relief) — confirmed homeopathic (calendula/clove oil/olive extract), explicitly "not FDA evaluated" — see `drugs/Curoxen.md`.
+- **Mederma** — **category-placement discrepancy:** its Cold Sore Treatments-category product is most plausibly the non-drug "Cold Sore Discreet Patch" (a hydrocolloid cosmetic patch with no confirmed active ingredient), while its dominant 56% Scar Treatments share is a genuine allantoin-based drug — two different regulatory statuses under one brand. See `drugs/Mederma.md`.
+
+**Bottom line for this category:** Abreva and one Blistex SKU are the only two products confirmed to share docosanol's antiviral mechanism; every other researched brand relies on anesthetic, counterirritant, protectant, homeopathic, or (for Mederma) non-drug mechanisms — none targets the underlying virus. All 10 Cold Sore Treatments brands are now individually researched as of 2026-08-26.
 
 ## Related
 - [[pharmacy overview]]
