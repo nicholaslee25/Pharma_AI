@@ -39,7 +39,12 @@ No specific Pharmacy Times brand percentage for petrolatum specifically (as dist
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Vaseline, Vaseline Petroleum Jelly — plain petrolatum by real-world market identity, plausibly matching the Smack 1996 trial's tested product most directly. Aquaphor is a petrolatum-containing combination product (not pure petrolatum) — its specific formulation was not independently tested in the RCT above and should not be assumed to have identical performance.
 
+**Discrepancy flagged (2026-08-26, First Aid/Burn Treatments brand-page research): [[A+D First Aid Ointment]] and [[A&D]]** — both confirmed via DailyMed to be **lanolin 15.5% + petrolatum 53.4%** skin-protectant ointments, per their own FDA labels. Both are filed elsewhere in this database under antimicrobial/pain-relief categories (Burn Treatments and Topical Antibiotics/Antiseptics respectively) despite containing no antibiotic, antiseptic, or anesthetic ingredient — their actual mechanism is this page's occlusive moisture-barrier effect, not infection prevention or pain relief. See [[burn-treatment]] and [[topical-antibiotics]] for the category-placement discrepancy.
+
 ## Related
 - [[pharmacy overview]]
 - [[topical-antibiotics]]
 - [[moisturizers-ceramides]]
+- [[burn-treatment]]
+- [[A+D First Aid Ointment]]
+- [[A&D]]

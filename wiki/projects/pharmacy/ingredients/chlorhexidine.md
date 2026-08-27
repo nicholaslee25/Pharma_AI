@@ -65,6 +65,10 @@ Per this database's own subcategory file, no brand in the Therapeutic Mouthwashe
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 No brand in this database's drugs/ folder was confirmed as chlorhexidine-based against an actual label in this pass. Orajel Antiseptic Rinse and Colgate Peroxyl were previously flagged as "mouthwash-plausible" placeholders by this database, but per label research here, Colgate Peroxyl's real active ingredient is hydrogen peroxide, not chlorhexidine — do not conflate. True chlorhexidine gluconate oral rinse in the U.S. market is typically the prescription product Peridex (and its generics), which would not normally appear in a pharmacist's OTC recommendation-share data at all — a genuine mismatch between this database's OTC framing and chlorhexidine's actual regulatory/access status worth resolving in a future pass.
 
+**Discrepancy flagged (2026-08-26, First Aid/Antibacterial Soaps brand-page research): [[Hibiclens]]** — confirmed chlorhexidine gluconate **4.0% w/v topical skin-antiseptic solution** (Topical Antibiotics/Antiseptics 8% share, Antibacterial Soaps 43% share) — a completely different formulation from everything else on this page. All efficacy/dosing/evidence data above (James et al. 2017 Cochrane review, Peridex label) concerns the 0.12% ORAL rinse for gingivitis; none of it should be assumed to transfer to Hibiclens' 4.0% topical/surgical-scrub use case, which is a ~33x higher concentration for a different route and indication entirely. The one safety fact that IS shared across both formulations: FDA added an anaphylaxis warning to chlorhexidine gluconate OTC Drug Facts labels (2017) covering the topical/skin-antiseptic products specifically, consistent with (though a separate finding from) this page's own note about anaphylaxis reports with chlorhexidine-containing dental products. See [[Hibiclens]] for full detail.
+
 ## Related
 - [[pharmacy overview]]
 - [[stannous-fluoride]]
+- [[Hibiclens]]
+- [[topical-antibiotics]]
