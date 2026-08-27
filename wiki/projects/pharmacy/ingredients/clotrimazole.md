@@ -60,8 +60,11 @@ Lotrimin recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacist
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Lotrimin — confirmed clotrimazole 1% per the specific DailyMed label pulled above (the base "Lotrimin AF" product line, ages 2+), though the broader Lotrimin brand family includes a separate active ingredient in its "Lotrimin Ultra" sub-line — **butenafine hydrochloride 1%, ages 12+** (see [[butenafine]]), not covered by this clotrimazole label.
 
+**[[FUNGICURE]] confirmed 2026-08-27** (Jock Itch/Antifungal Products, 5% share, manufacturer Kobayashi Healthcare International) — FUNGICURE Intensive/Liquid Gel/Manicure & Pedicure Liquid Gel sub-lines use clotrimazole; a separate FUNGICURE sub-line uses undecylenic acid (no dedicated ingredient page in this database — flagged gap). See `drugs/FUNGICURE.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[terbinafine]]
 - [[butenafine]]
 - [[boric-acid]]
+- [[FUNGICURE]]
