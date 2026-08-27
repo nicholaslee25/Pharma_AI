@@ -63,6 +63,8 @@ Prilosec OTC — confirmed omeprazole magnesium 20.6mg (20mg omeprazole) per its
 
 **Prevacid 24HR (2026-08-27, brand-specific pass):** confirmed via DailyMed as lansoprazole 15mg delayed-release capsule — a lower per-capsule mg dose than Prilosec OTC/Nexium 24HR (20mg each), reflecting a different molecule's own labeled OTC strength rather than under-dosing. Capsule shell contains four synthetic dyes (D&C red 28, D&C yellow 10, FD&C blue 1, FD&C red 40) — a brand-specific allergen consideration not shared equally across this drug class. See `drugs/Prevacid 24hr.md`.
 
+**Major finding — Zegerid OTC (2026-08-27, brand-specific pass) uses a mechanistically distinct delivery system.** Confirmed via DailyMed: omeprazole 20mg + sodium bicarbonate 1100mg, **immediate-release** (not delayed-release/enteric-coated like Prilosec OTC, Nexium 24HR, and Prevacid 24HR). The bicarbonate protects the acid-labile omeprazole from gastric destruction, substituting for an enteric coating. **Real, quantified safety difference: ~303mg sodium per capsule**, with the manufacturer's own label warning patients on a low-sodium diet, or with CHF/hypertension, to consult a doctor before use — a genuine, brand-specific contraindication-adjacent consideration this page's general Contraindications section does not cover, since it applies only to this one bicarbonate-buffered formulation, not the PPI class generally. See `drugs/Zegerid OTC.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[famotidine]]
