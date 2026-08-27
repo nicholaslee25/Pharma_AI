@@ -61,6 +61,8 @@ Prilosec OTC — confirmed omeprazole magnesium 20.6mg (20mg omeprazole) per its
 
 **Nexium 24HR (2026-08-27, brand-specific pass):** confirmed via DailyMed as esomeprazole magnesium 20mg delayed-release capsule — same drug class/delivery mechanism as Prilosec OTC (esomeprazole is the S-isomer of omeprazole). No clinically meaningful efficacy advantage over omeprazole was identified for the brand-premium esomeprazole molecule in this pass — flagged on `drugs/Nexium 24hr.md` given esomeprazole/Nexium's real market price premium over generic omeprazole.
 
+**Prevacid 24HR (2026-08-27, brand-specific pass):** confirmed via DailyMed as lansoprazole 15mg delayed-release capsule — a lower per-capsule mg dose than Prilosec OTC/Nexium 24HR (20mg each), reflecting a different molecule's own labeled OTC strength rather than under-dosing. Capsule shell contains four synthetic dyes (D&C red 28, D&C yellow 10, FD&C blue 1, FD&C red 40) — a brand-specific allergen consideration not shared equally across this drug class. See `drugs/Prevacid 24hr.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[famotidine]]
