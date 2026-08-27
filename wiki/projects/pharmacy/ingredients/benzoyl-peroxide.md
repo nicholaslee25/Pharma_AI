@@ -4,7 +4,7 @@
 **Drug Class:** Topical antimicrobial/keratolytic (organic peroxide)
 **Verification Status:** AI-compiled from primary sources, unverified — not yet reviewed by a pharmacist/physician
 **Evidence Grade:** Moderate — Cochrane rates the evidence for participant-reported improvement as low-certainty despite the large trial base (120 RCTs, ~29,600 participants), largely due to inconsistent risk of bias and outcome reporting across trials
-**Last updated:** 2026-08-26
+**Last updated:** 2026-08-27
 **Sources:** raw/primary-sources/benzoyl-peroxide/statpearls-benzoyl-peroxide.md, raw/primary-sources/benzoyl-peroxide/dailymed-panoxyl.md, raw/primary-sources/benzoyl-peroxide/cochrane-yang-2020-and-lamel-2015.md
 
 ---
@@ -77,7 +77,7 @@ Per this database's own subcategory file, **PanOxyl — 10%** of Acne Products r
 ---
 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
-PanOxyl — confirmed benzoyl peroxide 10% per the specific DailyMed label pulled above (PanOxyl Acne Treatment Bar; other PanOxyl SKUs exist at 4%/10% across wash/cream/foam formats, not each individually re-verified). Clearasil, Clean & Clear, OXY, Stridex are plausible benzoyl-peroxide-containing brands by real-world market identity and category placement but were not individually confirmed against a label in this pass — some of these brands sell both BPO and salicylic-acid-based product lines, so formulation should be checked per specific SKU (see [[salicylic-acid]]). Differin Gel is adapalene (a topical retinoid), not benzoyl peroxide — do not conflate the two despite both being top Acne Products entries.
+PanOxyl — confirmed benzoyl peroxide 10% per the specific DailyMed label pulled above (PanOxyl Acne Treatment Bar; other PanOxyl SKUs exist at 4%/10% across wash/cream/foam formats, not each individually re-verified). **OXY — confirmed** (brand-page research 2026-08-27): a genuine second mechanism alongside its salicylic-acid pad line, at 5% (sensitive) and 10% (maximum strength) across face-wash/cleanser SKUs; see `drugs/OXY.md`. La Roche-Posay (Effaclar Duo/BPO Multi-Target, 4-5.5%) also confirmed. **Stridex — confirmed NOT currently BPO-based**: sold a 2.5% benzoyl-peroxide "Power Pads" SKU historically, now discontinued per retail/review-site listings; current line (Sensitive/Essential/Maximum) is salicylic-acid-only, see [[salicylic-acid]] and `drugs/Stridex.md`. Clearasil, Clean & Clear remain plausible BPO-containing brands by market identity/category placement but were not individually confirmed against a label in this pass — some of these brands sell both BPO and salicylic-acid-based product lines, so formulation should be checked per specific SKU. Differin Gel is adapalene (a topical retinoid), not benzoyl peroxide — do not conflate the two despite both being top Acne Products entries.
 
 ## Related
 - [[pharmacy overview]]
