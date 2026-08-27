@@ -67,6 +67,8 @@ Orajel — confirmed benzocaine 20% per the specific DailyMed label pulled above
 
 **Alocane** (Burn Treatments 9%, Sun Burn Relief 11%, Topical Antibiotics/Antiseptics 2%) and **Bactine MAX**'s Ointment SKU (Burn Treatments 5%) both confirmed lidocaine-based (4% and 40mg respectively) — both add to the lidocaine (lower-risk) side of this page's brand list; Bactine MAX additionally spans two other formulations without lidocaine at all (see `drugs/Bactine MAX.md`).
 
+**Sting-Kill** (Insect Bite and Sting Management, 4%) — confirmed benzocaine USP 20% + menthol USP 1% per its own DailyMed label, pulled 2026-08-26 (see `drugs/Sting-Kill.md`) — single-use swab format, adds to the benzocaine (higher-risk) side of this page's brand list.
+
 **BiteMD** (Insect Bite and Sting Management, 4%) — confirmed benzocaine 5% (plus camphor 3% and phenol 1.35%, neither of which has a dedicated evidence page in this database — gap flagged) per its own DailyMed label, pulled 2026-08-26 (see `drugs/BiteMD.md`) — adds to the benzocaine (higher-risk) side of this page's brand list.
 
 **After Bite** (Insect Bite and Sting Management, First Aid, 23% — see [[insect-bites]]) — confirmed via DailyMed that its "Wipe" SKU is **ethyl alcohol + lidocaine HCl** (lower-risk side) while its separate "Wipe Insect Sting Relief" SKU is **benzocaine + alcohol** (higher-risk side) — the SAME brand spans both sides of this page's benzocaine/lidocaine divide simultaneously, in addition to non-anesthetic SKUs (sodium bicarbonate, diphenhydramine — see [[topical-diphenhydramine]]) and a reported ammonium-hydroxide classic formula. This is the widest single-brand formulation spread identified in this database to date. See `drugs/After Bite.md`.
