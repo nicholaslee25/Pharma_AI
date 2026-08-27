@@ -37,6 +37,7 @@ Not antimicrobial — provides a protective moisture barrier, consistent with pe
 
 ## Related
 - [[A+D First Aid Ointment]]
+- [[A+D Original Ointment]]
 - [[petrolatum]]
 - [[topical-antibiotics]]
 - [[pharmacy overview]]

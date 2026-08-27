@@ -38,5 +38,6 @@ Not antimicrobial or analgesic — provides a protective moisture barrier over m
 ## Related
 - [[petrolatum]]
 - [[A&D]]
+- [[A+D Original Ointment]]
 - [[burn-treatment]]
 - [[pharmacy overview]]
