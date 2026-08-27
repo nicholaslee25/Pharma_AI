@@ -55,6 +55,8 @@ Lactaid (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveyed): Lactose In
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Lactaid — named directly in this database's Lactose Intolerance Products category; the specific enzyme-unit dosing of Lactaid's tablet/chewable/drop products was not independently pulled from a label in this pass (lactase supplements are typically regulated as dietary supplements rather than through the standard FDA OTC drug monograph/DailyMed system, and a DailyMed label search for Lactaid specifically did not surface a standard drug-facts label in this pass).
 
+**Major category-mismatch finding (2026-08-27, Beano brand-specific pass):** this database's Lactose Intolerance Products category (13% share) includes Beano, whose confirmed active ingredient is alpha-galactosidase — an enzyme that breaks down galactooligosaccharides (bean/vegetable sugars), NOT lactose. Alpha-galactosidase has no plausible mechanism for lactose-intolerance symptoms; lactase (this page's ingredient) is the mechanistically correct choice for that indication. See `drugs/Beano.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[probiotics]]
