@@ -53,6 +53,8 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper Rash Ointment, CeraVe Baby Healing Ointment, Dr Smith's Diaper Ointment/Spray, Calmoseptine — all plausibly zinc-oxide-based by real-world market identity, filed under Diaper Rash Products in this database, but not individually confirmed against a label in this pass. A+D Original Ointment and Aquaphor Baby are more likely petrolatum-primary formulations (see [[petrolatum]]) — verify per specific SKU rather than assuming zinc oxide content from category placement alone.
 
+**Desitin confirmed 2026-08-27, with a real concentration split:** Desitin Daily Defense Cream is 13% zinc oxide (daily prevention/mild rash); Desitin Maximum Strength Original Paste is 40% zinc oxide (severe/persistent rash, overnight use) — a genuine ~3x concentration difference under one brand name, the first brand-specific zinc-oxide concentration confirmed in this database. See `drugs/Desitin.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
