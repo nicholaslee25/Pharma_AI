@@ -65,6 +65,8 @@ Orajel — confirmed benzocaine 20% per the specific DailyMed label pulled above
 
 **Dermoplast** (Burn Treatments 22%, Sun Burn Relief 16%, Topical Anesthetics 14%, Insect Bite and Sting Management 3%, Topical Antibiotics/Antiseptics 4%) — confirmed via multiple DailyMed labels that **every identified Dermoplast SKU uses benzocaine** (20% benzocaine + menthol in the "Pain Relieving" line; benzocaine + benzethonium chloride in the "First Aid" line), placing this five-category, high-volume brand entirely on the higher-methemoglobinemia-risk side of this page's benzocaine/lidocaine divide. See `drugs/Dermoplast.md` for full detail.
 
+**Solarcaine** (Sun Burn Relief, First Aid, 36% — category leader) — confirmed lidocaine HCl 4% per its own DailyMed label (Burn Pain Relief Spray SKU), pulled 2026-08-26 (see `drugs/Solarcaine.md`) — adds to the lidocaine (lower-risk) side. A historical (1988) FDA "seriously misbranded" finding exists for a "Severe Sunburn Relief" variant of this brand — flagged on the brand page as old and not independently confirmed as currently resolved or unresolved.
+
 **Alocane** (Burn Treatments 9%, Sun Burn Relief 11%, Topical Antibiotics/Antiseptics 2%) and **Bactine MAX**'s Ointment SKU (Burn Treatments 5%) both confirmed lidocaine-based (4% and 40mg respectively) — both add to the lidocaine (lower-risk) side of this page's brand list; Bactine MAX additionally spans two other formulations without lidocaine at all (see `drugs/Bactine MAX.md`).
 
 **Sting-Kill** (Insect Bite and Sting Management, 4%) — confirmed benzocaine USP 20% + menthol USP 1% per its own DailyMed label, pulled 2026-08-26 (see `drugs/Sting-Kill.md`) — single-use swab format, adds to the benzocaine (higher-risk) side of this page's brand list.
