@@ -15,7 +15,7 @@ Confirmed via DailyMed: Astepro Allergy = **azelastine HCl 205.5mcg/spray (equiv
 
 ## Pros
 - As a topical antihistamine rather than a corticosteroid, likely has a faster onset of symptom relief than the delayed-onset corticosteroid sprays dominating this category — a genuine, mechanism-based usability advantage for acute/as-needed use, though this page did not locate a head-to-head onset-time comparison to quantify the difference
-- Available in a children's formulation (Children's Astepro Allergy) for pediatric perennial allergic rhinitis, per a registered trial (NCT01018862) evaluating safety/efficacy in that population
+- Available in a children's formulation (Children's Astepro Allergy) for pediatric perennial allergic rhinitis, per a registered trial (NCT01018862) evaluating safety/efficacy in that population — see `drugs/Children's Astepro.md` (researched 2026-08-27), which appears separately in this database's Children's Allergy category (3% share)
 
 ## Cons
 - No dedicated ingredient page exists to provide a formal evidence grade, mechanism detail, or fuller safety profile for azelastine — flagged as a genuine research gap

@@ -69,6 +69,8 @@ Flonase Allergy Relief recommendation shares (Pharmacy Times 2026 OTC Guide, ~1,
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Flonase Allergy Relief — confirmed fluticasone propionate 50mcg/spray per its own DailyMed label pulled above. Flonase Sensimist uses a different active ingredient (fluticasone furoate, per its DailyMed product title found during this research pass) — worth noting explicitly since the "Flonase" brand name spans two distinct fluticasone salts/esters that are not interchangeable at the molecular level, even though both are fluticasone-class corticosteroids.
 
+**Children's FLONASE confirmed 2026-08-27:** same fluticasone propionate active ingredient, pediatric dosing (ages 4-11, 1 spray/nostril once daily) with growth-rate monitoring specifically recommended if used beyond 2 months/year — see `drugs/Children's FLONASE.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[second-generation-antihistamines]]
