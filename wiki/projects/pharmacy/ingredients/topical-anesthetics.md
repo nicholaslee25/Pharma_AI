@@ -67,6 +67,8 @@ Orajel — confirmed benzocaine 20% per the specific DailyMed label pulled above
 
 **Alocane** (Burn Treatments 9%, Sun Burn Relief 11%, Topical Antibiotics/Antiseptics 2%) and **Bactine MAX**'s Ointment SKU (Burn Treatments 5%) both confirmed lidocaine-based (4% and 40mg respectively) — both add to the lidocaine (lower-risk) side of this page's brand list; Bactine MAX additionally spans two other formulations without lidocaine at all (see `drugs/Bactine MAX.md`).
 
+**After Bite** (Insect Bite and Sting Management, First Aid, 23% — see [[insect-bites]]) — confirmed via DailyMed that its "Wipe" SKU is **ethyl alcohol + lidocaine HCl** (lower-risk side) while its separate "Wipe Insect Sting Relief" SKU is **benzocaine + alcohol** (higher-risk side) — the SAME brand spans both sides of this page's benzocaine/lidocaine divide simultaneously, in addition to non-anesthetic SKUs (sodium bicarbonate, diphenhydramine — see [[topical-diphenhydramine]]) and a reported ammonium-hydroxide classic formula. This is the widest single-brand formulation spread identified in this database to date. See `drugs/After Bite.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[docosanol]]

@@ -53,9 +53,14 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ---
 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU)
-Cortizone-10 Itch Relief, After Bite, Benadryl Topical, BiteMD, Sting-Kill, Dermoplast, Nature's Willow Bug Bite Balm — all filed under First Aid/Insect Bite and Sting Management in this database by real-world market identity. Cortizone-10 and Benadryl Topical are plausibly hydrocortisone- and diphenhydramine-based respectively by brand-family identity, but not individually re-verified against a label in this pass — see [[hydrocortisone]] for the hydrocortisone-specific evidence base.
+**Cortizone-10 Itch Relief** — confirmed hydrocortisone 1% across all identified SKUs per DailyMed, pulled 2026-08-26 (see `drugs/Cortizone-10 Itch Relief.md` and [[hydrocortisone]]).
+**Benadryl Topical** — confirmed diphenhydramine HCl (1-2%, +/- zinc acetate) per DailyMed, pulled 2026-08-26; see the new [[topical-diphenhydramine]] evidence page (see `drugs/Benadryl Topical.md`).
+**After Bite** — confirmed to span at least five distinct active-ingredient classes (sodium bicarbonate, diphenhydramine, lidocaine, benzocaine, and reportedly ammonium hydroxide in the classic formula) across its SKU lineup — the widest single-brand formulation spread identified in this database to date; see `drugs/After Bite.md`, [[topical-diphenhydramine]], and [[topical-anesthetics]].
+BiteMD, Sting-Kill, Nature's Willow Bug Bite Balm, Off — not yet individually re-verified against a label in this pass. Dermoplast confirmed benzocaine-based, see [[topical-anesthetics]] and `drugs/Dermoplast.md`.
 
 ## Related
 - [[pharmacy overview]]
 - [[hydrocortisone]]
+- [[topical-diphenhydramine]]
+- [[topical-anesthetics]]
 - [[burn-treatment]]

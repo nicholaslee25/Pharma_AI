@@ -1,9 +1,9 @@
 # Pharmacy Database — Overview
 
 **Type:** Project Hub
-**Status:** Complete — 14 of 14 categories built; ingredients/ research layer built (77 pages) and cross-referenced into drugs/. Phase 2 (Research) complete: all 77 ingredient pages rebuilt from real primary sources.
+**Status:** Complete — 14 of 14 categories built; ingredients/ research layer built (78 pages) and cross-referenced into drugs/. Phase 2 (Research) complete: original 77 ingredient pages rebuilt from real primary sources; ongoing brand-page research (Phase 2b, in progress) occasionally adds a new ingredient page when a whole product category lacks one — see [[topical-diphenhydramine]] (added 2026-08-26).
 **Source:** https://www.pharmacytimes.com/otcguide (Pharmacy Times OTC Guide, 2026-27 edition, ~145 product categories)
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-26
 
 ---
 
@@ -13,7 +13,7 @@ End goal: train a local AI on this data so family can query it at home. See [[ph
 
 ## The ingredients/ Research Layer
 
-`projects/pharmacy/ingredients/` holds 77 active-ingredient evidence pages — organized by ingredient (guaifenesin, ibuprofen, calcium, proton-pump-inhibitors, etc.), not by brand. Each carries actual clinical evidence: study design, N, PMID/DOI, effect sizes, and an evidence grade (High/Moderate/Low/Very Low/No product-specific evidence), plus Pros, Cons/Safety Limitations, Contraindications, and Special Population Flags where the source discusses them.
+`projects/pharmacy/ingredients/` holds 78 active-ingredient evidence pages — organized by ingredient (guaifenesin, ibuprofen, calcium, proton-pump-inhibitors, etc.), not by brand. Each carries actual clinical evidence: study design, N, PMID/DOI, effect sizes, and an evidence grade (High/Moderate/Low/Very Low/No product-specific evidence), plus Pros, Cons/Safety Limitations, Contraindications, and Special Population Flags where the source discusses them.
 
 **Sourcing upgrade complete.** The project originally transcribed all 77 pages from two ChatGPT-compiled evidence dossiers. Those dossiers, and the citation-index page that tracked their sourcing, have since been deleted — redundant now that every page has been rebuilt directly from real primary sources (StatPearls, actual FDA drug labels via DailyMed, Cochrane reviews, PubMed abstracts) rather than an AI's secondhand account of them. All 77 pages now carry a **Verification Status** field (AI-compiled from real primary sources, unverified — pending a pharmacist/physician review pass) plus real Evidence sections with study design, N, PMID/DOI, and effect sizes/CIs where available. Raw source extractions live in `raw/primary-sources/{ingredient}/`. **Remaining before "zero AI-compiled content" is fully true: a pharmacist/physician verification pass to flip Verification Status on each page** — the sourcing itself is done, but no clinician has checked it yet.
 
