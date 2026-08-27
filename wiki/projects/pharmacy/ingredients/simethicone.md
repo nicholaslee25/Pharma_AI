@@ -63,6 +63,10 @@ Gas-X Maximum Strength Softgels — confirmed simethicone 250mg per its own Dail
 
 **Mommy's Bliss Baby Gas Relief** (3% share) confirmed at the same simethicone 20mg/0.3mL dose as Mylicon/Little Remedies, correctly scoped to "gas" with no colic claim. Markets "real ginger extract" prominently despite ginger being an inactive, not active, ingredient. See `drugs/Mommy's Bliss Baby Gas Relief.md`.
 
+**PediaCare Gas Relief Drops** (3% share) confirmed at the same simethicone 20mg/0.3mL dose, also correctly scoped to "gas only" with no colic claim — but its standard formulation contains D&C Red 22/28 synthetic dyes (dye-free is a separate SKU), unlike Little Remedies/Mommy's Bliss. See `drugs/PediaCare Gas Relief Drops.md`.
+
+**Infant Gas Products category summary (completed 2026-08-27):** of the six ranked brands, four are genuine simethicone drugs at an essentially identical 20mg/0.3mL dose (Mylicon 63%, Little Remedies 18%, Mommy's Bliss 3%, PediaCare 3% — 87% combined share) and all four correctly avoid claiming colic relief, consistent with this page's own evidence that simethicone is NOT shown effective for colic. The remaining two brands (Hyland's Baby Gas Drops 10%, Colic Calm Plus 3%) are homeopathic products with no simethicone content, and BOTH explicitly claim colic relief — the exact claim the four genuine drug brands correctly avoid. Colic Calm Plus is additionally the subject of a real 2023 FDA warning letter for illegal drug claims and manufacturer CGMP violations.
+
 ## Related
 - [[pharmacy overview]]
 - [[loperamide]]
