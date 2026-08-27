@@ -74,6 +74,8 @@ Omega-3/Fish Oil Supplements (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Nature Made, Nature's Bounty, Natrol Omega-3 Fish Oil, Nordic Naturals, Oceanblue Omega-3 Minicaps, Schiff MegaRed, and Sundown all appear in this database's category table; none of their specific EPA/DHA doses per capsule were independently pulled from a label in this pass — given how much dose and formulation matter per the efficacy evidence above, actual per-product content would need label verification before making any brand-specific efficacy claim.
 
+**Cross-category finding (2026-08-27, Pediatrics/Children's Multivitamins research): Nature Made Kids First Multivitamin with Omega-3** — confirmed via manufacturer labeling to combine standard pediatric multivitamin nutrients with 113.5mg fish oil (25mg EPA + 5mg DHA) per gummy serving, filed under Children's Multivitamins (9% share) rather than this omega-3 category. Contains fish (tuna) per its own allergen labeling — a real allergen a caregiver might not expect from a product marketed as a "multivitamin." The 30mg total omega-3 dose is small relative to the adult doses discussed in the efficacy evidence above; this page's VITAL/REDUCE-IT findings should not be assumed to transfer to this pediatric dose. See `drugs/Nature Made Kids First Multivitamin.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[coq10]]
