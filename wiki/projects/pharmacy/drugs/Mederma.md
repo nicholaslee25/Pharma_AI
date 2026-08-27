@@ -36,7 +36,10 @@ Scar appearance/texture (Advanced Scar gel — the dominant, 56%-share use case)
 ## Brand-Specific Alignment Check
 New category-placement discrepancy for this database, in the same family as A&D (filed as antibiotic, actually pure petrolatum) and Banana Boat after-sun (filed as a drug category, actually cosmetic): Mederma's Cold Sore Treatments appearance is most plausibly a non-drug cosmetic device, not a pharmacologically active cold-sore treatment, despite sitting in the same Pharmacy Times category as Abreva's genuinely antiviral docosanol product. Flagged on [[docosanol]].
 
+**Third formulation confirmed 2026-08-27 (Stretch Mark Treatments research):** [[Mederma Stretch Marks]] (a separate brand-page entry, tracked under a different Pharmacy Times category) is a genuine FDA OTC drug using **dimethicone 2.0%**, not allantoin — meaning "Mederma" now spans three distinct product identities across this database: allantoin (Scar Treatments), dimethicone (Stretch Mark Treatments), and a likely non-drug hydrocolloid patch (Cold Sore Treatments, flagged above).
+
 ## Related
 - [[docosanol]]
 - [[topical-anesthetics]]
+- [[Mederma Stretch Marks]]
 - [[pharmacy overview]]
