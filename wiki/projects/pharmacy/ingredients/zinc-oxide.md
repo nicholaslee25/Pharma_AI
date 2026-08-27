@@ -63,6 +63,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Calmoseptine confirmed 2026-08-27 — real category-placement finding:** its own FDA label (lanolin 15.7% + menthol 0.44% + petrolatum 24% + zinc oxide 20.6%) is indicated as an **anorectal ointment** for perianal itching/discomfort — diaper rash is not mentioned in the label at all. This explains why its Incontinence-Related Skin Protectants share (21%) is far higher than its Diaper Rash Products share (4%) — the latter reflects real-world off-label pediatric use rather than a labeled indication. See `drugs/Calmoseptine.md`.
 
+**Boogie Diaper Rash Spray confirmed 2026-08-27:** dual-active zinc oxide 25% + dimethicone 20% no-rub spray — the highest zinc-oxide concentration among non-maximum-strength brands checked, and the first dual-active/spray-format product in this category. Also contains lanolin as an undisclosed inactive ingredient — the same contact-allergy consideration flagged for A&D, A+D Original Ointment, and Calmoseptine. See `drugs/Boogie Diaper Rash Spray.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
