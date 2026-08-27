@@ -56,7 +56,10 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 **Cortizone-10 Itch Relief** — confirmed hydrocortisone 1% across all identified SKUs per DailyMed, pulled 2026-08-26 (see `drugs/Cortizone-10 Itch Relief.md` and [[hydrocortisone]]).
 **Benadryl Topical** — confirmed diphenhydramine HCl (1-2%, +/- zinc acetate) per DailyMed, pulled 2026-08-26; see the new [[topical-diphenhydramine]] evidence page (see `drugs/Benadryl Topical.md`).
 **After Bite** — confirmed to span at least five distinct active-ingredient classes (sodium bicarbonate, diphenhydramine, lidocaine, benzocaine, and reportedly ammonium hydroxide in the classic formula) across its SKU lineup — the widest single-brand formulation spread identified in this database to date; see `drugs/After Bite.md`, [[topical-diphenhydramine]], and [[topical-anesthetics]].
-BiteMD, Sting-Kill, Nature's Willow Bug Bite Balm, Off — not yet individually re-verified against a label in this pass. Dermoplast confirmed benzocaine-based, see [[topical-anesthetics]] and `drugs/Dermoplast.md`.
+**BiteMD** (4%) — confirmed benzocaine 5% + camphor 3% + phenol 1.35% per DailyMed; see [[topical-anesthetics]] and `drugs/BiteMD.md`.
+**Sting-Kill** (4%) — confirmed benzocaine 20% + menthol 1% per DailyMed; see [[topical-anesthetics]] and `drugs/Sting-Kill.md`.
+**Nature's Willow Bug Bite Balm** (3%) — confirmed menthol 1% as the SOLE active ingredient per DailyMed; **discrepancy flagged**: white willow bark extract, the brand's namesake ingredient, is labeled INACTIVE — see `drugs/Nature's Willow Bug Bite Balm.md`.
+Off — not yet individually re-verified against a label in this pass (primarily an insect repellent, a prevention rather than treatment product — see the category file's own note). Dermoplast confirmed benzocaine-based, see [[topical-anesthetics]] and `drugs/Dermoplast.md`.
 
 ## Related
 - [[pharmacy overview]]
