@@ -35,8 +35,11 @@ Diaper rash / irritant diaper dermatitis, general dry/irritated skin — via pet
 ## Brand-Specific Alignment Check
 No discrepancy found — Aquaphor Baby's actual FDA-labeled indication (diaper rash prevention/treatment) correctly matches its category placement, a positive contrast with Calmoseptine's anorectal-labeled mismatch in this same category. Confirms this database's prior hedge on [[petrolatum]]/[[zinc-oxide]] that Aquaphor is petrolatum-based rather than zinc-oxide-based.
 
+**Update (see [[Eucerin Baby]]):** a related, same-manufacturer (Beiersdorf) product, "Eucerin Aquaphor Baby 3-in-1 Diaper Rash Cream," shares the "Aquaphor" name but is actually zinc-oxide-based (15%), NOT petrolatum-based like this product — a real cross-brand naming trap for caregivers who might assume any "Aquaphor"-labeled product shares this one's pure-petrolatum formulation.
+
 ## Related
 - [[petrolatum]]
 - [[zinc-oxide]]
 - [[Calmoseptine]]
+- [[Eucerin Baby]]
 - [[pharmacy overview]]

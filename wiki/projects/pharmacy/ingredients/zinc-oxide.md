@@ -71,6 +71,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **CeraVe Baby Healing Ointment confirmed 2026-08-27 — also NOT zinc-oxide-based:** petrolatum 41%, matching Aquaphor Baby's exact confirmed concentration — correcting this page's earlier general assumption. Removed from the "plausibly zinc-oxide-based" list above; see [[petrolatum]] instead. Explicitly lanolin-free and fragrance-free, a clean allergen profile relative to several other brands in this category. See `drugs/CeraVe Baby Healing Ointment.md`.
 
+**Eucerin Baby confirmed 2026-08-27 (with naming ambiguity):** most plausibly "Eucerin Aquaphor Baby 3-in-1 Diaper Rash Cream," zinc oxide 15% — a genuinely different, zinc-oxide-based formulation from the separately-branded, petrolatum-only "Aquaphor Baby Healing Ointment" already confirmed in this database, despite the shared "Aquaphor" name and shared manufacturer (Beiersdorf). See `drugs/Eucerin Baby.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
