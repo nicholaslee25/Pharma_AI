@@ -40,7 +40,10 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ## Brands Using This Category (in this database — formulation not individually verified per SKU beyond what's noted)
 **New-Skin** (60%) — confirmed benzethonium chloride 0.2% antiseptic-film-former per DailyMed, pulled 2026-08-26 (see `drugs/New-Skin.md`) — the antiseptic sub-class, not cyanoacrylate.
 **Bactine MAX** (5%) — its Liquid Bandage SKU is lidocaine-containing per brand-page research, marketed with a "kills 99.9% of germs" antimicrobial claim distinct from either sub-class described above — see `drugs/Bactine MAX.md`; this SKU's exact film-forming chemistry (cyanoacrylate vs. other) was not independently confirmed against a DailyMed label in that pass.
-**Nexcare** (16%) and **Band-Aid Hydro Seal** (19%) — not yet individually re-verified against a label in this specific liquid-bandage-chemistry pass (see their own brand pages for whatever chemistry/device classification was confirmed there).
+**Band-Aid Hydro Seal** (19%) — **discrepancy flagged:** confirmed to be a solid **hydrocolloid gel PATCH** (Class II occlusive wound dressing device, 21 CFR 878.4020), not a liquid at all — a third, mechanically unrelated product form sharing this category's name alongside the two liquid sub-classes above. See `drugs/Band-Aid Hydro Seal.md`.
+**Nexcare** (16%) — not yet individually re-verified against a label in this specific liquid-bandage-chemistry pass (see its own brand page, which already anticipated this page's cyanoacrylate framing).
+
+All 4 Liquid Bandages brands now individually researched as of 2026-08-26 (New-Skin, Band-Aid Hydro Seal, Nexcare, Bactine MAX) — this category turns out to span THREE mechanically distinct product types under one Pharmacy Times subcategory name: antiseptic liquid film-formers, cyanoacrylate/lidocaine liquid adhesives, and solid hydrocolloid patches.
 
 ## Related
 - [[pharmacy overview]]
