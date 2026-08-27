@@ -12,7 +12,7 @@ Topical Vapor Therapy - 79%
 Children's Topical Cough Suppressants, Ointments - 64%
 
 ## Overview
-Confirmed via DailyMed: Vicks VapoRub = **camphor 4.8%, eucalyptus oil 1.2%, menthol 2.63%** ointment, labeled as a cough suppressant/topical analgesic. **No dedicated ingredient page exists in this database for camphor** (nor for this three-ingredient topical combination as a class) — a new data gap alongside the plain-menthol lozenge gap already flagged elsewhere in this batch (Halls, Ricola, etc.), though this product's camphor+eucalyptus+menthol combination and topical (rub-on) route are mechanistically distinct from oral lozenges. Label saved at `raw/primary-sources/brands/vicks-vaporub/dailymed-vicks-vaporub.md`.
+Confirmed via DailyMed: Vicks VapoRub = **camphor 4.8%, eucalyptus oil 1.2%, menthol 2.63%** ointment, labeled as a cough suppressant/topical analgesic. **Gap resolved 2026-08-27:** the ingredient-page gap this page originally flagged has been filled by [[camphor-menthol-eucalyptus]], created during Pediatrics/Children's Topical Cough Suppressants research — see that page for the full mechanism, the real (if industry-funded) Paul et al. 2010 pediatric RCT, camphor toxicity data, and a major category-wide finding that 3 of the other 4 brands in this product's Children's-category listing (Zarbee's Naturals Soothing Baby Chest Rub, Maty's All Natural Baby Chest Rub, Frida Baby No-Mess Vapor Rub) contain no active ingredient at all. Label saved at `raw/primary-sources/brands/vicks-vaporub/dailymed-vicks-vaporub.md`.
 
 ## Pros
 - Long-established, very high recommendation share (79%/64%) in both of its categories in this database
@@ -20,9 +20,10 @@ Confirmed via DailyMed: Vicks VapoRub = **camphor 4.8%, eucalyptus oil 1.2%, men
 - A Children's VapoRub variant exists at the same active-ingredient concentrations for pediatric use per label
 
 ## Cons
-- No dedicated ingredient page exists to provide a formal evidence grade for camphor/eucalyptus/menthol as a topical cough/analgesic combination — this is a genuine gap; the product's actual symptom-relief mechanism is generally understood to be sensory (a cooling/warming counter-irritant effect perceived as easier breathing) rather than a true decongestant or expectorant action, though this specific framing was not independently sourced to a primary reference in this pass
-- **Camphor is toxic if ingested or applied to broken skin/mucous membranes** — a well-known general safety concern for this ingredient class; label warnings around application site and avoiding the nose specifically are relevant here, though the exact label warning text was not fully extracted in this pass
+- The product's actual symptom-relief mechanism is sensory (a cooling/counter-irritant effect perceived as easier breathing) rather than a true decongestant or expectorant action — see [[camphor-menthol-eucalyptus]] for the full mechanism detail
+- **Camphor is toxic if ingested or applied to broken skin/mucous membranes**, with a real documented toxicity progression from agitation to seizures/cardiac arrhythmia in severe pediatric cases — see [[camphor-menthol-eucalyptus]]'s Key Safety Data
 - Should never be applied inside the nostrils or ingested — a real, serious risk distinct from oral cough products
+- Its own supporting RCT (Paul et al. 2010, Pediatrics) was funded by an unrestricted grant from Procter & Gamble, Vicks' manufacturer — a real conflict-of-interest disclosure worth noting alongside the trial's genuinely positive result
 
 ## Use Cases
 Topical relief of cough due to minor throat/bronchial irritation associated with the common cold; on-chest/throat application for a "vapor" sensory effect.
@@ -34,7 +35,8 @@ For topical use only — do not take by mouth, apply in or near the nostrils, or
 Cough, chest congestion sensation (via topical/sensory action, not a true expectorant mechanism).
 
 ## Brand-Specific Alignment Check
-No ingredient page exists to check alignment against for this camphor/eucalyptus/menthol combination — flagged as a data gap. A future `ingredients/camphor.md` or combined "topical vapor rub" ingredient page would resolve this gap for at least Vicks VapoRub and Mentholatum simultaneously, since both share the same three active ingredients per this research pass.
+**Resolved 2026-08-27:** [[camphor-menthol-eucalyptus]] now covers this combination in full, confirming Vicks VapoRub and Mentholatum Children's Nighttime Vaporizing Rub as the only two genuine FDA-regulated drugs in the 5-brand Children's Topical Cough Suppressants, Ointments category — and noting Mentholatum's camphor concentration (5.3%) is actually higher than this product's (4.8%) despite being the brand marketed specifically for children.
 
 ## Related
+- [[camphor-menthol-eucalyptus]]
 - [[pharmacy overview]]
