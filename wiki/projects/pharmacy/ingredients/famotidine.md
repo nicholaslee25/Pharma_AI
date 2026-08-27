@@ -68,6 +68,8 @@ Pepcid AC Maximum Strength — confirmed famotidine 20mg per its own DailyMed la
 
 **Category gap flagged (2026-08-27, Tagamet HB 200 brand-specific pass):** this database's H2 Receptor Antagonists category also includes Tagamet HB 200 (cimetidine, not famotidine) and Zantac 360° — different molecules within the same drug class, filed alongside Pepcid despite meaningfully different interaction profiles (cimetidine is a notable CYP450 inhibitor with a real warfarin interaction that famotidine does not share to the same degree). No dedicated cimetidine ingredient page exists in this database; see `drugs/Tagamet HB 200.md`.
 
+**Zantac 360° confirmed 2026-08-27** as famotidine 20mg — resolving this page's prior brand-identity hedge. Real historical finding: "Zantac" was ranitidine (a chemically distinct H2RA) until the FDA-driven 2019-2020 market withdrawal over NDMA carcinogen contamination; the brand relaunched in 2021 as "Zantac 360°" with famotidine specifically to avoid that risk. The two "Zantac" products are NOT interchangeable despite sharing a brand name. See `drugs/Zantac 360°.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[proton-pump-inhibitors]]
