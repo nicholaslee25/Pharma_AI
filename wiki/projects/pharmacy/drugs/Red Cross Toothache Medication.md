@@ -35,7 +35,7 @@ Per label: external use only; do not use if allergic to eugenol (clove oil); avo
 Cavity-related toothache pain specifically, via eugenol's local analgesic action — a narrower, more targeted indication than the broader benzocaine-based competitors in this category.
 
 ## Brand-Specific Alignment Check
-New finding for this database: the first genuinely non-benzocaine mechanism identified in the Toothache Products category (alongside DenTek Canker Relief's menthol patch and Curoxen's homeopathic ointment in the related Canker Sore Treatments category). No dedicated eugenol ingredient evidence page exists in this database — flagged as a coverage gap rather than force-fit into [[topical-anesthetics]]'s benzocaine/lidocaine scope.
+New finding for this database: the first genuinely non-benzocaine mechanism identified in the Toothache Products category (alongside DenTek Canker Relief's menthol patch and Curoxen's homeopathic ointment in the related Canker Sore Treatments category). No dedicated eugenol ingredient evidence page exists in this database — flagged as a coverage gap rather than force-fit into [[topical-anesthetics]]'s benzocaine/lidocaine scope. **Cross-reference, 2026-08-27:** the separate "Red Cross" listing in the Oral Pain Relievers, Adult category (`drugs/Red Cross.md`) is confirmed to be "Red Cross Oral Pain Relief," a benzocaine 20% product — a completely different active ingredient under the same brand name, flagged there and on [[topical-anesthetics]] as a same-brand-multiple-formulations instance.
 
 ## Related
 - [[topical-anesthetics]]

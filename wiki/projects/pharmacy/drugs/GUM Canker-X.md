@@ -33,10 +33,12 @@ Product-specific Drug Facts warnings not independently retrieved in this pass (n
 Marketed relief of canker sore pain and protection of the sore site via a barrier-film mechanism; no independently verified clinical efficacy data located in this pass.
 
 ## Brand-Specific Alignment Check
-Adds a third non-benzocaine mechanism (alongside DenTek Canker Relief's menthol patch and Curoxen's homeopathic ointment) to this category's competitive landscape — meaning at least three of this category's six brands (DenTek, Curoxen, GUM Canker-X, roughly 21% combined share) explicitly avoid benzocaine, versus Orajel/Anbesol/Kank-A's benzocaine-based majority (~79% combined). Flagged on [[topical-anesthetics]].
+Adds a third non-benzocaine mechanism (alongside DenTek Canker Relief's menthol patch and Curoxen's homeopathic ointment) to this category's competitive landscape — meaning at least three of this category's six brands (DenTek, Curoxen, GUM Canker-X, roughly 21% combined share) explicitly avoid benzocaine, versus Orajel/Anbesol/Kank-A's benzocaine-based majority (~79% combined). Flagged on [[topical-anesthetics]]. **Cross-reference, 2026-08-27:** this same product also appears as "GUM Canker-X Pain Relief Gel" in the separate Oral Pain Relievers, Adult category (`drugs/GUM Canker-X Pain Relief Gel.md`, which has a fuller confirmed ingredient list including glycyrrhetinic acid and benzalkonium chloride), and a near-identical formulation is sold as "Canker-X" by a different manufacturer (Alliance Pharmaceuticals, `drugs/Canker-X.md`) — flagging a real possibility that this database's category tables count what may be one underlying formulation as multiple separate competing brands.
 
 ## Related
 - [[topical-anesthetics]]
 - [[DenTek Canker Relief Canker Sore Patches]]
 - [[Curoxen Mouth Sore Relief]]
+- [[GUM Canker-X Pain Relief Gel]]
+- [[Canker-X]]
 - [[pharmacy overview]]
