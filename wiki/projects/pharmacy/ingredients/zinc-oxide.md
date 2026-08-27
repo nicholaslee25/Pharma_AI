@@ -57,6 +57,8 @@ Desitin, Balmex, Boudreaux's Butt Paste, Triple Paste, Burt's Bees Baby Diaper R
 
 **Boudreaux's Butt Paste confirmed 2026-08-27:** Original and "All Natural" are both 16% zinc oxide; Maximum Strength is 40% — matching Desitin's Maximum Strength concentration exactly, plausibly the FDA OTC monograph ceiling for zinc oxide as a skin protectant. **New allergen finding:** both Original and "All Natural" formulations contain Balsam of Peru (a well-documented common contact allergen) as an inactive ingredient — the first such allergen finding for any zinc-oxide diaper-rash brand in this database, notably present even in the "All Natural" line. See `drugs/Boudreaux's Butt Paste.md`.
 
+**Balmex confirmed 2026-08-27 — a positive counter-example:** both Diaper Rash Cream and Adult Care Rash are consistently 11.3% zinc oxide (the lowest confirmed concentration among this database's Diaper Rash Products brands so far), with no concentration split between its pediatric and adult product lines, unlike Desitin and Boudreaux's Butt Paste. See `drugs/Balmex.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[petrolatum]]
