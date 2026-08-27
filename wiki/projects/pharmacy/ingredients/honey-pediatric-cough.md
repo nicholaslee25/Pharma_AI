@@ -51,6 +51,8 @@ Per this database's own subcategory file (Pharmacy Times 2026 OTC Guide, ~1,700 
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 Little Remedies Honey Cough Syrup, Zarbee's, Zarbee's Naturals, HoneyWorks Kids, Boiron Children's Chestal Honey, Children's Chestal Honey — filed under Children's Cough in this database, plausibly honey-based by product name, but not individually confirmed against a label in this pass. Critically, the under-12-months botulism warning applies to honey as an ingredient regardless of which branded product delivers it — this is not a brand-specific risk that varies by manufacturer.
 
+**Confirmed finding (2026-08-27, Zarbee's Naturals brand-page research):** Zarbee's Naturals Children's Cough Syrup is confirmed via manufacturer labeling to be a **dietary supplement, not an FDA-regulated OTC drug** — proprietary blend of dark honey, black elderberry extract, vitamin D3, and zinc gluconate (daytime SKU), or honey, English ivy leaf extract, black elderberry, and German chamomile (a day/night variant). This is a real, significant category-placement discrepancy: a non-drug supplement product filed under this database's drug-focused "Children's Cough" and "Children's Cough/Cold Combinations" categories. See `drugs/Zarbee's Naturals.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[dextromethorphan]]
