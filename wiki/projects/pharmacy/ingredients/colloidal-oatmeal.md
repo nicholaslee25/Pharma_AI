@@ -36,9 +36,12 @@ Per FDA skin-protectant monograph conventions: for external use only; discontinu
 
 **[[Eczema Honey]] confirmed 2026-08-27:** also colloidal oatmeal 1% as its sole active ingredient (5% share, Eczema Care/Relief Products) — per DailyMed (labeler Eczema Honey CO LLC), identical active ingredient/concentration to Aveeno Eczema Therapy. **Discrepancy flagged:** honey, the brand's namesake, is listed only as an inactive ingredient on this product's own FDA label — the actual FDA-recognized active ingredient/mechanism is this page's colloidal oatmeal, not honey. See `drugs/Eczema Honey.md` for the full finding, including a separate unaffiliated-seeming "Kenkoderm Eczema Honey" product line with near-identical naming.
 
+**[[Gold Bond Eczema Relief]] confirmed 2026-08-27:** colloidal oatmeal **2%** — double the concentration confirmed for Aveeno Eczema Therapy and Eczema Honey (both 1%) — per DailyMed (labeler Gold Bond Co LLC), consistent across its Medicated/Ultimate Eczema Relief SKUs. No head-to-head trial comparing 1% vs. 2% colloidal oatmeal was located; this pass's pivotal RCT (Lisante 2017, above) tested 1%. **Manufacturer marketing claim flagged as unsupported:** Gold Bond's own site claims "9 out of 10" / "8 of 10" user-improvement figures with no disclosed sample size, methodology, or citation — held separately from this page's peer-reviewed evidence, not merged into it. See `drugs/Gold Bond Eczema Relief.md`.
+
 ## Related
 - [[Aveeno Eczema Therapy]]
 - [[Aveeno]]
 - [[Eczema Honey]]
+- [[Gold Bond Eczema Relief]]
 - [[moisturizers-ceramides]]
 - [[pharmacy overview]]
