@@ -1,0 +1,21 @@
+# Topical Counterirritants (Menthol / Camphor / Methyl Salicylate) — Source Notes
+
+**Retrieved:** 2026-08-26
+
+## Efficacy — Higashi et al. 2010 (PMID 20171409, Clinical Therapeutics 32(1):34-43)
+Randomized, double-blind, parallel-group, placebo-controlled, multicenter RCT. Patch containing methyl salicylate 10% + l-menthol 3% vs. placebo patch, adults (18+) with clinically diagnosed mild-to-moderate muscle strain (shoulder, upper back, upper arm, neck, calf, thigh, forearm, abdomen). Single 8-hour application. **Result: the active patch provided significant pain relief vs. placebo** (exact N and VAS effect-size figures not independently retrieved in this pass — full text paywalled; headline finding confirmed via multiple secondary summaries of the same study).
+
+## Safety — FDA Drug Safety Communication, September 13, 2012
+"FDA warns of rare but serious skin injuries with over-the-counter topical muscle and joint pain relievers." Reviewed 43 cases (1969-2011) of burns associated with OTC topical products containing menthol, methyl salicylate, and/or capsaicin. Findings:
+- Burns ranged from first- to third-degree chemical burns at the application site.
+- Named brands explicitly in FDA/press coverage: **Bengay, Capzasin, Flexall, Icy Hot, Mentholatum** (representative examples, not an exhaustive list of every affected product).
+- Burns occurred in many cases after just ONE application; severe burning/blistering could occur within 24 hours; some cases required hospitalization.
+- **Risk factor identified: a majority of the more severe burns occurred with menthol or menthol/methyl salicylate combination products, specifically those with higher concentrations — greater than 3% menthol or greater than 10% methyl salicylate.**
+- This directly implicates several higher-concentration SKUs identified in this database's own brand research: Icy Hot Balm (menthol 7.6-10%, methyl salicylate 29-30%), BENGAY Ultra Strength (menthol 10%, methyl salicylate 30%), Tiger Balm Active Muscle Rub (menthol 5%, methyl salicylate 15%) — all exceed BOTH thresholds.
+
+## Methyl salicylate — NSAID-class safety profile (per Salonpas DailyMed label)
+Methyl salicylate is chemically a salicylate (same drug family as aspirin) and its OTC Drug Facts labels carry NSAID-class warnings not typically expected for a "topical rub": stomach bleeding risk (age 60+, ulcer/bleeding history, blood thinner/steroid/other-NSAID use), aspirin/NSAID allergy contraindication, and an explicit pregnancy warning: "It is especially important not to use methyl salicylate at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor" — directly analogous to oral NSAID pregnancy warnings regarding premature ductus arteriosus closure. This is a real, systemic-absorption-driven risk profile that a consumer might not expect from a topical rub.
+
+## Category-placement / product-type finding — ThermaCare and Beyond BodiHeat are DEVICES, not counterirritant drugs
+**ThermaCare:** confirmed via multiple sources to be an FDA Class II medical DEVICE (heat wrap using iron-oxidation "HeatCell" technology — iron powder + oxygen + water + salt reacting exothermically), NOT a drug, NOT containing menthol/camphor/methyl salicylate at all. Reaches ~40°C (104°F) within ~30 min, sustained ~8 hours. **Real FDA recall found:** Pfizer Consumer Healthcare voluntarily recalled six lots of ThermaCare HeatWraps (Muscle Pain Therapy, Menstrual, Back Pain Therapy product lines, lots distributed June 2017-March 2018) due to (1) some heat cells reaching higher-than-specified temperatures and (2) some wraps leaking heat-cell contents — both risking burns/blisters/skin irritation. FDA Class 2 recall classification.
+**Beyond BodiHeat:** per manufacturer (Okamoto USA) product description, uses activated carbon + iron powder + vermiculite — the same air-activated exothermic heat-patch chemistry as ThermaCare and common hand-warmers, not a capsaicin or counterirritant chemical product (contrast with the many DailyMed-listed "capsaicin heat patch" products from OTHER manufacturers that use actual capsaicin 0.025% as an active ingredient alongside heat generation). No DailyMed listing exists for Beyond BodiHeat, consistent with it being a device rather than a drug.
