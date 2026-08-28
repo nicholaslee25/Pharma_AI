@@ -7,14 +7,14 @@
 
 ---
 
-Emergen-C - 23%
-Cepacol - 15%
-Airborne - 14%
-Alka-Seltzer Plus - 13%
-Zicam - 12%
-Cold-EEZE - 9%
-HALLS Defense - 8%
-Sucrets - 4%
-Umcka ColdCare - 2%
+[[Emergen-C]] - 23%
+[[Cepacol]] - 15%
+[[Airborne]] - 14%
+[[Alka-Seltzer Plus]] - 13%
+[[Zicam]] - 12%
+[[Cold-EEZE]] - 9%
+[[HALLS Defense]] - 8%
+[[Sucrets]] - 4%
+[[Umcka ColdCare]] - 2%
 
 Recommendations per Month: 1,935,504

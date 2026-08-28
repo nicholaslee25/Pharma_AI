@@ -7,7 +7,7 @@
 
 ---
 
-Mucinex - 74%
-Robitussin - 26%
+[[Mucinex]] - 74%
+[[Robitussin]] - 26%
 
 Recommendations per Month: 2,038,866

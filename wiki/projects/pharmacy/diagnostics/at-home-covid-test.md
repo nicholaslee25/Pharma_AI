@@ -7,10 +7,10 @@
 
 ---
 
-BinaxNOW - 53%
-FlowFlex - 33%
-CareStart - 8%
-Ellume - 4%
-iHealRapid - 2%
+[[BinaxNOW]] - 53%
+[[FlowFlex]] - 33%
+[[CareStart]] - 8%
+[[Ellume]] - 4%
+[[iHealRapid]] - 2%
 
 Recommendations per Month: 1,200,000

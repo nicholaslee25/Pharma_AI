@@ -7,8 +7,8 @@
 
 ---
 
-Dramamine for Kids - 71%
-Sea-Band - 18%
-Nauzene Kids - 11%
+[[Dramamine for Kids]] - 71%
+[[Sea-Band]] - 18%
+[[Nauzene Kids]] - 11%
 
 Recommendations per Month: 637,029

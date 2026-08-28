@@ -7,14 +7,14 @@
 
 ---
 
-Afrin - 62%
-NasalCrom - 10%
-Dristan Nasal Spray - 6%
-Neo-Synephrine - 5%
-4-Way Nasal Spray - 4%
-Mucinex Nasal Spray - 4%
-Vicks Sinex Ultra Fine Mist - 3%
-Zicam - 3%
-Xlear - 3%
+[[Afrin]] - 62%
+[[NasalCrom]] - 10%
+[[Dristan Nasal Spray]] - 6%
+[[Neo-Synephrine]] - 5%
+[[4-Way Nasal Spray]] - 4%
+[[Mucinex Nasal Spray]] - 4%
+[[Vicks Sinex Ultra Fine Mist]] - 3%
+[[Zicam]] - 3%
+[[Xlear]] - 3%
 
 Recommendations per Month: 1,581,933

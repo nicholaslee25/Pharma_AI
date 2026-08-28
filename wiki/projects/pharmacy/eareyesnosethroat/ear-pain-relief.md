@@ -7,10 +7,10 @@
 
 ---
 
-Similasan Earache Relief - 43%
-Hyland's Earache Tablets/Drops - 33%
-Marie Originals Ear Pain Drops - 10%
-Ring Relief - 7%
-Eosera Ear Pain MD - 7%
+[[Similasan Earache Relief]] - 43%
+[[Hyland's Earache Tablets-Drops]] - 33%
+[[Marie Originals Ear Pain Drops]] - 10%
+[[Ring Relief]] - 7%
+[[Eosera Ear Pain MD]] - 7%
 
 Recommendations per Month: 728,571

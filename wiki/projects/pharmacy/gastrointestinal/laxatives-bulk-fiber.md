@@ -7,13 +7,13 @@
 
 ---
 
-Metamucil - 56%
-Benefiber - 20%
-Citrucel - 8%
-FiberCon - 7%
-Konsyl - 3%
-Mirafiber - 3%
-Vitafusion Fiber Well - 2%
-Phillips' Fiber Good - 1%
+[[Metamucil]] - 56%
+[[Benefiber]] - 20%
+[[Citrucel]] - 8%
+[[FiberCon]] - 7%
+[[Konsyl]] - 3%
+[[Mirafiber]] - 3%
+[[Vitafusion Fiber Well]] - 2%
+[[Phillips' Fiber Good]] - 1%
 
 Recommendations per Month: 1,285,714

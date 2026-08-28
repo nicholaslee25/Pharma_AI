@@ -7,12 +7,12 @@
 
 ---
 
-Biotène - 66%
-Oral-B - 11%
-ACT Dry Mouth - 7%
-XyliMelts - 6%
-TheraBreath - 5%
-Lubricity - 3%
-SmartMouth - 2%
+[[Biotène]] - 66%
+[[Oral-B]] - 11%
+[[ACT Dry Mouth]] - 7%
+[[XyliMelts]] - 6%
+[[TheraBreath]] - 5%
+[[Lubricity]] - 3%
+[[SmartMouth]] - 2%
 
 Recommendations per Month: 964,916

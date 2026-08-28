@@ -7,11 +7,11 @@
 
 ---
 
-Zyrtec - 34%
-Claritin - 30%
-Allegra - 17%
-Benadryl - 8%
-Xyzal - 6%
-Alavert - 5%
+[[Zyrtec]] - 34%
+[[Claritin]] - 30%
+[[Allegra]] - 17%
+[[Benadryl]] - 8%
+[[Xyzal]] - 6%
+[[Alavert]] - 5%
 
 Recommendations per Month: 2,399,370

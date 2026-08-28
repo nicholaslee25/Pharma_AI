@@ -7,12 +7,12 @@
 
 ---
 
-Children's Tylenol - 57%
-Children's Motrin - 25%
-Children's Advil - 10%
-DrKids - 3%
-Genexa - 2%
-Little Remedies Infant Fever + Pain Reliever - 2%
-FeverAll - 1%
+[[Children's Tylenol]] - 57%
+[[Children's Motrin]] - 25%
+[[Children's Advil]] - 10%
+[[DrKids]] - 3%
+[[Genexa]] - 2%
+[[Little Remedies Infant Fever + Pain Reliever]] - 2%
+[[FeverAll]] - 1%
 
 Recommendations per Month: 1,700,837

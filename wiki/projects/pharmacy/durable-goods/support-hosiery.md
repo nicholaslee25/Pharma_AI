@@ -7,10 +7,10 @@
 
 ---
 
-Futuro - 38%
-Dr. Scholl's - 31%
-ACE - 21%
-Sigvaris - 7%
-Truform - 3%
+[[Futuro]] - 38%
+[[Dr. Scholl's]] - 31%
+[[ACE]] - 21%
+[[Sigvaris]] - 7%
+[[Truform]] - 3%
 
 Recommendations per Month: 970,588

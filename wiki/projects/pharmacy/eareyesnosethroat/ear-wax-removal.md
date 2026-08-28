@@ -7,10 +7,10 @@
 
 ---
 
-Debrox - 86%
-Earwax MD - 6%
-Clinere - 3%
-NeilMed ClearCanal - 3%
-Similasan Ear Wax Relief - 2%
+[[Debrox]] - 86%
+[[Earwax MD]] - 6%
+[[Clinere]] - 3%
+[[NeilMed ClearCanal]] - 3%
+[[Similasan Ear Wax Relief]] - 2%
 
 Recommendations per Month: 847,059

@@ -7,14 +7,14 @@
 
 ---
 
-Neosporin - 57%
-Bacitraycin Plus - 10%
-Polysporin - 10%
-Hibiclens - 8%
-Dermoplast - 4%
-A&D - 3%
-Bactine - 3%
-Betadine - 3%
-Alocane - 2%
+[[Neosporin]] - 57%
+[[Bacitraycin Plus]] - 10%
+[[Polysporin]] - 10%
+[[Hibiclens]] - 8%
+[[Dermoplast]] - 4%
+[[A&D]] - 3%
+[[Bactine]] - 3%
+[[Betadine]] - 3%
+[[Alocane]] - 2%
 
 Recommendations per Month: 1,546,639

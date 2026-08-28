@@ -7,13 +7,13 @@
 
 ---
 
-Cortizone-10 Itch Relief - 43%
-After Bite - 23%
-Benadryl Topical - 18%
-BiteMD - 4%
-Sting-Kill - 4%
-Dermoplast - 3%
-Nature's Willow Bug Bite Balm - 3%
-Off - 2%
+[[Cortizone-10 Itch Relief]] - 43%
+[[After Bite]] - 23%
+[[Benadryl Topical]] - 18%
+[[BiteMD]] - 4%
+[[Sting-Kill]] - 4%
+[[Dermoplast]] - 3%
+[[Nature's Willow Bug Bite Balm]] - 3%
+[[Off]] - 2%
 
 Recommendations per Month: 1,345,588

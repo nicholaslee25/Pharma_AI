@@ -7,8 +7,8 @@
 
 ---
 
-Pepcid - 83%
-Tagamet HB 200 - 9%
-Zantac 360° - 8%
+[[Pepcid]] - 83%
+[[Tagamet HB 200]] - 9%
+[[Zantac 360°]] - 8%
 
 Recommendations per Month: 1,435,714

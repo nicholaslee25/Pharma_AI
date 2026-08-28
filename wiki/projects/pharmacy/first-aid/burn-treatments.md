@@ -7,12 +7,12 @@
 
 ---
 
-Neosporin - 32%
-Dermoplast - 22%
-A+D First Aid Ointment - 18%
-Alocane - 9%
-Bacitraycin Plus - 9%
-Bactine MAX - 5%
-Polysporin - 5%
+[[Neosporin]] - 32%
+[[Dermoplast]] - 22%
+[[A+D First Aid Ointment]] - 18%
+[[Alocane]] - 9%
+[[Bacitraycin Plus]] - 9%
+[[Bactine MAX]] - 5%
+[[Polysporin]] - 5%
 
 Recommendations per Month: 780,882

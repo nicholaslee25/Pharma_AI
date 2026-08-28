@@ -7,9 +7,9 @@
 
 ---
 
-Preparation H - 73%
-RectiCare - 11%
-Tucks - 9%
-Calmol 4 - 7%
+[[Preparation H]] - 73%
+[[RectiCare]] - 11%
+[[Tucks]] - 9%
+[[Calmol 4]] - 7%
 
 Recommendations per Month: 951,681

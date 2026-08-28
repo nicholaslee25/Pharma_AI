@@ -7,12 +7,12 @@
 
 ---
 
-Biofreeze - 23%
-Icy Hot - 20%
-Salonpas - 19%
-ThermaCare - 14%
-BENGAY - 12%
-Beyond BodiHeat - 8%
-Tiger Balm - 4%
+[[Biofreeze]] - 23%
+[[Icy Hot]] - 20%
+[[Salonpas]] - 19%
+[[ThermaCare]] - 14%
+[[BENGAY]] - 12%
+[[Beyond BodiHeat]] - 8%
+[[Tiger Balm]] - 4%
 
 Recommendations per Month: 1,665,756

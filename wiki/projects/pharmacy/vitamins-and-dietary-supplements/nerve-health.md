@@ -7,8 +7,8 @@
 
 ---
 
-Nervive - 68%
-Dr. Stephanie's Nerve Miracle - 17%
-NeuropAWAY - 15%
+[[Nervive]] - 68%
+[[Dr. Stephanie's Nerve Miracle]] - 17%
+[[NeuropAWAY]] - 15%
 
 Recommendations per Month: 714,076

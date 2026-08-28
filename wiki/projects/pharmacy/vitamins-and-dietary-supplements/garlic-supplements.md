@@ -7,11 +7,11 @@
 
 ---
 
-Garlique - 36%
-Nature Made - 34%
-Nature's Bounty - 15%
-Kyolic - 7%
-Nature's Truth - 5%
-Nature's Way - 3%
+[[Garlique]] - 36%
+[[Nature Made]] - 34%
+[[Nature's Bounty]] - 15%
+[[Kyolic]] - 7%
+[[Nature's Truth]] - 5%
+[[Nature's Way]] - 3%
 
 Recommendations per Month: 1,015,336

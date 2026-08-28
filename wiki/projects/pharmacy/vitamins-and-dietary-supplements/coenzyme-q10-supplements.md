@@ -7,9 +7,9 @@
 
 ---
 
-Nature Made - 51%
-Nature's Bounty - 25%
-Qunol Ultra - 21%
-Irwin Naturals - 3%
+[[Nature Made]] - 51%
+[[Nature's Bounty]] - 25%
+[[Qunol Ultra]] - 21%
+[[Irwin Naturals]] - 3%
 
 Recommendations per Month: 1,343,697

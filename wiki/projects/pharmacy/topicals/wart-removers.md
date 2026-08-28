@@ -7,8 +7,8 @@
 
 ---
 
-Compound W - 68%
-Dr. Scholl's Freeze Away - 28%
-ProVent Wart - 4%
+[[Compound W]] - 68%
+[[Dr. Scholl's Freeze Away]] - 28%
+[[ProVent Wart]] - 4%
 
 Recommendations per Month: 1,183,613

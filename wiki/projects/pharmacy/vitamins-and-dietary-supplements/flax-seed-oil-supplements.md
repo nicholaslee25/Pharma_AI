@@ -7,8 +7,8 @@
 
 ---
 
-Nature Made - 68%
-Nature's Bounty - 25%
-Nature's Truth - 7%
+[[Nature Made]] - 68%
+[[Nature's Bounty]] - 25%
+[[Nature's Truth]] - 7%
 
 Recommendations per Month: 798,326

@@ -7,13 +7,13 @@
 
 ---
 
-Emergen-C - 52%
-Nature Made - 18%
-Airborne Vitamin C - 10%
-Nature's Bounty - 8%
-Ester-C - 6%
-solaray - 3%
-Sundown - 2%
-vitafusion - 1%
+[[Emergen-C]] - 52%
+[[Nature Made]] - 18%
+[[Airborne Vitamin C]] - 10%
+[[Nature's Bounty]] - 8%
+[[Ester-C]] - 6%
+[[solaray]] - 3%
+[[Sundown]] - 2%
+[[vitafusion]] - 1%
 
 Recommendations per Month: 1,434,454

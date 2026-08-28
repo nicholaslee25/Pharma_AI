@@ -7,10 +7,10 @@
 
 ---
 
-SlimFast - 33%
-Alli - 31%
-Diurex - 26%
-Hydroxycut - 6%
-Lipozene - 4%
+[[SlimFast]] - 33%
+[[Alli]] - 31%
+[[Diurex]] - 26%
+[[Hydroxycut]] - 6%
+[[Lipozene]] - 4%
 
 Recommendations per Month: 741,807

@@ -7,9 +7,9 @@
 
 ---
 
-Vicks VapoRub - 79%
-Mentholatum - 10%
-Maty's Vapor Rub - 6%
-Zarbee's Naturals Chest Rub - 5%
+[[Vicks VapoRub]] - 79%
+[[Mentholatum]] - 10%
+[[Maty's Vapor Rub]] - 6%
+[[Zarbee's Naturals Chest Rub]] - 5%
 
 Recommendations per Month: 1,537,815

@@ -7,16 +7,16 @@
 
 ---
 
-Culturelle - 32%
-Florastor - 21%
-Align Probiotic Supplement - 14%
-Florajen - 10%
-Airborne + Probiotic - 5%
-Nature Made - 5%
-AZO Complete Feminine Balance - 4%
-Garden of Life - 3%
-OLLY Probiotic - 3%
-Phillips' Colon Health - 2%
-VSL - 1%
+[[Culturelle]] - 32%
+[[Florastor]] - 21%
+[[Align Probiotic Supplement]] - 14%
+[[Florajen]] - 10%
+[[Airborne + Probiotic]] - 5%
+[[Nature Made]] - 5%
+[[AZO Complete Feminine Balance]] - 4%
+[[garden of life]] - 3%
+[[OLLY Probiotic]] - 3%
+[[Phillips' Colon Health]] - 2%
+[[VSL]] - 1%
 
 Recommendations per Month: 1,366,387

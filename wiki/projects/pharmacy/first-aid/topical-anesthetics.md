@@ -7,12 +7,12 @@
 
 ---
 
-Aspercreme with Lidocaine - 37%
-Salonpas Lidocaine - 29%
-Dermoplast - 14%
-Lanacane First Aid Spray - 13%
-Bactine Max - 3%
-Blue-Emu - 3%
-Pomada Dragon - 1%
+[[Aspercreme with Lidocaine]] - 37%
+[[Salonpas Lidocaine]] - 29%
+[[Dermoplast]] - 14%
+[[Lanacane First Aid Spray]] - 13%
+[[Bactine MAX]] - 3%
+[[Blue-Emu]] - 3%
+[[Pomada Dragon]] - 1%
 
 Recommendations per Month: 1,142,647

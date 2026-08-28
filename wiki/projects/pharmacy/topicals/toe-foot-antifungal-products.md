@@ -7,14 +7,14 @@
 
 ---
 
-Lotrimin - 39%
-Lamisil - 32%
-Fungi-Nail - 8%
-Fungi Cure - 7%
-Desenex - 4%
-Tinactin - 3%
-Zeasorb - 3%
-ProClearz Maximum Strength - 2%
-Tineacide Antifungal Cream - 2%
+[[Lotrimin]] - 39%
+[[Lamisil]] - 32%
+[[Fungi-Nail]] - 8%
+[[Fungi Cure]] - 7%
+[[Desenex]] - 4%
+[[Tinactin]] - 3%
+[[Zeasorb]] - 3%
+[[ProClearz Maximum Strength]] - 2%
+[[Tineacide Antifungal Cream]] - 2%
 
 Recommendations per Month: 1,277,521

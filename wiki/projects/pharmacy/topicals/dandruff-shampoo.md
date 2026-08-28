@@ -7,14 +7,14 @@
 
 ---
 
-Nizoral - 33%
-Head & Shoulders - 28%
-Selsun Blue - 15%
-Neutrogena T/Gel - 9%
-Dove DermaCare Scalp - 6%
-DHS Zinc Shampoo - 4%
-Neutrogena T/Sal - 3%
-MG217 Psoriasis - 1%
-Medicasp - 1%
+[[Nizoral]] - 33%
+[[Head & Shoulders]] - 28%
+[[Selsun Blue]] - 15%
+[[Neutrogena T-Gel]] - 9%
+[[Dove DermaCare Scalp]] - 6%
+[[DHS Zinc Shampoo]] - 4%
+[[Neutrogena T-Sal]] - 3%
+[[MG217 Psoriasis]] - 1%
+[[Medicasp]] - 1%
 
 Recommendations per Month: 896,849

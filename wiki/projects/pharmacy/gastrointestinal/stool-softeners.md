@@ -7,9 +7,9 @@
 
 ---
 
-Colace - 61%
-MiraLAX - 18%
-Dulcolax - 17%
-Phillips' Stool Softener - 4%
+[[Colace]] - 61%
+[[MiraLAX]] - 18%
+[[Dulcolax]] - 17%
+[[Phillips' Stool Softener]] - 4%
 
 Recommendations per Month: 1,585,084

@@ -7,12 +7,12 @@
 
 ---
 
-Excedrin Migraine - 65%
-Advil Migraine - 13%
-Tylenol - 8%
-Aleve - 7%
-Hyland's Migraine Relief - 3%
-Motrin Migraine - 3%
-MagniLife Migraine Relief - 1%
+[[Excedrin Migraine]] - 65%
+[[Advil Migraine]] - 13%
+[[Tylenol]] - 8%
+[[Aleve]] - 7%
+[[Hyland's Migraine Relief]] - 3%
+[[Motrin Migraine]] - 3%
+[[MagniLife Migraine Relief]] - 1%
 
 Recommendations per Month: 1,809,454

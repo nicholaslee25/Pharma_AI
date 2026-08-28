@@ -7,7 +7,7 @@
 
 ---
 
-Zicam - 60%
-Cold-EEZE - 40%
+[[Zicam]] - 60%
+[[Cold-EEZE]] - 40%
 
 Recommendations per Month: 1,435,084

@@ -7,9 +7,9 @@
 
 ---
 
-Zicam - 41%
-Cold-EEZE - 37%
-Sambucus Organic Zinc Lozenges - 14%
-Quantum TheraZinc - 8%
+[[Zicam]] - 41%
+[[Cold-EEZE]] - 37%
+[[Sambucus Organic Zinc Lozenges]] - 14%
+[[Quantum TheraZinc]] - 8%
 
 Recommendations per Month: 1,341,807

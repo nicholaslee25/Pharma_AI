@@ -7,9 +7,9 @@
 
 ---
 
-Hyland Defend Cough + Cold - 42%
-Sambucol - 41%
-Boiron Chestal - 11%
-Umcka ColdCare - 6%
+[[Hyland Defend Cough + Cold]] - 42%
+[[Sambucol]] - 41%
+[[Boiron Chestal]] - 11%
+[[Umcka ColdCare]] - 6%
 
 Recommendations per Month: 1,446,429

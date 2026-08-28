@@ -7,9 +7,9 @@
 
 ---
 
-Nature Made - 66%
-Nature's Bounty - 21%
-solgar - 7%
-vitafusion - 6%
+[[Nature Made]] - 66%
+[[Nature's Bounty]] - 21%
+[[solgar]] - 7%
+[[vitafusion]] - 6%
 
 Recommendations per Month: 2,272,689

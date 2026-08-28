@@ -7,9 +7,9 @@
 
 ---
 
-New-Skin - 60%
-Band-Aid Hydro Seal - 19%
-Nexcare - 16%
-Bactine MAX - 5%
+[[New-Skin]] - 60%
+[[Band-Aid Hydro Seal]] - 19%
+[[Nexcare]] - 16%
+[[Bactine MAX]] - 5%
 
 Recommendations per Month: 983,824

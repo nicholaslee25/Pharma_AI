@@ -7,8 +7,8 @@
 
 ---
 
-Mederma Stretch Marks - 48%
-Palmer's Cocoa Butter Formula - 28%
-Bio-Oil - 24%
+[[Mederma Stretch Marks]] - 48%
+[[Palmer's Cocoa Butter Formula]] - 28%
+[[Bio-Oil]] - 24%
 
 Recommendations per Month: 731,723

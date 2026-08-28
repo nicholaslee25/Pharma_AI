@@ -7,11 +7,11 @@
 
 ---
 
-Dramamine Nausea - 36%
-Emetrol - 32%
-Pepto-Bismol - 16%
-Alka-Seltzer - 7%
-Nauzene - 5%
-Sea-Band - 4%
+[[Dramamine Nausea]] - 36%
+[[Emetrol]] - 32%
+[[Pepto-Bismol]] - 16%
+[[Alka-Seltzer]] - 7%
+[[Nauzene]] - 5%
+[[Sea-Band]] - 4%
 
 Recommendations per Month: 1,704,832

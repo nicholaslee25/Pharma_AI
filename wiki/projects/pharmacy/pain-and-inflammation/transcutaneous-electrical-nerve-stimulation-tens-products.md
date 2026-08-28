@@ -7,7 +7,7 @@
 
 ---
 
-OMRON TENS - 78%
-AccuRelief Wireless Pain Relief Device - 22%
+[[OMRON TENS]] - 78%
+[[AccuRelief Wireless Pain Relief Device]] - 22%
 
 Recommendations per Month: 460,714

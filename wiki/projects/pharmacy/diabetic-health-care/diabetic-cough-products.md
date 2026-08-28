@@ -7,8 +7,8 @@
 
 ---
 
-Diabetic Tussin - 63%
-Robitussin - 28%
-Safetussin - 9%
+[[Diabetic Tussin]] - 63%
+[[Robitussin]] - 28%
+[[Safetussin]] - 9%
 
 Recommendations per Month: 2,151,681

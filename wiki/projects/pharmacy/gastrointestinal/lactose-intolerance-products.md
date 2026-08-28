@@ -7,9 +7,9 @@
 
 ---
 
-Lactaid - 79%
-Beano - 13%
-Hilma - 5%
-Schiff Digestive Advantage - 3%
+[[Lactaid]] - 79%
+[[Beano]] - 13%
+[[Hilma]] - 5%
+[[Schiff Digestive Advantage]] - 3%
 
 Recommendations per Month: 942,050

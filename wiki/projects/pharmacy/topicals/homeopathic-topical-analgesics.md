@@ -7,9 +7,9 @@
 
 ---
 
-Boiron Arnicare Gel/Cream - 31%
-Theraworx Relief - 26%
-Blue-Emu Original Cream - 25%
-MagniLife Arnica Gel - 18%
+[[Boiron Arnicare Gel-Cream]] - 31%
+[[Theraworx Relief]] - 26%
+[[Blue-Emu Original Cream]] - 25%
+[[MagniLife Arnica Gel]] - 18%
 
 Recommendations per Month: 1,115,546

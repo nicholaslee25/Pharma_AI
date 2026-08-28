@@ -7,9 +7,9 @@
 
 ---
 
-ACT Kids Anticavity - 50%
-Colgate Kids - 24%
-Listerine Smart Rinse - 15%
-Tom's of Maine - 11%
+[[ACT Kids Anticavity]] - 50%
+[[Colgate Kids]] - 24%
+[[Listerine Smart Rinse]] - 15%
+[[Tom's of Maine]] - 11%
 
 Recommendations per Month: 847,059

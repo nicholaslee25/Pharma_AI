@@ -7,10 +7,10 @@
 
 ---
 
-Zicam - 34%
-Cold-EEZE - 26%
-Sambucol - 17%
-Hyland Defend Cough + Cold - 12%
-Boiron ColdCalm - 11%
+[[Zicam]] - 34%
+[[Cold-EEZE]] - 26%
+[[Sambucol]] - 17%
+[[Hyland Defend Cough + Cold]] - 12%
+[[Boiron ColdCalm]] - 11%
 
 Recommendations per Month: 1,016,597

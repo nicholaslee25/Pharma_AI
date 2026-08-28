@@ -7,10 +7,10 @@
 
 ---
 
-Accu-Chek - 26%
-OneTouch - 25%
-FreeStyle - 23%
-Bayer Microlet 2 - 13%
-Contour Next - 13%
+[[Accu-Chek]] - 26%
+[[OneTouch]] - 25%
+[[FreeStyle]] - 23%
+[[Bayer Microlet 2]] - 13%
+[[Contour Next]] - 13%
 
 Recommendations per Month: 1,639,286

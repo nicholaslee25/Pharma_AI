@@ -7,11 +7,11 @@
 
 ---
 
-Delsym - 54%
-Mucinex DM - 23%
-Robitussin - 15%
-Safe Tussin DM - 4%
-NyQuil - 3%
-Tukol Cough & Cold - 1%
+[[Delsym]] - 54%
+[[Mucinex DM]] - 23%
+[[Robitussin]] - 15%
+[[Safe Tussin DM]] - 4%
+[[NyQuil]] - 3%
+[[Tukol Cough & Cold]] - 1%
 
 Recommendations per Month: 2,315,190

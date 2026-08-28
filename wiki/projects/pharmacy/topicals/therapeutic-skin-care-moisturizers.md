@@ -7,20 +7,20 @@
 
 ---
 
-CeraVe - 32%
-Aquaphor - 15%
-Eucerin - 12%
-Cetaphil - 11%
-Aveeno - 8%
-Neutrogena - 4%
-AmLactin - 3%
-Gold Bond - 3%
-L'Oréal Paris - 2%
-Lubriderm - 2%
-Nivea - 2%
-Vanicream - 2%
-Palmer's - 2%
-Vaseline - 1%
-La Roche-Posay - 1%
+[[CeraVe]] - 32%
+[[Aquaphor]] - 15%
+[[Eucerin]] - 12%
+[[Cetaphil]] - 11%
+[[Aveeno]] - 8%
+[[Neutrogena]] - 4%
+[[AmLactin]] - 3%
+[[Gold Bond]] - 3%
+[[L'Oréal Paris]] - 2%
+[[Lubriderm]] - 2%
+[[Nivea]] - 2%
+[[Vanicream]] - 2%
+[[Palmer's]] - 2%
+[[Vaseline]] - 1%
+[[La Roche-Posay]] - 1%
 
 Recommendations per Month: 1,467,857

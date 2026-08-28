@@ -7,9 +7,9 @@
 
 ---
 
-MiraLAX - 63%
-Dulcolax - 27%
-Fleet - 5%
-Phillips' - 5%
+[[MiraLAX]] - 63%
+[[Dulcolax]] - 27%
+[[Fleet]] - 5%
+[[Phillips']] - 5%
 
 Recommendations per Month: 1,881,590

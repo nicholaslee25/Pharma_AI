@@ -7,10 +7,10 @@
 
 ---
 
-AZO Cranberry - 61%
-Nature Made - 21%
-Nature's Bounty - 8%
-CranRx - 7%
-Nature's Truth - 4%
+[[AZO Cranberry]] - 61%
+[[Nature Made]] - 21%
+[[Nature's Bounty]] - 8%
+[[CranRx]] - 7%
+[[Nature's Truth]] - 4%
 
 Recommendations per Month: 908,824

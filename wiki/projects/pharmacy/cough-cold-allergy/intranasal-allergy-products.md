@@ -7,10 +7,10 @@
 
 ---
 
-FLONASE Allergy Relief - 77%
-Nasacort Allergy 24HR - 11%
-Astepro Allergy - 6%
-Nasonex 24HR Allergy - 4%
-Nasalcrom - 2%
+[[FLONASE Allergy Relief]] - 77%
+[[Nasacort Allergy 24HR]] - 11%
+[[Astepro Allergy]] - 6%
+[[Nasonex 24HR Allergy]] - 4%
+[[NasalCrom]] - 2%
 
 Recommendations per Month: 1,483,613

@@ -7,11 +7,11 @@
 
 ---
 
-Dramamine Motion Sickness - 62%
-Bonine - 24%
-Sea-Band Nausea Relief - 6%
-Emetrol - 5%
-Motioneaze - 2%
-Nauzene - 1%
+[[Dramamine Motion Sickness]] - 62%
+[[Bonine]] - 24%
+[[Sea-Band Nausea Relief]] - 6%
+[[Emetrol]] - 5%
+[[Motioneaze]] - 2%
+[[Nauzene]] - 1%
 
 Recommendations per Month: 1,384,034

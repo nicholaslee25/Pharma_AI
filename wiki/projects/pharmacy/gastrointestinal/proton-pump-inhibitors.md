@@ -7,9 +7,9 @@
 
 ---
 
-Prilosec OTC - 54%
-Nexium 24HR - 29%
-Prevacid 24HR - 14%
-Zegerid OTC - 3%
+[[Prilosec OTC]] - 54%
+[[Nexium 24hr]] - 29%
+[[Prevacid 24hr]] - 14%
+[[Zegerid OTC]] - 3%
 
 Recommendations per Month: 1,877,521

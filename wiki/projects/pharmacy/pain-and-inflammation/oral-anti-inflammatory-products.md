@@ -7,9 +7,9 @@
 
 ---
 
-Advil - 45%
-Aleve - 24%
-Motrin - 24%
-Bayer - 7%
+[[Advil]] - 45%
+[[Aleve]] - 24%
+[[Motrin]] - 24%
+[[Bayer]] - 7%
 
 Recommendations per Month: 3,229,412

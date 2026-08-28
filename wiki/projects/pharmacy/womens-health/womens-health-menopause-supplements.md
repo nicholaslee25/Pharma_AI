@@ -7,8 +7,8 @@
 
 ---
 
-Estroven - 50%
-One A Day Women's Menopause Formula - 35%
-Amberen Multi-Symptom Menopause Relief - 15%
+[[Estroven]] - 50%
+[[One A Day Women's Menopause Formula]] - 35%
+[[Amberen Multi-Symptom Menopause Relief]] - 15%
 
 Recommendations per Month: 963,025

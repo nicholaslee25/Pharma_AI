@@ -7,12 +7,12 @@
 
 ---
 
-Metamucil - 46%
-Benefiber - 26%
-FiberCon - 11%
-Nature Made Fiber Gummies - 7%
-Citrucel - 6%
-Phillips' Fiber Good Gummies - 2%
-vitafusion Fiber Well - 2%
+[[Metamucil]] - 46%
+[[Benefiber]] - 26%
+[[FiberCon]] - 11%
+[[Nature Made Fiber Gummies]] - 7%
+[[Citrucel]] - 6%
+[[Phillips' Fiber Good Gummies]] - 2%
+[[Vitafusion Fiber Well]] - 2%
 
 Recommendations per Month: 1,317,227

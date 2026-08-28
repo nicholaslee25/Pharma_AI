@@ -7,12 +7,12 @@
 
 ---
 
-Nature Made - 48%
-Nature's Bounty - 19%
-Natrol Omega-3 Fish Oil - 12%
-Nordic Naturals - 12%
-Oceanblue Omega-3 Minicaps - 4%
-Schiff MegaRed - 3%
-Sundown - 2%
+[[Nature Made]] - 48%
+[[Nature's Bounty]] - 19%
+[[Natrol Omega-3 Fish Oil]] - 12%
+[[nordic naturals]] - 12%
+[[Oceanblue Omega-3 Minicaps]] - 4%
+[[Schiff MegaRed]] - 3%
+[[Sundown]] - 2%
 
 Recommendations per Month: 1,181,723

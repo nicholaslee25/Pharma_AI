@@ -7,12 +7,12 @@
 
 ---
 
-Midol - 33%
-Advil - 24%
-Motrin - 17%
-Aleve - 14%
-Pamprin - 6%
-Thermacare - 3%
-Tylenol - 3%
+[[Midol]] - 33%
+[[Advil]] - 24%
+[[Motrin]] - 17%
+[[Aleve]] - 14%
+[[Pamprin]] - 6%
+[[ThermaCare]] - 3%
+[[Tylenol]] - 3%
 
 Recommendations per Month: 1,008,403

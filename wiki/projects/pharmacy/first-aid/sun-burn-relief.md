@@ -7,13 +7,13 @@
 
 ---
 
-Solarcaine - 36%
-Dermoplast - 16%
-Neutrogena - 16%
-Banana Boat - 13%
-Alocane - 11%
-Hawaiian Tropic - 5%
-Panama Jack - 2%
-SunBurnt - 1%
+[[Solarcaine]] - 36%
+[[Dermoplast]] - 16%
+[[Neutrogena]] - 16%
+[[Banana Boat]] - 13%
+[[Alocane]] - 11%
+[[Hawaiian Tropic]] - 5%
+[[Panama Jack]] - 2%
+[[SunBurnt]] - 1%
 
 Recommendations per Month: 992,647

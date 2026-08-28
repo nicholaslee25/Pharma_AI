@@ -7,11 +7,11 @@
 
 ---
 
-Prevagen - 50%
-Neuriva Brain Health - 24%
-Focus Factor - 8%
-Natrol Cognium - 8%
-ONNIT Alpha BRAIN - 5%
-Qunol Brain Health - 5%
+[[Prevagen]] - 50%
+[[Neuriva Brain Health]] - 24%
+[[Focus Factor]] - 8%
+[[Natrol Cognium]] - 8%
+[[ONNIT Alpha BRAIN]] - 5%
+[[Qunol Brain Health]] - 5%
 
 Recommendations per Month: 802,941

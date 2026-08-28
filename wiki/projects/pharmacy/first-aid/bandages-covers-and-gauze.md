@@ -7,9 +7,9 @@
 
 ---
 
-Band-Aid - 74%
-Nexcare - 19%
-Curad - 5%
-Welly - 2%
+[[Band-Aid]] - 74%
+[[Nexcare]] - 19%
+[[Curad]] - 5%
+[[Welly]] - 2%
 
 Recommendations per Month: 1,907,143

@@ -7,14 +7,14 @@
 
 ---
 
-Cepacol - 30%
-Chloraseptic - 28%
-Ricola - 14%
-HALLS - 8%
-Fisherman's Friend - 5%
-Luden's - 5%
-Mucinex Instasoothe - 4%
-Sucrets - 3%
-Vicks VapoCOOL Sore Throat - 3%
+[[Cepacol]] - 30%
+[[Chloraseptic]] - 28%
+[[Ricola]] - 14%
+[[Halls]] - 8%
+[[Fisherman's Friend]] - 5%
+[[Luden's]] - 5%
+[[Mucinex InstaSoothe]] - 4%
+[[Sucrets]] - 3%
+[[Vicks VapoCOOL Sore Throat]] - 3%
 
 Recommendations per Month: 2,095,588

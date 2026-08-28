@@ -7,9 +7,9 @@
 
 ---
 
-Sambucol Black Elderberry Cold & Flu Relief - 40%
-Boiron Oscillococcinum - 38%
-Hyland Complete Flu Care - 18%
-Umcka Cold+Flu - 4%
+[[Sambucol Black Elderberry Cold & Flu Relief]] - 40%
+[[Boiron Oscillococcinum]] - 38%
+[[Hyland Complete Flu Care]] - 18%
+[[Umcka Cold+Flu]] - 4%
 
 Recommendations per Month: 1,242,227

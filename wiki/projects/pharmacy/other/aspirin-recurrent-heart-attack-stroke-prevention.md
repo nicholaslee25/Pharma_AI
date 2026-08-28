@@ -7,9 +7,9 @@
 
 ---
 
-Bayer Aspirin - 61%
-Ecotrin - 18%
-St. Joseph Low Dose Aspirin - 18%
-VAZALORE - 3%
+[[Bayer Aspirin]] - 61%
+[[Ecotrin]] - 18%
+[[St. Joseph Low Dose Aspirin]] - 18%
+[[VAZALORE]] - 3%
 
 Recommendations per Month: 1,395,378

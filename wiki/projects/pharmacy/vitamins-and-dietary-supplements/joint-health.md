@@ -7,10 +7,10 @@
 
 ---
 
-Osteo Bi-Flex - 66%
-Cosamin DS - 14%
-Qunol - 7%
-Schiff Move Free - 7%
-Instaflex - 6%
+[[Osteo Bi-Flex]] - 66%
+[[Cosamin DS]] - 14%
+[[Qunol]] - 7%
+[[Schiff Move Free]] - 7%
+[[Instaflex]] - 6%
 
 Recommendations per Month: 770,798

@@ -7,16 +7,16 @@
 
 ---
 
-Cepacol - 25%
-Halls - 19%
-Ricola - 18%
-Chloraseptic - 13%
-Fisherman's Friend - 5%
-Luden's - 5%
-Honees - 4%
-Burt's Bees - 3%
-Mucinex InstaSoothe - 3%
-Sucrets - 3%
-Vicks VapoCOOL - 2%
+[[Cepacol]] - 25%
+[[Halls]] - 19%
+[[Ricola]] - 18%
+[[Chloraseptic]] - 13%
+[[Fisherman's Friend]] - 5%
+[[Luden's]] - 5%
+[[Honees]] - 4%
+[[Burt's Bees]] - 3%
+[[Mucinex InstaSoothe]] - 3%
+[[Sucrets]] - 3%
+[[Vicks VapoCOOL]] - 2%
 
 Recommendations per Month: 1,892,647

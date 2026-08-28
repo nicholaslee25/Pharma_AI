@@ -7,10 +7,10 @@
 
 ---
 
-Sensodyne - 65%
-Colgate Sensitive - 15%
-Crest Gum & Sensitivity - 12%
-Arm & Hammer Sensitive - 5%
-Tom's of Maine - 3%
+[[Sensodyne]] - 65%
+[[Colgate Sensitive]] - 15%
+[[Crest Gum & Sensitivity]] - 12%
+[[Arm & Hammer Sensitive]] - 5%
+[[Tom's of Maine]] - 3%
 
 Recommendations per Month: 1,030,462

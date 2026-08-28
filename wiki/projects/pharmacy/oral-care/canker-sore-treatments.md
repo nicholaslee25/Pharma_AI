@@ -7,11 +7,11 @@
 
 ---
 
-Orajel - 43%
-Anbesol - 22%
-Kank-A - 14%
-DenTek Canker Relief Canker Sore Patches - 9%
-Curoxen Mouth Sore Relief - 7%
-GUM Canker-X - 5%
+[[Orajel]] - 43%
+[[Anbesol]] - 22%
+[[Kank-A]] - 14%
+[[DenTek Canker Relief Canker Sore Patches]] - 9%
+[[Curoxen Mouth Sore Relief]] - 7%
+[[GUM Canker-X]] - 5%
 
 Recommendations per Month: 778,992

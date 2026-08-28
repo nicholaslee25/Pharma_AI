@@ -7,11 +7,11 @@
 
 ---
 
-Lotrimin - 49%
-Lamisil AT - 28%
-Gold Bond - 9%
-Tinactin - 6%
-FUNGICURE - 5%
-Zeasorb - 3%
+[[Lotrimin]] - 49%
+[[Lamisil AT]] - 28%
+[[Gold Bond]] - 9%
+[[Tinactin]] - 6%
+[[FUNGICURE]] - 5%
+[[Zeasorb]] - 3%
 
 Recommendations per Month: 916,387
