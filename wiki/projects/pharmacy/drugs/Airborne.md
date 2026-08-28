@@ -19,7 +19,8 @@ No FDA drug label exists — Airborne is a **dietary supplement**, not an FDA-ap
 - Echinacea and ginger are included, though their specific doses within the "herbal blend" aren't disclosed on the label (proprietary blend) — this limits how confidently any single herbal ingredient's evidence can be applied to Airborne specifically
 
 ## Cons
-- **Airborne was the subject of a well-publicized 2008 false-advertising class-action settlement** ($23.3 million) over unsubstantiated cold-prevention claims — this is a genuinely brand-specific historical fact, not an ingredient-level one, and worth flagging prominently since it directly bears on how much weight to put on this brand's marketing claims versus the underlying nutrient evidence
+- **Airborne was the subject of a well-publicized 2008 false-advertising class-action settlement** ($23.3 million, part of a total $30 million FTC-related settlement fund) over unsubstantiated cold-prevention claims — the FTC specifically found the company's "clinically proven to treat colds" claim rested on an unreliable, non-peer-reviewed 2-person study. This is a genuinely brand-specific historical fact, not an ingredient-level one, and worth flagging prominently since it directly bears on how much weight to put on this brand's marketing claims versus the underlying nutrient evidence
+- **A second, more recent (2026) class-action lawsuit** alleges Airborne's front-of-package vitamin C dosage claims mislead consumers into believing the displayed amount applies to each individual gummy/tablet, when it actually reflects the full multi-unit serving size — directly relevant to [[Airborne Vitamin C]], a separately-tracked SKU in this database's High-Potency Vitamin C Supplements category
 - No brand-specific clinical trial for Airborne itself was identified; see [[vitamin-c]] and [[zinc]] for the actual ingredient-level evidence, which shows only modest effects (vitamin C: ~8% cold-duration reduction in adults; zinc: more meaningful effect if started within 24-48h of symptom onset, per those pages) — not the strong prevention effect implied by "Immune Support" marketing
 - Proprietary blend dosing (echinacea, ginger, amino acids) is not disclosed, so individual ingredient doses can't be checked against their own evidence bases
 
@@ -38,4 +39,6 @@ No ingredient-page discrepancy — Airborne's vitamin C and zinc content don't c
 ## Related
 - [[vitamin-c]]
 - [[zinc]]
+- [[Airborne Vitamin C]]
+- [[Airborne + Probiotic]]
 - [[pharmacy overview]]
