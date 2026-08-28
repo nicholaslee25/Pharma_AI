@@ -61,6 +61,8 @@ Cranberry Supplements (Pharmacy Times 2026 OTC Guide, ~1,700 pharmacists surveye
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 AZO Cranberry, Nature Made, Nature's Bounty, CranRx, and Nature's Truth all appear in this database's Cranberry Supplements category; none of their specific PAC content/dose was independently pulled from a label in this pass — per the Cochrane review, PAC dose comparisons remain unclear/very-low-certainty even in the primary literature, so this is a genuine evidence gap industry-wide, not just a gap in this pass's research.
 
+**Sundown Cranbury Gummies confirmed 2026-08-28** (Women's Health/Urinary Health, 2% share; the database's own filename appears to carry a "Cranbury"/"Cranberry" typo — the actual retail product is "Sundown Naturals Cranberry Gummies," flagged rather than silently corrected) — 500mg Pacran cranberry concentrate powder (50:1 concentrate, stated equivalent to 25,000mg fresh cranberries) per gummy. No PAC content disclosed on the label, the same industry-wide gap noted above. See `drugs/Sundown Cranbury Gummies.md`.
+
 ## Related
 - [[pharmacy overview]]
 - [[phenazopyridine]]

@@ -43,8 +43,11 @@ Per this database's own subcategory file: **Tylenol PM — 65%**, **Advil PM —
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 **Tylenol PM confirmed 2026-08-27:** acetaminophen 500mg + diphenhydramine HCl 25mg, per DailyMed. **Advil PM confirmed:** ibuprofen 200mg + diphenhydramine citrate 38mg (molar-equivalent to ~25mg diphenhydramine HCl — a different salt form, not a different dose of the active molecule). **Aleve PM confirmed:** naproxen sodium 220mg + diphenhydramine HCl 25mg. See `drugs/Tylenol PM.md`, `drugs/Advil PM.md`, `drugs/Aleve PM.md`.
 
+**Single-ingredient (non-combination) sleep aids, added 2026-08-28 (Other/Sleep Aids Non-Melatonin brand-research pass):** **Unisom SleepGels confirmed** diphenhydramine HCl 50mg — one of TWO chemically distinct active ingredients sold under the single "Unisom" brand name; see [[doxylamine]] for Unisom SleepTabs (doxylamine succinate 25mg), a real one-brand-two-molecules finding. **Vick's ZzzQuil confirmed** diphenhydramine HCl (liquid, 50mg/dose per label) — note the separate "ZzzQuil Pure Zzzs" sub-line is melatonin-based (a different active ingredient entirely, tracked under [[melatonin]]/Melatonin Sleep Aids elsewhere in this database, not this Non-Melatonin category), a real same-brand-name-different-mechanism split. **Simply Sleep confirmed** diphenhydramine HCl 25mg (from the makers of Tylenol PM, but explicitly contains no analgesic — single-ingredient despite the brand-family association). **Sominex confirmed** diphenhydramine HCl 50mg (Sominex Max strength). See `drugs/Unisom.md`, `drugs/Vick's ZzzQuil.md`, `drugs/Simply Sleep.md`, `drugs/Sominex.md`.
+
 ## Related
 - [[topical-diphenhydramine]]
+- [[doxylamine]]
 - [[second-generation-antihistamines]]
 - [[acetaminophen]]
 - [[ibuprofen]]

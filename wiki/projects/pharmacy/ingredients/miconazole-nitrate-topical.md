@@ -35,6 +35,12 @@ Not for children under 2 without doctor guidance, per Zeasorb AF's own label —
 ## Formulation Caveat
 Miconazole nitrate topical products in this category frequently come paired, under the same brand name, with a plain (non-antifungal) moisture-absorbing powder line with no active ingredient at all — see the [[Zeasorb]] and [[Gold Bond]] brand pages for two confirmed examples of this exact pattern.
 
+## Vaginal Indication (Vulvovaginal Candidiasis) — added 2026-08-28, Women's Health/Yeast Infection brand-research pass
+Miconazole nitrate is also FDA-monograph-approved as a **vaginal** antifungal (a separate indication and dose form from the tinea-cruris/tinea-pedis skin use documented above, but the same molecule and mechanism). Confirmed dose forms via DailyMed: **Monistat 1** (1200mg vaginal insert, single dose, + 2% external cream for itch), **Monistat 3** (4% vaginal cream, 3 applicators, or suppository form), **Monistat 7** (2% vaginal cream, 7 applicators) — three different concentrations/durations under one brand, with FDA's own label noting most women get some improvement in 1 day but complete relief may take up to 7 days even with the 1-day product, a real expectations-vs.-product-name tension worth flagging (a "1-day" product whose own label anticipates up to a week for full relief). **Lagicam confirmed** miconazole nitrate 4% (200mg), a 3-day vaginal treatment, direct generic-equivalent formulation to Monistat 3. Note also a **Vagisil-branded "Vagistat"** product confirmed as miconazole nitrate cream — genuinely different from the classic **Vagistat-1** product (tioconazole 6.5%, a different azole molecule, see [[Vagistat]] brand page) — the "Vagistat" name spans two different active ingredients depending on manufacturer, a real brand-identity ambiguity flagged on both pages.
+
+## Vaginal Efficacy Evidence
+Per FDA label: tioconazole/miconazole-class vaginal azoles are considered effective single-course treatments for uncomplicated vulvovaginal candidiasis; this database did not independently pull a miconazole-specific vaginal-route Cochrane review in this pass (the topical-skin Cochrane evidence above is a different indication and should not be assumed to transfer numerically to the vaginal route).
+
 ## Pharmacy Times Context (recommendation share — NOT efficacy)
 Miconazole nitrate 2% drives part of [[Gold Bond]]'s 9% share of Jock Itch/Antifungal Products (Anti-Fungal Spray/Jock Itch Cream sub-line) and [[Zeasorb]]'s 3% share (Zeasorb AF sub-line) — both brands also separately sell a non-antifungal plain powder line under closely related naming, a real recurring source of potential consumer confusion in this category.
 
@@ -43,6 +49,7 @@ Miconazole nitrate 2% drives part of [[Gold Bond]]'s 9% share of Jock Itch/Antif
 ## Brands Using This Ingredient (in this database — formulation not individually verified per SKU)
 **[[Gold Bond]]** — Anti-Fungal Spray/Jock Itch Cream sub-line confirmed miconazole nitrate 2%, distinct from the brand's non-antifungal Medicated Powder line (see `drugs/Gold Bond.md`).
 **[[Zeasorb]]** confirmed 2026-08-27 — Zeasorb AF/Athletes Foot/Jock Itch sub-line, miconazole nitrate 2%, distinct from the brand's non-antifungal Excess Moisture Control/Prevention powder line (see `drugs/Zeasorb.md`).
+**Monistat, Lagicam, and Vagisil-brand "Vagistat"** confirmed 2026-08-28 — see Vaginal Indication section above for concentrations/dose forms. See `drugs/Monistat.md`, `drugs/Monistat Complete Care.md`, `drugs/Lagicam.md`, `drugs/Vagistat.md`.
 
 ## Related
 - [[clotrimazole]]
