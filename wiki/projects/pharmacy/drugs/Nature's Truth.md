@@ -1,8 +1,9 @@
 # Nature's Truth
 
 **Type:** Drug
-**Status:** Needs research
-**Last updated:** 2026-08-23
+**Status:** Researched — see Verification Status
+**Verification Status:** AI-compiled from primary sources, unverified
+**Last updated:** 2026-08-28
 
 ---
 
@@ -15,19 +16,33 @@ Iron Supplements - 3%
 Magnesium Supplements - 3%
 
 ## Overview
-Appears across several product categories under this single house-brand filename (see Appears In above). Cranberry Supplements, Garlic Supplements, Iron Supplements, and Magnesium Supplements are each covered at the general ingredient-class level by ingredients/cranberry.md, ingredients/garlic.md, ingredients/iron.md, and ingredients/magnesium.md respectively, but none is individually named with Nature's-Truth-specific data in either source document. Flax Seed Oil Supplements and Herbal Supplement Brand are not covered by any ingredient page in this database. Formulation not verified per SKU.
+Nature's Truth positions itself as a 40+-year manufacturer that controls raw-material sourcing, in-house lab testing, and formulation under one roof, and states it has passed a Underwriters Laboratories (UL) facility-certification audit at a 100% score, with each raw-material lot quarantined/verified and finished products tested (including a "deconstruction" assay to confirm label-claimed identity/potency/purity) before release. This is a real, brand-stated quality process, though it is **self-reported by the company rather than confirmed via an independent public database** (no ConsumerLab test results or USP Verified Mark listing for this brand were located in this pass — unlike [[Nature Made]], which has independently-published USP data). Category-specific ingredient evidence: Cranberry, Garlic, Iron, and Magnesium Supplements lines are each covered at the general ingredient-class level by [[cranberry]], [[garlic]], [[iron]], and [[magnesium]] respectively, but none names Nature's-Truth-specific data. Flax Seed Oil Supplements and Herbal Supplement Brand have no dedicated ingredient page in this database.
 
 ## Pros
-(TBD)
+- Brand states in-house raw-material testing and a passed UL facility-certification audit — a real claimed quality process, more documentation than several smaller brands in this same category set (Botanic Choice, Nature's Blend, NOW) which had no located quality-process information at all
+- Spans multiple categories with real underlying ingredient evidence (cranberry, garlic, iron, magnesium — see linked pages)
 
 ## Cons
-(TBD)
+- Quality claims (UL audit score, in-house testing protocol) are **company-published, not independently verified in a public third-party database** in this pass — this is the same proprietary-verification gap this database flags as a common, legitimate supplement-industry criticism; contrast with [[Nature Made]]'s independently-confirmed USP Verified status
+- No Nature's-Truth-specific clinical trial was located for any of its six tracked product lines — all efficacy evidence is at the general-ingredient level
+- Flax Seed Oil Supplements and Herbal Supplement Brand categories have no dedicated ingredient evidence page in this database at all
 
 ## Use Cases
-(TBD)
+Varies by product line — general nutritional supplementation across cranberry, flax seed oil, garlic, herbal supplements, iron, and magnesium. See each category's linked ingredient page for the specific evidence-based use case.
 
 ## Allergies / Warnings
-(TBD)
+Varies by specific product/SKU — check the individual product's Supplement Facts panel. General category-level allergy/warning information is in each linked ingredients/ page (cranberry, garlic, iron, magnesium).
 
 ## Symptoms Treated
-(TBD)
+Not applicable in the drug sense — dietary supplements are not FDA-indicated to treat symptoms or disease; see each linked ingredient page for the specific evidence-supported use.
+
+## Brand-Specific Alignment Check
+No hard contradiction found, but a real verification gap: Nature's Truth's quality claims (UL-certified facility, in-house lot testing) come only from the company's own site — this pass found no independent confirmation (ConsumerLab, USP Verified Mark database) either supporting or contradicting them. Flagged as a data gap, not a finding of wrongdoing.
+
+## Related
+- [[cranberry]]
+- [[garlic]]
+- [[iron]]
+- [[magnesium]]
+- [[Nature Made]]
+- [[pharmacy overview]]
